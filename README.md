@@ -1,6 +1,6 @@
 # Data Analysis Portfolio
 
-👋 Hi, I’m Maria Moreno
+👋 Hi, I’m Maria Antonia Moreno
 
 I am an entry-level IT Data Analyst with hands-on experience using
 Excel, SQL, Python, and Power BI to analyze IT operations data and
