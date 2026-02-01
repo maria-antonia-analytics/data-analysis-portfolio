@@ -1,1 +1,19 @@
-Project in progress 🚧
+# Excel – IT Ticket Analysis
+
+## 🎯 Objective
+Analyze IT support ticket data to identify bottlenecks and improve resolution time.
+
+## 🔧 Tools Used
+- Microsoft Excel
+- Pivot Tables
+- Charts
+- KPIs
+
+## 📊 Key Questions
+- Which ticket types take the longest to resolve?
+- What priority level generates the most tickets?
+- Are SLAs being met?
+
+## 📌 Status
+In progress 🚧
+
