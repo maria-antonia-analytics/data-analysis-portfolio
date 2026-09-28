@@ -13,10 +13,13 @@ support data-driven decisions.
 - Power BI (DAX, Dashboards)
 
 ## 📊 Projects
-- Excel: IT Support Ticket Analysis
-- SQL: Incident & User Analysis
-- Python: System Log & Performance Analysis
-- Power BI: IT Operations Dashboard
+
+| # | Project | Tools | Status | Highlights |
+|---|---|---|---|---|
+| 1 | [IT Support Ticket Analysis](01-excel-it-ticket-analysis) | Excel | ✅ Complete | 1,200 tickets analyzed. Found that Network/Hardware tickets drive 62% of SLA breaches, with recommendations to lift SLA compliance from 64.5% to about 77% |
+| 2 | Incident & User Analysis | SQL | 🔜 Coming soon | |
+| 3 | System Log & Performance Analysis | Python | 🔜 Coming soon | |
+| 4 | IT Operations Dashboard | Power BI | 🔜 Coming soon | |
 
 ## 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/maria-a-moreno/
