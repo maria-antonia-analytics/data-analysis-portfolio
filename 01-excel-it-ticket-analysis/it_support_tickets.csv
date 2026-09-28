@@ -1,0 +1,1201 @@
+Ticket_ID,Created,Resolved,Category,Priority,Channel,Assigned_Team,CSAT
+TCK-10001,2026-01-01 08:32,2026-01-02 06:30,Hardware,High,Self-Service Portal,Tier 2 - Infrastructure,3.0
+TCK-10002,2026-01-01 11:08,2026-01-01 17:29,Email,High,Chat,Tier 1 - Service Desk,5.0
+TCK-10003,2026-01-01 12:03,2026-01-03 21:19,Software,Low,Self-Service Portal,Tier 2 - Applications,3.0
+TCK-10004,2026-01-01 13:15,2026-01-03 07:21,Hardware,Medium,Email,Tier 2 - Infrastructure,4.0
+TCK-10005,2026-01-01 15:16,2026-01-07 14:14,Software,Low,Email,Tier 2 - Applications,1.0
+TCK-10006,2026-01-01 18:00,2026-01-08 07:21,Hardware,Low,Phone,Tier 2 - Infrastructure,1.0
+TCK-10007,2026-01-01 18:07,2026-01-01 22:35,Software,Critical,Email,Tier 2 - Applications,5.0
+TCK-10008,2026-01-01 18:18,2026-01-02 00:20,Access & Accounts,Medium,Phone,Tier 1 - Service Desk,4.0
+TCK-10009,2026-01-02 07:30,2026-01-02 22:03,Access & Accounts,Low,Self-Service Portal,Tier 1 - Service Desk,4.0
+TCK-10010,2026-01-02 07:53,2026-01-03 12:17,Software,Low,Email,Tier 2 - Applications,4.0
+TCK-10011,2026-01-02 09:19,2026-01-02 21:07,Email,Medium,Self-Service Portal,Tier 1 - Service Desk,5.0
+TCK-10012,2026-01-02 11:50,2026-01-02 15:02,Access & Accounts,High,Self-Service Portal,Tier 1 - Service Desk,5.0
+TCK-10013,2026-01-02 16:33,2026-01-05 00:09,Network,Medium,Chat,Tier 2 - Infrastructure,3.0
+TCK-10014,2026-01-02 16:59,2026-01-03 15:57,Access & Accounts,Medium,Phone,Tier 1 - Service Desk,4.0
+TCK-10015,2026-01-02 17:04,2026-01-04 11:11,Access & Accounts,Low,Phone,Tier 1 - Service Desk,4.0
+TCK-10016,2026-01-03 16:01,2026-01-03 22:58,Hardware,Critical,Email,Tier 2 - Infrastructure,4.0
+TCK-10017,2026-01-04 17:12,2026-01-05 18:10,Hardware,Medium,Email,Tier 2 - Infrastructure,5.0
+TCK-10018,2026-01-05 08:54,2026-01-06 01:18,Software,Medium,Self-Service Portal,Tier 2 - Applications,5.0
+TCK-10019,2026-01-05 08:57,2026-01-07 03:07,Access & Accounts,Low,Self-Service Portal,Tier 1 - Service Desk,4.0
+TCK-10020,2026-01-05 09:17,2026-01-12 09:30,Network,Low,Self-Service Portal,Tier 2 - Infrastructure,1.0
+TCK-10021,2026-01-05 10:10,2026-01-05 18:04,Access & Accounts,Medium,Self-Service Portal,Tier 1 - Service Desk,3.0
+TCK-10022,2026-01-05 10:35,2026-01-07 04:57,Access & Accounts,Low,Email,Tier 1 - Service Desk,2.0
+TCK-10023,2026-01-05 16:52,2026-01-05 21:12,Access & Accounts,Medium,Self-Service Portal,Tier 1 - Service Desk,5.0
+TCK-10024,2026-01-05 18:01,2026-01-05 23:28,Access & Accounts,Medium,Chat,Tier 1 - Service Desk,5.0
+TCK-10025,2026-01-05 18:42,2026-01-06 12:30,Software,Medium,Email,Tier 2 - Applications,4.0
+TCK-10026,2026-01-06 11:52,2026-01-14 13:41,Network,Low,Self-Service Portal,Tier 2 - Infrastructure,1.0
+TCK-10027,2026-01-06 11:58,2026-01-07 14:33,Access & Accounts,Low,Email,Tier 1 - Service Desk,4.0
+TCK-10028,2026-01-06 12:54,2026-01-12 18:32,Network,Low,Phone,Tier 2 - Infrastructure,1.0
+TCK-10029,2026-01-06 13:44,2026-01-09 12:13,Software,High,Phone,Tier 2 - Applications,2.0
+TCK-10030,2026-01-06 18:12,2026-01-07 08:57,Network,High,Email,Tier 2 - Infrastructure,4.0
+TCK-10031,2026-01-06 18:20,2026-01-07 21:02,Network,Medium,Phone,Tier 2 - Infrastructure,4.0
+TCK-10032,2026-01-07 07:25,2026-01-07 21:20,Network,Medium,Email,Tier 2 - Infrastructure,4.0
+TCK-10033,2026-01-07 07:58,2026-01-07 10:11,Access & Accounts,Critical,Self-Service Portal,Tier 1 - Service Desk,5.0
+TCK-10034,2026-01-07 09:05,2026-01-09 11:06,Hardware,Low,Phone,Tier 2 - Infrastructure,2.0
+TCK-10035,2026-01-07 09:16,2026-01-08 18:16,Hardware,Medium,Phone,Tier 2 - Infrastructure,3.0
+TCK-10036,2026-01-07 10:08,2026-01-07 16:07,Software,High,Phone,Tier 2 - Applications,4.0
+TCK-10037,2026-01-07 15:22,2026-01-09 02:22,Software,Medium,Email,Tier 2 - Applications,4.0
+TCK-10038,2026-01-07 15:30,2026-01-07 21:06,Access & Accounts,Medium,Self-Service Portal,Tier 1 - Service Desk,4.0
+TCK-10039,2026-01-08 08:37,2026-01-09 17:55,Hardware,Medium,Email,Tier 2 - Infrastructure,3.0
+TCK-10040,2026-01-08 11:25,2026-01-09 03:27,Access & Accounts,Low,Self-Service Portal,Tier 1 - Service Desk,4.0
+TCK-10041,2026-01-08 11:30,2026-01-08 20:18,Network,High,Chat,Tier 2 - Infrastructure,5.0
+TCK-10042,2026-01-08 11:38,2026-01-08 21:22,Network,High,Self-Service Portal,Tier 2 - Infrastructure,4.0
+TCK-10043,2026-01-08 12:27,2026-01-09 05:55,Software,Medium,Phone,Tier 2 - Applications,5.0
+TCK-10044,2026-01-08 13:36,2026-01-09 04:14,Software,Medium,Chat,Tier 2 - Applications,4.0
+TCK-10045,2026-01-08 15:09,2026-01-09 00:40,Software,Medium,Email,Tier 2 - Applications,4.0
+TCK-10046,2026-01-08 16:02,2026-01-09 01:21,Access & Accounts,Medium,Phone,Tier 1 - Service Desk,5.0
+TCK-10047,2026-01-08 17:23,2026-01-09 14:55,Software,Low,Phone,Tier 2 - Applications,4.0
+TCK-10048,2026-01-09 07:00,2026-01-10 02:39,Email,Medium,Email,Tier 1 - Service Desk,4.0
+TCK-10049,2026-01-09 08:29,2026-01-10 23:53,Hardware,High,Chat,Tier 2 - Infrastructure,3.0
+TCK-10050,2026-01-09 08:51,2026-01-09 12:27,Access & Accounts,High,Self-Service Portal,Tier 1 - Service Desk,5.0
+TCK-10051,2026-01-09 09:19,2026-01-09 23:19,Software,Medium,Email,Tier 2 - Applications,3.0
+TCK-10052,2026-01-09 10:11,2026-01-10 06:21,Network,Medium,Chat,Tier 2 - Infrastructure,3.0
+TCK-10053,2026-01-09 10:13,2026-01-12 15:27,Network,Low,Email,Tier 2 - Infrastructure,2.0
+TCK-10054,2026-01-09 11:14,2026-01-10 00:24,Access & Accounts,Medium,Email,Tier 1 - Service Desk,4.0
+TCK-10055,2026-01-09 14:59,2026-01-09 18:11,Software,High,Self-Service Portal,Tier 2 - Applications,4.0
+TCK-10056,2026-01-10 08:15,2026-01-11 09:45,Email,Low,Self-Service Portal,Tier 1 - Service Desk,5.0
+TCK-10057,2026-01-10 09:04,2026-01-11 22:47,Software,Low,Phone,Tier 2 - Applications,4.0
+TCK-10058,2026-01-10 10:49,2026-01-12 02:32,Access & Accounts,Low,Email,Tier 1 - Service Desk,3.0
+TCK-10059,2026-01-10 15:40,2026-01-11 04:38,Email,Medium,Phone,Tier 1 - Service Desk,5.0
+TCK-10060,2026-01-11 12:16,2026-01-13 02:14,Email,Low,Phone,Tier 1 - Service Desk,3.0
+TCK-10061,2026-01-11 13:20,2026-01-14 15:33,Hardware,Medium,Self-Service Portal,Tier 2 - Infrastructure,2.0
+TCK-10062,2026-01-11 15:18,2026-01-13 07:16,Email,Low,Email,Tier 1 - Service Desk,3.0
+TCK-10063,2026-01-11 15:43,2026-01-12 04:48,Software,Medium,Self-Service Portal,Tier 2 - Applications,4.0
+TCK-10064,2026-01-12 10:20,2026-01-12 15:04,Access & Accounts,High,Self-Service Portal,Tier 1 - Service Desk,5.0
+TCK-10065,2026-01-12 12:09,2026-01-14 09:18,Network,Medium,Email,Tier 2 - Infrastructure,3.0
+TCK-10066,2026-01-12 14:41,2026-01-12 16:47,Access & Accounts,High,Phone,Tier 1 - Service Desk,5.0
+TCK-10067,2026-01-12 14:55,2026-01-14 00:38,Software,Low,Chat,Tier 2 - Applications,4.0
+TCK-10068,2026-01-12 15:34,2026-01-16 16:11,Network,Medium,Chat,Tier 2 - Infrastructure,1.0
+TCK-10069,2026-01-12 16:02,2026-01-14 11:36,Network,Medium,Phone,Tier 2 - Infrastructure,4.0
+TCK-10070,2026-01-12 17:51,2026-01-13 16:49,Software,Medium,Self-Service Portal,Tier 2 - Applications,3.0
+TCK-10071,2026-01-12 18:17,2026-01-13 00:34,Email,High,Self-Service Portal,Tier 1 - Service Desk,4.0
+TCK-10072,2026-01-13 08:38,2026-01-14 03:56,Software,Medium,Self-Service Portal,Tier 2 - Applications,4.0
+TCK-10073,2026-01-13 09:10,2026-01-14 11:09,Software,Low,Phone,Tier 2 - Applications,2.0
+TCK-10074,2026-01-13 10:24,2026-01-15 00:08,Network,Medium,Self-Service Portal,Tier 2 - Infrastructure,4.0
+TCK-10075,2026-01-13 15:55,2026-01-14 16:47,Access & Accounts,Low,Email,Tier 1 - Service Desk,5.0
+TCK-10076,2026-01-13 16:59,2026-01-14 16:39,Hardware,Medium,Self-Service Portal,Tier 2 - Infrastructure,5.0
+TCK-10077,2026-01-14 12:28,2026-01-14 15:16,Software,Critical,Self-Service Portal,Tier 2 - Applications,5.0
+TCK-10078,2026-01-14 12:36,2026-01-14 21:29,Access & Accounts,Medium,Self-Service Portal,Tier 1 - Service Desk,5.0
+TCK-10079,2026-01-14 15:19,2026-01-15 15:35,Hardware,Medium,Phone,Tier 2 - Infrastructure,4.0
+TCK-10080,2026-01-14 17:25,2026-01-15 01:41,Hardware,High,Email,Tier 2 - Infrastructure,4.0
+TCK-10081,2026-01-14 18:30,2026-01-15 07:12,Access & Accounts,Medium,Chat,Tier 1 - Service Desk,5.0
+TCK-10082,2026-01-15 08:00,2026-01-16 07:15,Access & Accounts,Medium,Self-Service Portal,Tier 1 - Service Desk,3.0
+TCK-10083,2026-01-15 14:21,2026-01-16 23:55,Access & Accounts,Low,Email,Tier 1 - Service Desk,4.0
+TCK-10084,2026-01-16 09:04,2026-01-16 11:25,Access & Accounts,Critical,Self-Service Portal,Tier 1 - Service Desk,4.0
+TCK-10085,2026-01-16 12:49,2026-01-16 23:42,Network,High,Phone,Tier 2 - Infrastructure,5.0
+TCK-10086,2026-01-16 12:51,2026-01-16 18:07,Access & Accounts,Low,Self-Service Portal,Tier 1 - Service Desk,5.0
+TCK-10087,2026-01-17 09:45,2026-01-18 01:18,Software,Medium,Self-Service Portal,Tier 2 - Applications,5.0
+TCK-10088,2026-01-17 12:43,2026-01-17 15:47,Access & Accounts,High,Email,Tier 1 - Service Desk,4.0
+TCK-10089,2026-01-17 18:24,2026-01-17 22:06,Access & Accounts,Medium,Phone,Tier 1 - Service Desk,5.0
+TCK-10090,2026-01-18 08:45,2026-01-19 21:21,Email,Low,Self-Service Portal,Tier 1 - Service Desk,5.0
+TCK-10091,2026-01-18 09:20,2026-01-19 21:35,Software,Low,Self-Service Portal,Tier 2 - Applications,3.0
+TCK-10092,2026-01-18 15:36,2026-01-18 19:49,Access & Accounts,Low,Self-Service Portal,Tier 1 - Service Desk,5.0
+TCK-10093,2026-01-19 07:22,2026-01-20 12:24,Software,Medium,Email,Tier 2 - Applications,3.0
+TCK-10094,2026-01-19 09:02,2026-01-21 20:57,Software,Low,Email,Tier 2 - Applications,2.0
+TCK-10095,2026-01-19 09:41,2026-01-19 16:17,Access & Accounts,Low,Phone,Tier 1 - Service Desk,5.0
+TCK-10096,2026-01-19 11:09,2026-01-21 23:45,Software,Low,Self-Service Portal,Tier 2 - Applications,3.0
+TCK-10097,2026-01-19 15:00,2026-01-20 15:18,Access & Accounts,Low,Self-Service Portal,Tier 1 - Service Desk,4.0
+TCK-10098,2026-01-19 17:24,2026-01-20 21:03,Software,Medium,Phone,Tier 2 - Applications,5.0
+TCK-10099,2026-01-19 18:50,2026-01-20 21:32,Software,Medium,Self-Service Portal,Tier 2 - Applications,4.0
+TCK-10100,2026-01-20 07:45,2026-01-20 19:03,Software,Medium,Email,Tier 2 - Applications,4.0
+TCK-10101,2026-01-20 08:59,2026-01-23 14:02,Hardware,Low,Self-Service Portal,Tier 2 - Infrastructure,3.0
+TCK-10102,2026-01-20 10:01,2026-01-20 20:15,Hardware,High,Email,Tier 2 - Infrastructure,5.0
+TCK-10103,2026-01-20 10:15,2026-01-22 16:16,Network,Low,Email,Tier 2 - Infrastructure,3.0
+TCK-10104,2026-01-20 11:29,2026-01-22 01:39,Network,Medium,Phone,Tier 2 - Infrastructure,3.0
+TCK-10105,2026-01-20 11:55,2026-01-21 12:26,Access & Accounts,Low,Email,Tier 1 - Service Desk,3.0
+TCK-10106,2026-01-20 13:31,2026-01-20 18:17,Software,Critical,Phone,Tier 2 - Applications,4.0
+TCK-10107,2026-01-20 15:44,2026-01-21 11:53,Hardware,Medium,Self-Service Portal,Tier 2 - Infrastructure,4.0
+TCK-10108,2026-01-20 18:10,2026-01-21 08:41,Hardware,Medium,Self-Service Portal,Tier 2 - Infrastructure,5.0
+TCK-10109,2026-01-20 18:48,2026-01-21 04:49,Software,Medium,Chat,Tier 2 - Applications,5.0
+TCK-10110,2026-01-21 08:20,2026-01-22 15:07,Access & Accounts,Low,Phone,Tier 1 - Service Desk,4.0
+TCK-10111,2026-01-21 08:53,2026-01-21 19:56,Email,Medium,Self-Service Portal,Tier 1 - Service Desk,4.0
+TCK-10112,2026-01-21 10:01,2026-01-22 06:55,Network,Medium,Email,Tier 2 - Infrastructure,4.0
+TCK-10113,2026-01-21 12:12,2026-01-21 19:34,Email,Medium,Chat,Tier 1 - Service Desk,5.0
+TCK-10114,2026-01-21 12:58,2026-01-22 16:50,Software,Medium,Phone,Tier 2 - Applications,4.0
+TCK-10115,2026-01-21 13:26,2026-01-21 17:02,Software,High,Phone,Tier 2 - Applications,5.0
+TCK-10116,2026-01-21 14:24,2026-01-21 17:10,Access & Accounts,High,Self-Service Portal,Tier 1 - Service Desk,5.0
+TCK-10117,2026-01-21 16:06,2026-01-26 00:08,Hardware,Low,Self-Service Portal,Tier 2 - Infrastructure,1.0
+TCK-10118,2026-01-21 17:52,2026-01-26 06:38,Network,Medium,Email,Tier 2 - Infrastructure,1.0
+TCK-10119,2026-01-21 18:49,2026-01-23 06:22,Network,Medium,Chat,Tier 2 - Infrastructure,4.0
+TCK-10120,2026-01-22 07:09,2026-01-22 09:05,Software,Critical,Phone,Tier 2 - Applications,5.0
+TCK-10121,2026-01-22 07:26,2026-01-24 05:34,Network,Medium,Phone,Tier 2 - Infrastructure,2.0
+TCK-10122,2026-01-22 08:35,2026-01-24 11:55,Hardware,Low,Self-Service Portal,Tier 2 - Infrastructure,4.0
+TCK-10123,2026-01-22 13:10,2026-01-23 04:53,Network,High,Self-Service Portal,Tier 2 - Infrastructure,3.0
+TCK-10124,2026-01-22 16:11,2026-01-23 08:22,Software,High,Self-Service Portal,Tier 2 - Applications,5.0
+TCK-10125,2026-01-22 16:51,2026-01-23 19:25,Hardware,Medium,Chat,Tier 2 - Infrastructure,4.0
+TCK-10126,2026-01-22 16:55,2026-01-22 22:04,Hardware,High,Self-Service Portal,Tier 2 - Infrastructure,5.0
+TCK-10127,2026-01-22 17:57,2026-01-26 03:55,Software,Low,Self-Service Portal,Tier 2 - Applications,1.0
+TCK-10128,2026-01-22 18:02,2026-01-23 01:17,Software,High,Phone,Tier 2 - Applications,5.0
+TCK-10129,2026-01-22 18:02,2026-01-22 21:57,Access & Accounts,High,Email,Tier 1 - Service Desk,5.0
+TCK-10130,2026-01-23 07:13,2026-01-24 05:15,Network,Medium,Email,Tier 2 - Infrastructure,5.0
+TCK-10131,2026-01-23 07:29,2026-01-24 16:09,Network,Medium,Chat,Tier 2 - Infrastructure,5.0
+TCK-10132,2026-01-23 10:49,2026-01-23 11:37,Access & Accounts,Critical,Email,Tier 1 - Service Desk,4.0
+TCK-10133,2026-01-23 11:19,2026-01-24 02:45,Network,Medium,Self-Service Portal,Tier 2 - Infrastructure,4.0
+TCK-10134,2026-01-23 11:25,2026-01-26 07:07,Hardware,Medium,Phone,Tier 2 - Infrastructure,4.0
+TCK-10135,2026-01-23 11:39,2026-01-23 22:42,Hardware,High,Phone,Tier 2 - Infrastructure,5.0
+TCK-10136,2026-01-23 12:56,2026-01-24 10:11,Hardware,High,Email,Tier 2 - Infrastructure,5.0
+TCK-10137,2026-01-23 17:28,2026-01-24 17:34,Network,Medium,Self-Service Portal,Tier 2 - Infrastructure,4.0
+TCK-10138,2026-01-24 07:17,2026-01-25 07:23,Access & Accounts,Low,Self-Service Portal,Tier 1 - Service Desk,4.0
+TCK-10139,2026-01-24 07:24,2026-01-25 02:46,Email,Low,Chat,Tier 1 - Service Desk,4.0
+TCK-10140,2026-01-24 10:29,2026-01-24 13:24,Access & Accounts,High,Email,Tier 1 - Service Desk,5.0
+TCK-10141,2026-01-24 12:47,2026-01-24 23:27,Hardware,High,Email,Tier 2 - Infrastructure,3.0
+TCK-10142,2026-01-24 12:51,2026-01-26 23:09,Email,Low,Self-Service Portal,Tier 1 - Service Desk,1.0
+TCK-10143,2026-01-24 16:35,2026-01-25 12:35,Access & Accounts,Medium,Phone,Tier 1 - Service Desk,3.0
+TCK-10144,2026-01-24 16:50,2026-01-31 07:02,Hardware,Low,Chat,Tier 2 - Infrastructure,1.0
+TCK-10145,2026-01-25 07:43,2026-01-25 12:01,Email,Medium,Self-Service Portal,Tier 1 - Service Desk,4.0
+TCK-10146,2026-01-26 07:48,2026-01-27 01:55,Access & Accounts,Medium,Self-Service Portal,Tier 1 - Service Desk,5.0
+TCK-10147,2026-01-26 08:45,2026-01-26 20:36,Hardware,Medium,Self-Service Portal,Tier 2 - Infrastructure,5.0
+TCK-10148,2026-01-26 10:15,2026-01-26 23:13,Email,Medium,Chat,Tier 1 - Service Desk,4.0
+TCK-10149,2026-01-26 13:15,2026-01-26 23:00,Access & Accounts,Low,Email,Tier 1 - Service Desk,4.0
+TCK-10150,2026-01-26 13:29,2026-01-29 03:27,Hardware,Medium,Phone,Tier 2 - Infrastructure,4.0
+TCK-10151,2026-01-26 13:31,2026-01-28 04:59,Access & Accounts,Low,Email,Tier 1 - Service Desk,4.0
+TCK-10152,2026-01-26 14:31,2026-01-27 02:52,Software,High,Email,Tier 2 - Applications,5.0
+TCK-10153,2026-01-26 16:11,2026-01-29 19:19,Network,Low,Phone,Tier 2 - Infrastructure,2.0
+TCK-10154,2026-01-26 16:55,2026-01-27 20:32,Network,High,Chat,Tier 2 - Infrastructure,4.0
+TCK-10155,2026-01-26 18:41,2026-01-26 22:25,Access & Accounts,High,Phone,Tier 1 - Service Desk,4.0
+TCK-10156,2026-01-27 07:01,2026-01-30 19:46,Network,Low,Self-Service Portal,Tier 2 - Infrastructure,3.0
+TCK-10157,2026-01-27 07:59,2026-02-06 21:40,Network,Low,Email,Tier 2 - Infrastructure,1.0
+TCK-10158,2026-01-27 08:18,2026-01-31 21:56,Network,Low,Self-Service Portal,Tier 2 - Infrastructure,1.0
+TCK-10159,2026-01-27 09:15,2026-01-27 19:55,Software,High,Email,Tier 2 - Applications,4.0
+TCK-10160,2026-01-27 09:56,2026-01-28 23:51,Software,Low,Self-Service Portal,Tier 2 - Applications,5.0
+TCK-10161,2026-01-27 12:11,2026-01-29 00:15,Software,Low,Self-Service Portal,Tier 2 - Applications,5.0
+TCK-10162,2026-01-27 12:37,2026-01-29 14:30,Software,Medium,Self-Service Portal,Tier 2 - Applications,4.0
+TCK-10163,2026-01-27 13:06,2026-02-01 22:40,Network,Low,Phone,Tier 2 - Infrastructure,1.0
+TCK-10164,2026-01-27 14:32,2026-01-28 04:25,Network,High,Chat,Tier 2 - Infrastructure,4.0
+TCK-10165,2026-01-27 18:27,2026-01-28 11:19,Software,Medium,Phone,Tier 2 - Applications,4.0
+TCK-10166,2026-01-28 07:44,2026-01-29 04:12,Access & Accounts,Medium,Email,Tier 1 - Service Desk,4.0
+TCK-10167,2026-01-28 09:32,2026-01-30 22:47,Hardware,Medium,Chat,Tier 2 - Infrastructure,1.0
+TCK-10168,2026-01-28 09:44,2026-01-31 01:40,Network,Low,Phone,Tier 2 - Infrastructure,3.0
+TCK-10169,2026-01-28 09:44,2026-01-29 16:50,Network,Medium,Email,Tier 2 - Infrastructure,3.0
+TCK-10170,2026-01-28 09:53,2026-02-04 21:18,Network,Low,Phone,Tier 2 - Infrastructure,1.0
+TCK-10171,2026-01-28 09:57,2026-01-28 18:12,Access & Accounts,High,Phone,Tier 1 - Service Desk,4.0
+TCK-10172,2026-01-28 10:58,2026-01-28 14:22,Access & Accounts,High,Self-Service Portal,Tier 1 - Service Desk,5.0
+TCK-10173,2026-01-28 11:03,2026-01-31 04:43,Hardware,Low,Self-Service Portal,Tier 2 - Infrastructure,3.0
+TCK-10174,2026-01-28 11:12,2026-01-29 17:15,Hardware,Medium,Phone,Tier 2 - Infrastructure,5.0
+TCK-10175,2026-01-28 12:20,2026-01-28 18:10,Software,Critical,Self-Service Portal,Tier 2 - Applications,4.0
+TCK-10176,2026-01-28 12:47,2026-01-30 11:29,Hardware,Medium,Phone,Tier 2 - Infrastructure,4.0
+TCK-10177,2026-01-28 14:18,2026-01-29 10:32,Access & Accounts,Low,Email,Tier 1 - Service Desk,4.0
+TCK-10178,2026-01-28 16:57,2026-01-31 17:38,Network,Medium,Phone,Tier 2 - Infrastructure,2.0
+TCK-10179,2026-01-28 17:54,2026-01-29 11:54,Access & Accounts,Low,Self-Service Portal,Tier 1 - Service Desk,5.0
+TCK-10180,2026-01-28 18:53,2026-01-28 23:46,Hardware,Critical,Chat,Tier 2 - Infrastructure,4.0
+TCK-10181,2026-01-29 12:02,2026-01-29 21:23,Access & Accounts,Medium,Self-Service Portal,Tier 1 - Service Desk,5.0
+TCK-10182,2026-01-29 12:32,2026-01-29 16:28,Access & Accounts,High,Chat,Tier 1 - Service Desk,4.0
+TCK-10183,2026-01-29 12:36,2026-01-29 18:47,Software,High,Self-Service Portal,Tier 2 - Applications,5.0
+TCK-10184,2026-01-29 13:01,2026-01-29 14:56,Access & Accounts,High,Email,Tier 1 - Service Desk,5.0
+TCK-10185,2026-01-29 15:16,2026-01-31 05:01,Software,Medium,Phone,Tier 2 - Applications,3.0
+TCK-10186,2026-01-29 15:53,2026-01-31 05:12,Software,Medium,Self-Service Portal,Tier 2 - Applications,2.0
+TCK-10187,2026-01-29 16:07,2026-01-30 15:02,Software,Medium,Email,Tier 2 - Applications,4.0
+TCK-10188,2026-01-29 18:01,2026-01-30 22:22,Network,Medium,Self-Service Portal,Tier 2 - Infrastructure,5.0
+TCK-10189,2026-01-29 18:31,2026-01-30 05:47,Email,Medium,Email,Tier 1 - Service Desk,3.0
+TCK-10190,2026-01-30 08:33,2026-01-30 17:26,Access & Accounts,Medium,Email,Tier 1 - Service Desk,5.0
+TCK-10191,2026-01-30 10:41,2026-01-30 12:51,Software,Critical,Email,Tier 2 - Applications,5.0
+TCK-10192,2026-01-30 11:24,2026-01-30 17:36,Email,High,Email,Tier 1 - Service Desk,5.0
+TCK-10193,2026-01-30 13:31,2026-01-31 11:20,Access & Accounts,Low,Email,Tier 1 - Service Desk,5.0
+TCK-10194,2026-01-30 16:26,2026-01-31 00:25,Email,Medium,Chat,Tier 1 - Service Desk,5.0
+TCK-10195,2026-01-30 16:35,2026-01-30 21:33,Software,High,Email,Tier 2 - Applications,5.0
+TCK-10196,2026-01-30 17:44,2026-01-31 22:20,Email,Low,Chat,Tier 1 - Service Desk,4.0
+TCK-10197,2026-01-30 17:47,2026-01-31 01:34,Email,Medium,Self-Service Portal,Tier 1 - Service Desk,5.0
+TCK-10198,2026-01-30 18:45,2026-01-31 18:57,Email,Medium,Phone,Tier 1 - Service Desk,4.0
+TCK-10199,2026-01-31 08:59,2026-02-07 06:39,Hardware,Low,Email,Tier 2 - Infrastructure,1.0
+TCK-10200,2026-01-31 10:53,2026-02-01 03:01,Software,Medium,Email,Tier 2 - Applications,4.0
+TCK-10201,2026-01-31 15:52,2026-01-31 19:53,Network,Critical,Self-Service Portal,Tier 2 - Infrastructure,4.0
+TCK-10202,2026-01-31 16:50,2026-02-03 02:47,Access & Accounts,Low,Chat,Tier 1 - Service Desk,3.0
+TCK-10203,2026-01-31 18:17,2026-02-01 13:08,Email,Low,Chat,Tier 1 - Service Desk,4.0
+TCK-10204,2026-01-31 18:48,2026-02-04 05:15,Hardware,Medium,Self-Service Portal,Tier 2 - Infrastructure,4.0
+TCK-10205,2026-02-01 07:08,2026-02-01 20:46,Email,High,Chat,Tier 1 - Service Desk,4.0
+TCK-10206,2026-02-01 15:39,2026-02-02 12:48,Software,Medium,Chat,Tier 2 - Applications,4.0
+TCK-10207,2026-02-02 08:01,2026-02-03 23:59,Software,Medium,Email,Tier 2 - Applications,3.0
+TCK-10208,2026-02-02 09:39,2026-02-04 21:24,Hardware,Low,Self-Service Portal,Tier 2 - Infrastructure,3.0
+TCK-10209,2026-02-02 10:15,2026-02-03 13:13,Software,Medium,Phone,Tier 2 - Applications,4.0
+TCK-10210,2026-02-02 13:05,2026-02-02 19:25,Access & Accounts,High,Email,Tier 1 - Service Desk,5.0
+TCK-10211,2026-02-02 13:58,2026-02-04 19:29,Hardware,Medium,Email,Tier 2 - Infrastructure,2.0
+TCK-10212,2026-02-02 15:33,2026-02-07 09:28,Software,Low,Self-Service Portal,Tier 2 - Applications,2.0
+TCK-10213,2026-02-03 10:34,2026-02-04 11:29,Software,Medium,Email,Tier 2 - Applications,3.0
+TCK-10214,2026-02-03 10:42,2026-02-03 21:23,Access & Accounts,Medium,Email,Tier 1 - Service Desk,4.0
+TCK-10215,2026-02-03 12:01,2026-02-03 14:53,Access & Accounts,High,Email,Tier 1 - Service Desk,5.0
+TCK-10216,2026-02-03 12:48,2026-02-06 20:50,Network,Low,Email,Tier 2 - Infrastructure,2.0
+TCK-10217,2026-02-03 13:46,2026-02-03 20:51,Access & Accounts,Medium,Self-Service Portal,Tier 1 - Service Desk,4.0
+TCK-10218,2026-02-03 15:15,2026-02-05 06:14,Hardware,Medium,Self-Service Portal,Tier 2 - Infrastructure,3.0
+TCK-10219,2026-02-03 16:14,2026-02-05 20:18,Software,Medium,Self-Service Portal,Tier 2 - Applications,3.0
+TCK-10220,2026-02-03 16:15,2026-02-04 23:35,Hardware,Medium,Email,Tier 2 - Infrastructure,2.0
+TCK-10221,2026-02-03 16:25,2026-02-05 00:08,Network,Medium,Phone,Tier 2 - Infrastructure,3.0
+TCK-10222,2026-02-03 17:52,2026-02-05 01:20,Software,Low,Phone,Tier 2 - Applications,4.0
+TCK-10223,2026-02-04 07:13,2026-02-04 10:39,Access & Accounts,High,Chat,Tier 1 - Service Desk,5.0
+TCK-10224,2026-02-04 08:48,2026-02-05 09:52,Software,Low,Email,Tier 2 - Applications,4.0
+TCK-10225,2026-02-04 12:28,2026-02-05 03:38,Hardware,Medium,Phone,Tier 2 - Infrastructure,5.0
+TCK-10226,2026-02-04 16:11,2026-02-08 17:05,Hardware,Medium,Chat,Tier 2 - Infrastructure,1.0
+TCK-10227,2026-02-04 16:50,2026-02-05 07:50,Email,Medium,Email,Tier 1 - Service Desk,3.0
+TCK-10228,2026-02-04 17:06,2026-02-05 05:27,Software,Medium,Email,Tier 2 - Applications,5.0
+TCK-10229,2026-02-04 17:43,2026-02-08 05:56,Network,Low,Email,Tier 2 - Infrastructure,2.0
+TCK-10230,2026-02-05 08:13,2026-02-05 17:52,Access & Accounts,Medium,Email,Tier 1 - Service Desk,3.0
+TCK-10231,2026-02-05 08:16,2026-02-05 13:36,Email,High,Phone,Tier 1 - Service Desk,5.0
+TCK-10232,2026-02-05 08:43,2026-02-05 23:17,Software,Medium,Phone,Tier 2 - Applications,4.0
+TCK-10233,2026-02-05 08:55,2026-02-07 02:11,Hardware,Low,Phone,Tier 2 - Infrastructure,5.0
+TCK-10234,2026-02-05 09:03,2026-02-06 04:25,Software,Medium,Chat,Tier 2 - Applications,4.0
+TCK-10235,2026-02-05 10:45,2026-02-05 16:05,Access & Accounts,Medium,Phone,Tier 1 - Service Desk,5.0
+TCK-10236,2026-02-05 11:25,2026-02-07 14:38,Software,Low,Chat,Tier 2 - Applications,3.0
+TCK-10237,2026-02-05 11:51,2026-02-06 11:19,Email,Low,Chat,Tier 1 - Service Desk,4.0
+TCK-10238,2026-02-05 15:15,2026-02-06 03:12,Hardware,High,Email,Tier 2 - Infrastructure,4.0
+TCK-10239,2026-02-05 18:54,2026-02-06 22:49,Hardware,Medium,Self-Service Portal,Tier 2 - Infrastructure,3.0
+TCK-10240,2026-02-06 07:22,2026-02-06 16:02,Email,Low,Self-Service Portal,Tier 1 - Service Desk,3.0
+TCK-10241,2026-02-06 11:17,2026-02-06 14:37,Software,High,Email,Tier 2 - Applications,5.0
+TCK-10242,2026-02-06 11:17,2026-02-06 22:12,Email,High,Self-Service Portal,Tier 1 - Service Desk,4.0
+TCK-10243,2026-02-06 12:16,2026-02-07 09:57,Access & Accounts,Low,Self-Service Portal,Tier 1 - Service Desk,4.0
+TCK-10244,2026-02-06 13:14,2026-02-09 22:29,Software,Low,Self-Service Portal,Tier 2 - Applications,1.0
+TCK-10245,2026-02-07 13:28,2026-02-10 14:18,Email,Low,Chat,Tier 1 - Service Desk,1.0
+TCK-10246,2026-02-07 15:09,2026-02-08 16:42,Hardware,Medium,Self-Service Portal,Tier 2 - Infrastructure,4.0
+TCK-10247,2026-02-08 17:02,2026-02-09 17:53,Hardware,Medium,Chat,Tier 2 - Infrastructure,4.0
+TCK-10248,2026-02-09 08:11,2026-02-09 23:51,Software,Medium,Chat,Tier 2 - Applications,4.0
+TCK-10249,2026-02-09 10:11,2026-02-10 09:00,Email,Medium,Chat,Tier 1 - Service Desk,3.0
+TCK-10250,2026-02-09 10:44,2026-02-11 09:42,Access & Accounts,Low,Phone,Tier 1 - Service Desk,3.0
+TCK-10251,2026-02-09 11:25,2026-02-09 15:11,Software,High,Email,Tier 2 - Applications,3.0
+TCK-10252,2026-02-09 11:28,2026-02-09 20:34,Software,Medium,Chat,Tier 2 - Applications,5.0
+TCK-10253,2026-02-09 12:06,2026-02-10 03:59,Software,Medium,Self-Service Portal,Tier 2 - Applications,4.0
+TCK-10254,2026-02-09 13:44,2026-02-10 01:14,Access & Accounts,Medium,Chat,Tier 1 - Service Desk,4.0
+TCK-10255,2026-02-09 18:00,2026-02-10 07:53,Email,Medium,Phone,Tier 1 - Service Desk,5.0
+TCK-10256,2026-02-10 07:34,2026-02-10 17:11,Email,Medium,Email,Tier 1 - Service Desk,5.0
+TCK-10257,2026-02-10 09:40,2026-02-11 11:43,Network,High,Phone,Tier 2 - Infrastructure,3.0
+TCK-10258,2026-02-10 13:01,2026-02-10 19:58,Access & Accounts,Medium,Phone,Tier 1 - Service Desk,5.0
+TCK-10259,2026-02-10 13:04,2026-02-10 21:40,Software,High,Chat,Tier 2 - Applications,4.0
+TCK-10260,2026-02-10 15:15,2026-02-12 02:18,Network,Medium,Phone,Tier 2 - Infrastructure,5.0
+TCK-10261,2026-02-10 16:53,2026-02-10 22:19,Hardware,Critical,Chat,Tier 2 - Infrastructure,5.0
+TCK-10262,2026-02-10 17:07,2026-02-10 21:04,Access & Accounts,High,Phone,Tier 1 - Service Desk,5.0
+TCK-10263,2026-02-10 17:23,2026-02-13 22:43,Network,Low,Email,Tier 2 - Infrastructure,1.0
+TCK-10264,2026-02-10 17:59,2026-02-11 10:18,Software,Medium,Phone,Tier 2 - Applications,4.0
+TCK-10265,2026-02-10 18:44,2026-02-13 02:30,Hardware,Low,Self-Service Portal,Tier 2 - Infrastructure,4.0
+TCK-10266,2026-02-11 07:04,2026-02-12 23:53,Hardware,Medium,Email,Tier 2 - Infrastructure,4.0
+TCK-10267,2026-02-11 08:12,2026-02-19 05:54,Software,Low,Self-Service Portal,Tier 2 - Applications,1.0
+TCK-10268,2026-02-11 09:30,2026-02-14 01:19,Software,Low,Self-Service Portal,Tier 2 - Applications,2.0
+TCK-10269,2026-02-11 09:58,2026-02-12 19:47,Software,Low,Email,Tier 2 - Applications,3.0
+TCK-10270,2026-02-11 13:45,2026-02-11 17:09,Access & Accounts,Medium,Email,Tier 1 - Service Desk,5.0
+TCK-10271,2026-02-12 07:10,2026-02-13 12:30,Software,Medium,Phone,Tier 2 - Applications,4.0
+TCK-10272,2026-02-12 09:36,2026-02-14 02:53,Hardware,Medium,Email,Tier 2 - Infrastructure,2.0
+TCK-10273,2026-02-12 09:43,2026-02-13 02:23,Hardware,High,Phone,Tier 2 - Infrastructure,5.0
+TCK-10274,2026-02-12 17:08,2026-02-13 07:47,Software,Medium,Chat,Tier 2 - Applications,4.0
+TCK-10275,2026-02-13 08:04,2026-02-13 13:53,Access & Accounts,High,Phone,Tier 1 - Service Desk,4.0
+TCK-10276,2026-02-13 09:17,2026-02-14 20:32,Hardware,Medium,Phone,Tier 2 - Infrastructure,5.0
+TCK-10277,2026-02-13 11:30,2026-02-14 00:42,Access & Accounts,Medium,Email,Tier 1 - Service Desk,5.0
+TCK-10278,2026-02-13 17:06,2026-02-13 18:36,Access & Accounts,High,Chat,Tier 1 - Service Desk,5.0
+TCK-10279,2026-02-15 07:55,2026-02-16 08:28,Email,Medium,Self-Service Portal,Tier 1 - Service Desk,4.0
+TCK-10280,2026-02-15 17:04,2026-02-15 22:20,Software,High,Email,Tier 2 - Applications,5.0
+TCK-10281,2026-02-16 09:33,2026-02-18 05:54,Network,Medium,Email,Tier 2 - Infrastructure,2.0
+TCK-10282,2026-02-16 11:28,2026-02-19 01:40,Software,Low,Chat,Tier 2 - Applications,3.0
+TCK-10283,2026-02-16 12:26,2026-02-16 21:54,Hardware,Critical,Email,Tier 2 - Infrastructure,4.0
+TCK-10284,2026-02-16 15:34,2026-02-17 05:21,Access & Accounts,Medium,Email,Tier 1 - Service Desk,5.0
+TCK-10285,2026-02-16 16:50,2026-02-17 11:22,Hardware,Medium,Self-Service Portal,Tier 2 - Infrastructure,5.0
+TCK-10286,2026-02-16 17:49,2026-02-18 12:16,Software,Low,Email,Tier 2 - Applications,3.0
+TCK-10287,2026-02-16 18:11,2026-02-20 14:21,Software,Low,Phone,Tier 2 - Applications,1.0
+TCK-10288,2026-02-16 18:11,2026-02-20 13:56,Software,Low,Chat,Tier 2 - Applications,2.0
+TCK-10289,2026-02-17 09:00,2026-02-18 02:07,Network,Medium,Email,Tier 2 - Infrastructure,5.0
+TCK-10290,2026-02-17 11:12,2026-02-17 18:55,Software,High,Email,Tier 2 - Applications,4.0
+TCK-10291,2026-02-17 11:20,2026-02-17 14:46,Access & Accounts,High,Phone,Tier 1 - Service Desk,5.0
+TCK-10292,2026-02-17 11:34,2026-02-18 11:57,Hardware,Medium,Phone,Tier 2 - Infrastructure,4.0
+TCK-10293,2026-02-17 13:01,2026-02-19 05:55,Software,Low,Email,Tier 2 - Applications,4.0
+TCK-10294,2026-02-17 15:29,2026-02-17 17:31,Access & Accounts,High,Chat,Tier 1 - Service Desk,5.0
+TCK-10295,2026-02-17 17:28,2026-02-19 07:44,Software,Low,Chat,Tier 2 - Applications,3.0
+TCK-10296,2026-02-18 08:00,2026-02-20 09:28,Network,Low,Phone,Tier 2 - Infrastructure,3.0
+TCK-10297,2026-02-18 08:05,2026-02-21 00:16,Hardware,Low,Email,Tier 2 - Infrastructure,3.0
+TCK-10298,2026-02-18 08:08,2026-02-19 07:29,Network,Medium,Email,Tier 2 - Infrastructure,3.0
+TCK-10299,2026-02-18 09:33,2026-02-18 20:18,Software,Medium,Self-Service Portal,Tier 2 - Applications,4.0
+TCK-10300,2026-02-18 09:41,2026-02-19 12:44,Network,Medium,Email,Tier 2 - Infrastructure,3.0
+TCK-10301,2026-02-18 11:10,2026-02-19 06:07,Email,Low,Email,Tier 1 - Service Desk,4.0
+TCK-10302,2026-02-18 11:16,2026-02-18 13:04,Email,High,Email,Tier 1 - Service Desk,5.0
+TCK-10303,2026-02-18 12:23,2026-02-18 22:44,Email,High,Phone,Tier 1 - Service Desk,4.0
+TCK-10304,2026-02-18 14:33,2026-02-18 19:01,Email,High,Email,Tier 1 - Service Desk,5.0
+TCK-10305,2026-02-18 16:19,2026-02-20 09:38,Software,Medium,Self-Service Portal,Tier 2 - Applications,3.0
+TCK-10306,2026-02-18 16:45,2026-02-18 19:12,Access & Accounts,High,Self-Service Portal,Tier 1 - Service Desk,4.0
+TCK-10307,2026-02-19 11:21,2026-02-19 23:59,Access & Accounts,High,Phone,Tier 1 - Service Desk,5.0
+TCK-10308,2026-02-19 12:15,2026-02-19 22:32,Access & Accounts,Low,Email,Tier 1 - Service Desk,4.0
+TCK-10309,2026-02-19 16:27,2026-02-19 23:27,Network,Critical,Email,Tier 2 - Infrastructure,5.0
+TCK-10310,2026-02-19 16:51,2026-02-20 11:20,Network,Medium,Email,Tier 2 - Infrastructure,5.0
+TCK-10311,2026-02-19 18:02,2026-02-22 20:01,Hardware,Medium,Chat,Tier 2 - Infrastructure,2.0
+TCK-10312,2026-02-20 07:15,2026-02-20 09:37,Network,Critical,Chat,Tier 2 - Infrastructure,4.0
+TCK-10313,2026-02-20 09:56,2026-02-20 16:41,Email,Medium,Phone,Tier 1 - Service Desk,5.0
+TCK-10314,2026-02-20 15:10,2026-02-21 05:09,Software,Medium,Self-Service Portal,Tier 2 - Applications,4.0
+TCK-10315,2026-02-20 15:31,2026-02-21 11:16,Access & Accounts,Medium,Phone,Tier 1 - Service Desk,4.0
+TCK-10316,2026-02-20 15:51,2026-02-25 01:12,Network,Low,Self-Service Portal,Tier 2 - Infrastructure,1.0
+TCK-10317,2026-02-20 16:22,2026-02-21 21:15,Software,Medium,Self-Service Portal,Tier 2 - Applications,4.0
+TCK-10318,2026-02-20 16:27,2026-02-21 09:58,Access & Accounts,Low,Email,Tier 1 - Service Desk,5.0
+TCK-10319,2026-02-20 17:09,2026-02-21 23:06,Hardware,Medium,Email,Tier 2 - Infrastructure,4.0
+TCK-10320,2026-02-20 17:55,2026-02-25 10:44,Network,Medium,Self-Service Portal,Tier 2 - Infrastructure,1.0
+TCK-10321,2026-02-20 18:41,2026-02-21 09:25,Email,Low,Self-Service Portal,Tier 1 - Service Desk,5.0
+TCK-10322,2026-02-21 10:32,2026-02-21 16:52,Software,High,Phone,Tier 2 - Applications,4.0
+TCK-10323,2026-02-22 15:36,2026-02-24 23:11,Hardware,Medium,Email,Tier 2 - Infrastructure,4.0
+TCK-10324,2026-02-23 11:18,2026-02-23 19:47,Software,High,Self-Service Portal,Tier 2 - Applications,5.0
+TCK-10325,2026-02-23 11:59,2026-02-24 08:43,Software,Low,Self-Service Portal,Tier 2 - Applications,5.0
+TCK-10326,2026-02-23 13:35,2026-02-24 13:42,Software,Low,Self-Service Portal,Tier 2 - Applications,3.0
+TCK-10327,2026-02-23 15:11,2026-02-28 17:35,Hardware,Medium,Email,Tier 2 - Infrastructure,1.0
+TCK-10328,2026-02-23 16:14,2026-02-23 23:40,Email,High,Self-Service Portal,Tier 1 - Service Desk,5.0
+TCK-10329,2026-02-24 07:55,2026-02-24 12:38,Access & Accounts,Medium,Email,Tier 1 - Service Desk,5.0
+TCK-10330,2026-02-24 12:06,2026-02-24 19:01,Software,High,Chat,Tier 2 - Applications,5.0
+TCK-10331,2026-02-24 12:24,2026-02-25 19:49,Software,Medium,Email,Tier 2 - Applications,4.0
+TCK-10332,2026-02-24 14:45,2026-02-24 20:24,Email,High,Email,Tier 1 - Service Desk,5.0
+TCK-10333,2026-02-24 15:24,2026-03-02 11:22,Network,Low,Email,Tier 2 - Infrastructure,1.0
+TCK-10334,2026-02-25 09:13,2026-02-25 21:50,Network,Medium,Email,Tier 2 - Infrastructure,4.0
+TCK-10335,2026-02-25 09:19,2026-02-25 22:43,Access & Accounts,High,Chat,Tier 1 - Service Desk,4.0
+TCK-10336,2026-02-25 09:58,2026-02-27 16:56,Access & Accounts,Medium,Self-Service Portal,Tier 1 - Service Desk,4.0
+TCK-10337,2026-02-25 11:19,2026-02-26 22:21,Hardware,Medium,Email,Tier 2 - Infrastructure,5.0
+TCK-10338,2026-02-25 12:19,2026-02-25 15:31,Hardware,Critical,Phone,Tier 2 - Infrastructure,5.0
+TCK-10339,2026-02-25 14:29,2026-02-26 07:41,Software,Medium,Email,Tier 2 - Applications,5.0
+TCK-10340,2026-02-25 15:43,2026-02-26 06:38,Access & Accounts,Medium,Self-Service Portal,Tier 1 - Service Desk,4.0
+TCK-10341,2026-02-26 09:31,2026-02-27 11:11,Email,Medium,Email,Tier 1 - Service Desk,4.0
+TCK-10342,2026-02-26 10:15,2026-02-26 16:07,Software,Critical,Chat,Tier 2 - Applications,4.0
+TCK-10343,2026-02-26 11:04,2026-02-26 17:47,Access & Accounts,Medium,Phone,Tier 1 - Service Desk,5.0
+TCK-10344,2026-02-26 12:25,2026-02-27 16:41,Hardware,Medium,Phone,Tier 2 - Infrastructure,3.0
+TCK-10345,2026-02-26 15:40,2026-02-28 17:35,Access & Accounts,Low,Phone,Tier 1 - Service Desk,5.0
+TCK-10346,2026-02-26 16:07,2026-02-26 21:20,Email,Critical,Email,Tier 1 - Service Desk,5.0
+TCK-10347,2026-02-26 16:38,2026-03-01 16:29,Hardware,Low,Phone,Tier 2 - Infrastructure,3.0
+TCK-10348,2026-02-26 18:35,2026-02-28 15:05,Network,Medium,Phone,Tier 2 - Infrastructure,4.0
+TCK-10349,2026-02-27 08:42,2026-02-28 15:25,Hardware,Medium,Chat,Tier 2 - Infrastructure,4.0
+TCK-10350,2026-02-27 10:23,2026-02-28 09:08,Email,Low,Self-Service Portal,Tier 1 - Service Desk,4.0
+TCK-10351,2026-02-27 11:59,2026-02-27 19:38,Access & Accounts,Medium,Self-Service Portal,Tier 1 - Service Desk,5.0
+TCK-10352,2026-02-27 12:41,2026-03-02 04:00,Software,Low,Chat,Tier 2 - Applications,2.0
+TCK-10353,2026-02-27 12:44,2026-02-27 22:41,Email,Low,Email,Tier 1 - Service Desk,4.0
+TCK-10354,2026-02-27 14:36,2026-02-28 12:59,Software,Medium,Email,Tier 2 - Applications,5.0
+TCK-10355,2026-02-27 16:25,2026-02-28 10:38,Hardware,Medium,Chat,Tier 2 - Infrastructure,5.0
+TCK-10356,2026-02-28 13:21,2026-03-01 04:13,Hardware,High,Self-Service Portal,Tier 2 - Infrastructure,4.0
+TCK-10357,2026-02-28 13:50,2026-03-01 12:06,Software,Medium,Email,Tier 2 - Applications,3.0
+TCK-10358,2026-02-28 16:45,2026-03-01 09:51,Access & Accounts,Medium,Phone,Tier 1 - Service Desk,3.0
+TCK-10359,2026-02-28 18:57,2026-03-02 21:50,Hardware,Medium,Phone,Tier 2 - Infrastructure,2.0
+TCK-10360,2026-03-01 08:02,2026-03-01 15:40,Access & Accounts,Medium,Email,Tier 1 - Service Desk,4.0
+TCK-10361,2026-03-01 13:03,2026-03-01 20:31,Hardware,Critical,Phone,Tier 2 - Infrastructure,4.0
+TCK-10362,2026-03-01 14:01,2026-03-02 07:10,Email,Medium,Email,Tier 1 - Service Desk,4.0
+TCK-10363,2026-03-02 08:05,2026-03-03 10:35,Hardware,Medium,Chat,Tier 2 - Infrastructure,4.0
+TCK-10364,2026-03-02 09:44,2026-03-03 16:01,Software,Low,Phone,Tier 2 - Applications,5.0
+TCK-10365,2026-03-02 10:05,2026-03-04 04:05,Hardware,Medium,Self-Service Portal,Tier 2 - Infrastructure,2.0
+TCK-10366,2026-03-02 10:42,2026-03-03 02:51,Hardware,High,Email,Tier 2 - Infrastructure,5.0
+TCK-10367,2026-03-02 12:19,2026-03-03 09:37,Software,Medium,Self-Service Portal,Tier 2 - Applications,4.0
+TCK-10368,2026-03-02 12:23,2026-03-02 20:03,Email,Medium,Chat,Tier 1 - Service Desk,3.0
+TCK-10369,2026-03-02 13:01,2026-03-03 22:11,Software,Low,Email,Tier 2 - Applications,4.0
+TCK-10370,2026-03-02 14:30,2026-03-06 07:37,Hardware,Low,Email,Tier 2 - Infrastructure,1.0
+TCK-10371,2026-03-02 15:10,2026-03-02 19:29,Software,High,Email,Tier 2 - Applications,5.0
+TCK-10372,2026-03-02 16:19,2026-03-03 08:23,Email,Medium,Email,Tier 1 - Service Desk,4.0
+TCK-10373,2026-03-02 17:07,2026-03-02 23:11,Access & Accounts,Low,Phone,Tier 1 - Service Desk,3.0
+TCK-10374,2026-03-02 18:23,2026-03-03 19:27,Network,High,Phone,Tier 2 - Infrastructure,4.0
+TCK-10375,2026-03-02 18:48,2026-03-07 22:07,Hardware,Medium,Email,Tier 2 - Infrastructure,1.0
+TCK-10376,2026-03-03 07:25,2026-03-03 17:30,Access & Accounts,Medium,Self-Service Portal,Tier 1 - Service Desk,4.0
+TCK-10377,2026-03-03 07:47,2026-03-03 14:59,Software,Medium,Self-Service Portal,Tier 2 - Applications,4.0
+TCK-10378,2026-03-03 08:14,2026-03-04 10:56,Software,Medium,Email,Tier 2 - Applications,4.0
+TCK-10379,2026-03-03 09:29,2026-03-04 18:36,Software,Medium,Chat,Tier 2 - Applications,3.0
+TCK-10380,2026-03-03 11:03,2026-03-04 12:42,Software,Medium,Self-Service Portal,Tier 2 - Applications,4.0
+TCK-10381,2026-03-03 11:03,2026-03-04 14:14,Software,Medium,Chat,Tier 2 - Applications,4.0
+TCK-10382,2026-03-03 11:11,2026-03-04 06:50,Software,Medium,Self-Service Portal,Tier 2 - Applications,4.0
+TCK-10383,2026-03-03 11:48,2026-03-03 12:42,Access & Accounts,Critical,Email,Tier 1 - Service Desk,5.0
+TCK-10384,2026-03-03 14:01,2026-03-03 16:58,Software,Critical,Self-Service Portal,Tier 2 - Applications,4.0
+TCK-10385,2026-03-03 14:06,2026-03-07 00:27,Email,Low,Chat,Tier 1 - Service Desk,2.0
+TCK-10386,2026-03-03 14:25,2026-03-04 01:04,Access & Accounts,Medium,Email,Tier 1 - Service Desk,5.0
+TCK-10387,2026-03-03 14:45,2026-03-04 06:24,Software,High,Self-Service Portal,Tier 2 - Applications,5.0
+TCK-10388,2026-03-03 15:00,2026-03-03 22:45,Network,Medium,Self-Service Portal,Tier 2 - Infrastructure,5.0
+TCK-10389,2026-03-03 15:15,2026-03-03 19:46,Software,Critical,Self-Service Portal,Tier 2 - Applications,4.0
+TCK-10390,2026-03-03 17:07,2026-03-03 20:14,Email,High,Self-Service Portal,Tier 1 - Service Desk,5.0
+TCK-10391,2026-03-03 17:26,2026-03-05 00:01,Software,Medium,Email,Tier 2 - Applications,3.0
+TCK-10392,2026-03-03 18:41,2026-03-04 15:16,Software,Medium,Email,Tier 2 - Applications,4.0
+TCK-10393,2026-03-04 08:02,2026-03-04 21:03,Network,Medium,Email,Tier 2 - Infrastructure,5.0
+TCK-10394,2026-03-04 08:28,2026-03-04 15:35,Software,Medium,Chat,Tier 2 - Applications,4.0
+TCK-10395,2026-03-04 08:39,2026-03-05 01:14,Software,Medium,Self-Service Portal,Tier 2 - Applications,3.0
+TCK-10396,2026-03-04 09:05,2026-03-05 14:37,Email,Medium,Self-Service Portal,Tier 1 - Service Desk,3.0
+TCK-10397,2026-03-04 09:22,2026-03-05 04:59,Software,Medium,Phone,Tier 2 - Applications,4.0
+TCK-10398,2026-03-04 09:22,2026-03-05 00:11,Software,Medium,Email,Tier 2 - Applications,4.0
+TCK-10399,2026-03-04 09:33,2026-03-04 16:52,Software,High,Email,Tier 2 - Applications,5.0
+TCK-10400,2026-03-04 11:18,2026-03-05 01:10,Access & Accounts,Medium,Phone,Tier 1 - Service Desk,5.0
+TCK-10401,2026-03-04 12:04,2026-03-05 21:46,Software,Low,Phone,Tier 2 - Applications,3.0
+TCK-10402,2026-03-04 14:18,2026-03-04 23:39,Software,Medium,Self-Service Portal,Tier 2 - Applications,5.0
+TCK-10403,2026-03-04 14:29,2026-03-07 01:16,Software,Low,Email,Tier 2 - Applications,3.0
+TCK-10404,2026-03-04 15:24,2026-03-07 05:45,Software,Low,Chat,Tier 2 - Applications,2.0
+TCK-10405,2026-03-04 15:42,2026-03-04 22:19,Network,High,Self-Service Portal,Tier 2 - Infrastructure,4.0
+TCK-10406,2026-03-05 11:17,2026-03-06 10:57,Software,Medium,Email,Tier 2 - Applications,5.0
+TCK-10407,2026-03-05 12:06,2026-03-05 19:12,Email,High,Email,Tier 1 - Service Desk,4.0
+TCK-10408,2026-03-05 12:35,2026-03-05 16:12,Access & Accounts,High,Self-Service Portal,Tier 1 - Service Desk,5.0
+TCK-10409,2026-03-05 14:02,2026-03-06 11:19,Access & Accounts,Low,Self-Service Portal,Tier 1 - Service Desk,5.0
+TCK-10410,2026-03-05 14:03,2026-03-06 02:27,Network,Critical,Email,Tier 2 - Infrastructure,5.0
+TCK-10411,2026-03-05 14:22,2026-03-05 20:28,Software,High,Self-Service Portal,Tier 2 - Applications,5.0
+TCK-10412,2026-03-05 16:04,2026-03-06 10:10,Network,Medium,Chat,Tier 2 - Infrastructure,5.0
+TCK-10413,2026-03-05 16:26,2026-03-07 21:27,Software,Medium,Self-Service Portal,Tier 2 - Applications,5.0
+TCK-10414,2026-03-05 16:57,2026-03-07 06:31,Hardware,Medium,Self-Service Portal,Tier 2 - Infrastructure,3.0
+TCK-10415,2026-03-06 09:20,2026-03-07 21:32,Software,Low,Chat,Tier 2 - Applications,3.0
+TCK-10416,2026-03-06 09:30,2026-03-07 11:06,Software,Medium,Self-Service Portal,Tier 2 - Applications,5.0
+TCK-10417,2026-03-06 09:55,2026-03-07 20:48,Hardware,Medium,Email,Tier 2 - Infrastructure,4.0
+TCK-10418,2026-03-06 10:36,2026-03-07 03:54,Software,Low,Email,Tier 2 - Applications,5.0
+TCK-10419,2026-03-06 10:49,2026-03-10 08:48,Software,Low,Email,Tier 2 - Applications,1.0
+TCK-10420,2026-03-06 11:11,2026-03-06 18:59,Software,Medium,Self-Service Portal,Tier 2 - Applications,4.0
+TCK-10421,2026-03-06 11:46,2026-03-07 20:02,Software,Low,Phone,Tier 2 - Applications,4.0
+TCK-10422,2026-03-06 12:19,2026-03-07 04:10,Software,Medium,Phone,Tier 2 - Applications,4.0
+TCK-10423,2026-03-06 12:27,2026-03-07 23:35,Access & Accounts,Low,Chat,Tier 1 - Service Desk,4.0
+TCK-10424,2026-03-06 14:33,2026-03-06 23:48,Software,Medium,Email,Tier 2 - Applications,5.0
+TCK-10425,2026-03-06 15:35,2026-03-06 19:56,Software,Critical,Email,Tier 2 - Applications,5.0
+TCK-10426,2026-03-06 16:12,2026-03-07 23:09,Network,Low,Self-Service Portal,Tier 2 - Infrastructure,4.0
+TCK-10427,2026-03-06 16:12,2026-03-06 23:33,Software,High,Chat,Tier 2 - Applications,5.0
+TCK-10428,2026-03-06 16:52,2026-03-08 06:50,Software,Low,Chat,Tier 2 - Applications,3.0
+TCK-10429,2026-03-08 15:15,2026-03-09 20:27,Software,Medium,Phone,Tier 2 - Applications,5.0
+TCK-10430,2026-03-08 16:13,2026-03-09 07:53,Software,Medium,Chat,Tier 2 - Applications,4.0
+TCK-10431,2026-03-09 09:07,2026-03-10 17:22,Email,Low,Chat,Tier 1 - Service Desk,3.0
+TCK-10432,2026-03-09 16:18,2026-03-09 19:51,Software,High,Email,Tier 2 - Applications,4.0
+TCK-10433,2026-03-09 16:47,2026-03-11 12:05,Network,Medium,Phone,Tier 2 - Infrastructure,3.0
+TCK-10434,2026-03-09 18:43,2026-03-12 20:11,Hardware,Low,Phone,Tier 2 - Infrastructure,4.0
+TCK-10435,2026-03-10 08:15,2026-03-10 19:00,Software,Medium,Self-Service Portal,Tier 2 - Applications,5.0
+TCK-10436,2026-03-10 09:30,2026-03-10 21:10,Software,High,Chat,Tier 2 - Applications,5.0
+TCK-10437,2026-03-10 10:45,2026-03-18 03:44,Software,Low,Email,Tier 2 - Applications,1.0
+TCK-10438,2026-03-10 11:10,2026-03-11 07:24,Software,Medium,Self-Service Portal,Tier 2 - Applications,5.0
+TCK-10439,2026-03-10 12:24,2026-03-10 14:24,Software,Critical,Self-Service Portal,Tier 2 - Applications,4.0
+TCK-10440,2026-03-10 12:50,2026-03-11 00:27,Software,Low,Phone,Tier 2 - Applications,3.0
+TCK-10441,2026-03-10 13:10,2026-03-10 19:20,Access & Accounts,Medium,Chat,Tier 1 - Service Desk,5.0
+TCK-10442,2026-03-10 13:33,2026-03-17 20:59,Hardware,Low,Email,Tier 2 - Infrastructure,1.0
+TCK-10443,2026-03-10 13:33,2026-03-10 21:28,Access & Accounts,Medium,Self-Service Portal,Tier 1 - Service Desk,5.0
+TCK-10444,2026-03-10 13:47,2026-03-10 15:58,Access & Accounts,High,Self-Service Portal,Tier 1 - Service Desk,5.0
+TCK-10445,2026-03-10 15:30,2026-03-16 18:22,Network,Low,Self-Service Portal,Tier 2 - Infrastructure,1.0
+TCK-10446,2026-03-10 16:56,2026-03-11 07:21,Hardware,Medium,Phone,Tier 2 - Infrastructure,5.0
+TCK-10447,2026-03-10 17:07,2026-03-12 04:31,Software,Low,Self-Service Portal,Tier 2 - Applications,4.0
+TCK-10448,2026-03-10 17:10,2026-03-11 02:37,Software,High,Email,Tier 2 - Applications,4.0
+TCK-10449,2026-03-10 17:44,2026-03-11 17:58,Software,Medium,Chat,Tier 2 - Applications,5.0
+TCK-10450,2026-03-10 18:44,2026-03-11 05:52,Software,High,Self-Service Portal,Tier 2 - Applications,5.0
+TCK-10451,2026-03-11 07:53,2026-03-13 01:20,Hardware,Medium,Self-Service Portal,Tier 2 - Infrastructure,4.0
+TCK-10452,2026-03-11 11:08,2026-03-11 20:42,Software,Medium,Phone,Tier 2 - Applications,5.0
+TCK-10453,2026-03-11 11:32,2026-03-13 09:54,Software,Medium,Email,Tier 2 - Applications,4.0
+TCK-10454,2026-03-11 12:04,2026-03-12 08:00,Network,Medium,Phone,Tier 2 - Infrastructure,3.0
+TCK-10455,2026-03-11 12:22,2026-03-11 14:08,Software,Critical,Chat,Tier 2 - Applications,5.0
+TCK-10456,2026-03-11 13:06,2026-03-12 01:24,Software,High,Email,Tier 2 - Applications,5.0
+TCK-10457,2026-03-11 14:19,2026-03-12 06:20,Email,Medium,Self-Service Portal,Tier 1 - Service Desk,4.0
+TCK-10458,2026-03-11 17:51,2026-03-11 20:15,Software,Critical,Email,Tier 2 - Applications,5.0
+TCK-10459,2026-03-12 07:56,2026-03-14 01:56,Network,High,Email,Tier 2 - Infrastructure,3.0
+TCK-10460,2026-03-12 08:32,2026-03-12 11:55,Network,High,Phone,Tier 2 - Infrastructure,5.0
+TCK-10461,2026-03-12 08:43,2026-03-12 23:41,Network,High,Self-Service Portal,Tier 2 - Infrastructure,4.0
+TCK-10462,2026-03-12 10:59,2026-03-12 20:43,Software,Medium,Email,Tier 2 - Applications,5.0
+TCK-10463,2026-03-12 11:28,2026-03-14 12:59,Software,Low,Phone,Tier 2 - Applications,3.0
+TCK-10464,2026-03-12 12:44,2026-03-12 18:35,Access & Accounts,Medium,Self-Service Portal,Tier 1 - Service Desk,5.0
+TCK-10465,2026-03-12 14:24,2026-03-15 02:05,Software,Low,Email,Tier 2 - Applications,3.0
+TCK-10466,2026-03-12 14:36,2026-03-13 04:39,Network,High,Self-Service Portal,Tier 2 - Infrastructure,4.0
+TCK-10467,2026-03-12 15:42,2026-03-13 02:13,Email,High,Self-Service Portal,Tier 1 - Service Desk,4.0
+TCK-10468,2026-03-12 15:46,2026-03-12 21:38,Software,High,Email,Tier 2 - Applications,5.0
+TCK-10469,2026-03-12 16:17,2026-03-12 23:33,Access & Accounts,Medium,Phone,Tier 1 - Service Desk,5.0
+TCK-10470,2026-03-12 16:32,2026-03-12 22:51,Access & Accounts,Medium,Self-Service Portal,Tier 1 - Service Desk,4.0
+TCK-10471,2026-03-12 16:38,2026-03-13 07:45,Hardware,High,Phone,Tier 2 - Infrastructure,5.0
+TCK-10472,2026-03-13 10:01,2026-03-13 17:13,Software,High,Phone,Tier 2 - Applications,5.0
+TCK-10473,2026-03-13 10:05,2026-03-14 14:23,Network,Low,Phone,Tier 2 - Infrastructure,3.0
+TCK-10474,2026-03-13 10:21,2026-03-15 11:52,Software,Low,Chat,Tier 2 - Applications,3.0
+TCK-10475,2026-03-13 12:33,2026-03-13 19:10,Software,Critical,Email,Tier 2 - Applications,5.0
+TCK-10476,2026-03-13 13:11,2026-03-14 12:58,Software,Medium,Email,Tier 2 - Applications,5.0
+TCK-10477,2026-03-13 13:18,2026-03-16 03:58,Network,Low,Self-Service Portal,Tier 2 - Infrastructure,3.0
+TCK-10478,2026-03-13 15:53,2026-03-14 15:16,Network,Medium,Email,Tier 2 - Infrastructure,4.0
+TCK-10479,2026-03-13 16:18,2026-03-14 11:27,Software,Medium,Email,Tier 2 - Applications,5.0
+TCK-10480,2026-03-13 16:51,2026-03-14 05:19,Network,High,Email,Tier 2 - Infrastructure,5.0
+TCK-10481,2026-03-13 17:25,2026-03-14 04:40,Software,High,Self-Service Portal,Tier 2 - Applications,4.0
+TCK-10482,2026-03-13 17:25,2026-03-13 19:47,Software,Critical,Self-Service Portal,Tier 2 - Applications,4.0
+TCK-10483,2026-03-13 18:53,2026-03-14 13:01,Email,Medium,Phone,Tier 1 - Service Desk,5.0
+TCK-10484,2026-03-14 09:42,2026-03-14 22:06,Hardware,Medium,Self-Service Portal,Tier 2 - Infrastructure,4.0
+TCK-10485,2026-03-14 17:01,2026-03-15 10:53,Software,Medium,Email,Tier 2 - Applications,4.0
+TCK-10486,2026-03-15 07:30,2026-03-15 11:37,Software,High,Self-Service Portal,Tier 2 - Applications,3.0
+TCK-10487,2026-03-15 07:54,2026-03-18 02:51,Hardware,Low,Self-Service Portal,Tier 2 - Infrastructure,2.0
+TCK-10488,2026-03-15 08:05,2026-03-15 12:42,Access & Accounts,High,Email,Tier 1 - Service Desk,5.0
+TCK-10489,2026-03-15 08:28,2026-03-16 00:59,Access & Accounts,Low,Email,Tier 1 - Service Desk,5.0
+TCK-10490,2026-03-15 13:27,2026-03-16 07:31,Software,Medium,Email,Tier 2 - Applications,5.0
+TCK-10491,2026-03-15 13:50,2026-03-16 00:17,Access & Accounts,Low,Email,Tier 1 - Service Desk,4.0
+TCK-10492,2026-03-15 14:29,2026-03-16 06:18,Software,Medium,Self-Service Portal,Tier 2 - Applications,3.0
+TCK-10493,2026-03-16 07:41,2026-03-16 09:27,Software,Critical,Chat,Tier 2 - Applications,4.0
+TCK-10494,2026-03-16 07:58,2026-03-17 02:07,Software,Medium,Self-Service Portal,Tier 2 - Applications,4.0
+TCK-10495,2026-03-16 08:37,2026-03-16 13:43,Software,High,Chat,Tier 2 - Applications,5.0
+TCK-10496,2026-03-16 09:06,2026-03-18 23:18,Hardware,Medium,Email,Tier 2 - Infrastructure,3.0
+TCK-10497,2026-03-16 09:42,2026-03-17 12:27,Software,Low,Chat,Tier 2 - Applications,4.0
+TCK-10498,2026-03-16 11:59,2026-03-24 09:28,Network,Low,Email,Tier 2 - Infrastructure,1.0
+TCK-10499,2026-03-16 12:24,2026-03-17 01:39,Software,Medium,Self-Service Portal,Tier 2 - Applications,5.0
+TCK-10500,2026-03-16 12:30,2026-03-16 14:54,Software,Critical,Email,Tier 2 - Applications,4.0
+TCK-10501,2026-03-16 13:51,2026-03-17 10:12,Software,Low,Phone,Tier 2 - Applications,5.0
+TCK-10502,2026-03-16 14:10,2026-03-17 18:55,Hardware,Medium,Chat,Tier 2 - Infrastructure,4.0
+TCK-10503,2026-03-16 14:36,2026-03-19 05:00,Hardware,Low,Self-Service Portal,Tier 2 - Infrastructure,3.0
+TCK-10504,2026-03-16 15:12,2026-03-20 01:55,Network,Low,Phone,Tier 2 - Infrastructure,1.0
+TCK-10505,2026-03-16 15:48,2026-03-18 16:36,Hardware,Low,Email,Tier 2 - Infrastructure,3.0
+TCK-10506,2026-03-16 16:21,2026-03-17 22:23,Access & Accounts,Low,Chat,Tier 1 - Service Desk,4.0
+TCK-10507,2026-03-16 17:20,2026-03-16 19:11,Software,Critical,Chat,Tier 2 - Applications,5.0
+TCK-10508,2026-03-16 18:45,2026-03-18 21:36,Hardware,Low,Email,Tier 2 - Infrastructure,2.0
+TCK-10509,2026-03-17 08:21,2026-03-17 22:47,Software,Medium,Email,Tier 2 - Applications,5.0
+TCK-10510,2026-03-17 10:13,2026-03-18 05:55,Software,Low,Phone,Tier 2 - Applications,3.0
+TCK-10511,2026-03-17 10:17,2026-03-18 03:36,Software,Medium,Email,Tier 2 - Applications,5.0
+TCK-10512,2026-03-17 13:47,2026-03-18 00:45,Software,High,Self-Service Portal,Tier 2 - Applications,5.0
+TCK-10513,2026-03-17 14:58,2026-03-17 22:22,Software,Medium,Self-Service Portal,Tier 2 - Applications,4.0
+TCK-10514,2026-03-18 08:40,2026-03-23 12:58,Network,Low,Chat,Tier 2 - Infrastructure,1.0
+TCK-10515,2026-03-18 09:13,2026-03-19 16:30,Software,Medium,Email,Tier 2 - Applications,4.0
+TCK-10516,2026-03-18 09:27,2026-03-18 17:36,Software,Medium,Email,Tier 2 - Applications,3.0
+TCK-10517,2026-03-18 10:31,2026-03-19 02:10,Access & Accounts,Medium,Self-Service Portal,Tier 1 - Service Desk,5.0
+TCK-10518,2026-03-18 11:43,2026-03-20 01:59,Software,Low,Phone,Tier 2 - Applications,3.0
+TCK-10519,2026-03-18 12:55,2026-03-19 07:51,Software,Medium,Chat,Tier 2 - Applications,4.0
+TCK-10520,2026-03-18 13:23,2026-03-18 16:12,Access & Accounts,High,Email,Tier 1 - Service Desk,5.0
+TCK-10521,2026-03-18 13:36,2026-03-18 21:28,Software,High,Email,Tier 2 - Applications,4.0
+TCK-10522,2026-03-18 14:32,2026-03-19 04:32,Email,Low,Phone,Tier 1 - Service Desk,5.0
+TCK-10523,2026-03-18 15:25,2026-03-20 20:59,Software,Low,Email,Tier 2 - Applications,3.0
+TCK-10524,2026-03-18 16:02,2026-03-20 01:59,Email,Medium,Self-Service Portal,Tier 1 - Service Desk,3.0
+TCK-10525,2026-03-18 16:36,2026-03-20 04:16,Software,Low,Email,Tier 2 - Applications,3.0
+TCK-10526,2026-03-18 17:09,2026-03-19 12:36,Access & Accounts,Medium,Phone,Tier 1 - Service Desk,5.0
+TCK-10527,2026-03-18 17:48,2026-03-20 10:47,Software,Low,Self-Service Portal,Tier 2 - Applications,3.0
+TCK-10528,2026-03-18 17:59,2026-03-18 21:38,Software,Critical,Chat,Tier 2 - Applications,4.0
+TCK-10529,2026-03-18 18:26,2026-03-18 20:24,Software,High,Phone,Tier 2 - Applications,5.0
+TCK-10530,2026-03-18 18:36,2026-03-19 06:19,Software,Medium,Chat,Tier 2 - Applications,4.0
+TCK-10531,2026-03-19 07:40,2026-03-20 04:20,Software,Medium,Chat,Tier 2 - Applications,3.0
+TCK-10532,2026-03-19 08:11,2026-03-19 10:24,Access & Accounts,High,Phone,Tier 1 - Service Desk,5.0
+TCK-10533,2026-03-19 08:16,2026-03-19 23:43,Software,High,Self-Service Portal,Tier 2 - Applications,5.0
+TCK-10534,2026-03-19 10:53,2026-03-20 01:53,Access & Accounts,Medium,Self-Service Portal,Tier 1 - Service Desk,4.0
+TCK-10535,2026-03-19 11:31,2026-03-20 14:17,Software,Medium,Self-Service Portal,Tier 2 - Applications,3.0
+TCK-10536,2026-03-19 11:45,2026-03-20 10:10,Network,Medium,Email,Tier 2 - Infrastructure,4.0
+TCK-10537,2026-03-19 12:09,2026-03-20 20:52,Software,Low,Chat,Tier 2 - Applications,5.0
+TCK-10538,2026-03-19 13:26,2026-03-21 15:03,Network,Medium,Phone,Tier 2 - Infrastructure,2.0
+TCK-10539,2026-03-19 14:20,2026-03-19 18:33,Access & Accounts,Medium,Self-Service Portal,Tier 1 - Service Desk,5.0
+TCK-10540,2026-03-19 15:12,2026-03-19 20:37,Software,High,Email,Tier 2 - Applications,4.0
+TCK-10541,2026-03-19 18:11,2026-03-20 12:46,Software,Medium,Self-Service Portal,Tier 2 - Applications,5.0
+TCK-10542,2026-03-20 09:21,2026-03-20 15:27,Software,High,Email,Tier 2 - Applications,5.0
+TCK-10543,2026-03-20 09:26,2026-03-22 13:27,Software,Medium,Self-Service Portal,Tier 2 - Applications,2.0
+TCK-10544,2026-03-20 13:02,2026-03-21 13:24,Access & Accounts,Low,Self-Service Portal,Tier 1 - Service Desk,3.0
+TCK-10545,2026-03-20 15:21,2026-03-21 23:07,Software,Medium,Self-Service Portal,Tier 2 - Applications,4.0
+TCK-10546,2026-03-20 15:43,2026-03-21 02:01,Network,High,Email,Tier 2 - Infrastructure,4.0
+TCK-10547,2026-03-20 15:43,2026-03-22 08:14,Software,Low,Self-Service Portal,Tier 2 - Applications,4.0
+TCK-10548,2026-03-20 16:31,2026-03-22 02:06,Software,Medium,Self-Service Portal,Tier 2 - Applications,4.0
+TCK-10549,2026-03-20 17:20,2026-03-22 06:45,Software,Low,Self-Service Portal,Tier 2 - Applications,3.0
+TCK-10550,2026-03-20 17:30,2026-03-21 17:19,Software,Medium,Email,Tier 2 - Applications,4.0
+TCK-10551,2026-03-20 17:58,2026-03-21 00:55,Software,High,Email,Tier 2 - Applications,4.0
+TCK-10552,2026-03-20 18:06,2026-03-21 01:15,Access & Accounts,Medium,Phone,Tier 1 - Service Desk,4.0
+TCK-10553,2026-03-20 18:56,2026-03-21 00:52,Access & Accounts,Medium,Chat,Tier 1 - Service Desk,5.0
+TCK-10554,2026-03-21 07:03,2026-03-21 13:57,Software,High,Email,Tier 2 - Applications,5.0
+TCK-10555,2026-03-21 07:56,2026-03-21 13:42,Access & Accounts,Medium,Email,Tier 1 - Service Desk,5.0
+TCK-10556,2026-03-21 10:45,2026-03-21 21:56,Software,Medium,Email,Tier 2 - Applications,5.0
+TCK-10557,2026-03-21 12:26,2026-03-25 09:21,Hardware,Low,Phone,Tier 2 - Infrastructure,1.0
+TCK-10558,2026-03-22 08:46,2026-03-23 05:40,Hardware,High,Email,Tier 2 - Infrastructure,4.0
+TCK-10559,2026-03-22 09:31,2026-03-22 10:29,Software,Critical,Phone,Tier 2 - Applications,5.0
+TCK-10560,2026-03-22 13:04,2026-03-25 20:10,Hardware,Low,Self-Service Portal,Tier 2 - Infrastructure,3.0
+TCK-10561,2026-03-22 14:20,2026-03-23 12:57,Access & Accounts,Low,Email,Tier 1 - Service Desk,4.0
+TCK-10562,2026-03-22 18:35,2026-03-22 21:20,Software,High,Email,Tier 2 - Applications,5.0
+TCK-10563,2026-03-23 07:19,2026-03-25 15:46,Software,Low,Chat,Tier 2 - Applications,3.0
+TCK-10564,2026-03-23 08:03,2026-03-24 11:12,Software,Medium,Self-Service Portal,Tier 2 - Applications,4.0
+TCK-10565,2026-03-23 09:04,2026-03-23 13:59,Software,High,Email,Tier 2 - Applications,5.0
+TCK-10566,2026-03-23 09:28,2026-03-24 20:55,Access & Accounts,Low,Phone,Tier 1 - Service Desk,3.0
+TCK-10567,2026-03-23 09:36,2026-03-23 18:07,Email,Medium,Email,Tier 1 - Service Desk,4.0
+TCK-10568,2026-03-23 09:47,2026-03-24 00:09,Network,Medium,Email,Tier 2 - Infrastructure,3.0
+TCK-10569,2026-03-23 11:11,2026-03-24 12:00,Software,Low,Phone,Tier 2 - Applications,4.0
+TCK-10570,2026-03-23 12:57,2026-03-23 20:10,Access & Accounts,Medium,Chat,Tier 1 - Service Desk,5.0
+TCK-10571,2026-03-23 14:41,2026-03-24 08:11,Software,Low,Phone,Tier 2 - Applications,4.0
+TCK-10572,2026-03-23 15:29,2026-03-23 21:24,Software,Critical,Email,Tier 2 - Applications,4.0
+TCK-10573,2026-03-23 16:14,2026-03-24 13:56,Software,Medium,Self-Service Portal,Tier 2 - Applications,5.0
+TCK-10574,2026-03-23 17:42,2026-03-27 04:16,Network,Low,Self-Service Portal,Tier 2 - Infrastructure,2.0
+TCK-10575,2026-03-23 18:16,2026-03-25 15:22,Hardware,Low,Email,Tier 2 - Infrastructure,3.0
+TCK-10576,2026-03-23 18:46,2026-03-24 18:59,Software,Low,Self-Service Portal,Tier 2 - Applications,3.0
+TCK-10577,2026-03-24 07:13,2026-03-24 23:47,Email,High,Email,Tier 1 - Service Desk,3.0
+TCK-10578,2026-03-24 10:13,2026-03-26 15:11,Software,Low,Email,Tier 2 - Applications,4.0
+TCK-10579,2026-03-24 10:46,2026-03-25 19:01,Email,Low,Email,Tier 1 - Service Desk,4.0
+TCK-10580,2026-03-24 12:00,2026-03-27 05:54,Software,Low,Email,Tier 2 - Applications,3.0
+TCK-10581,2026-03-24 12:31,2026-03-26 06:23,Software,Low,Email,Tier 2 - Applications,3.0
+TCK-10582,2026-03-24 14:30,2026-03-24 17:01,Hardware,Critical,Self-Service Portal,Tier 2 - Infrastructure,5.0
+TCK-10583,2026-03-24 15:20,2026-03-25 10:10,Software,Medium,Self-Service Portal,Tier 2 - Applications,4.0
+TCK-10584,2026-03-24 15:36,2026-03-25 05:02,Access & Accounts,Medium,Phone,Tier 1 - Service Desk,5.0
+TCK-10585,2026-03-24 16:24,2026-03-25 23:43,Software,High,Chat,Tier 2 - Applications,4.0
+TCK-10586,2026-03-24 16:40,2026-03-25 16:23,Software,Medium,Email,Tier 2 - Applications,5.0
+TCK-10587,2026-03-24 17:40,2026-03-25 00:40,Software,Medium,Self-Service Portal,Tier 2 - Applications,5.0
+TCK-10588,2026-03-25 08:30,2026-03-25 12:24,Email,High,Self-Service Portal,Tier 1 - Service Desk,5.0
+TCK-10589,2026-03-25 08:31,2026-03-26 09:57,Software,Medium,Email,Tier 2 - Applications,3.0
+TCK-10590,2026-03-25 09:45,2026-03-25 18:24,Software,High,Phone,Tier 2 - Applications,4.0
+TCK-10591,2026-03-25 10:17,2026-04-01 21:33,Hardware,Low,Self-Service Portal,Tier 2 - Infrastructure,1.0
+TCK-10592,2026-03-25 10:51,2026-03-26 07:45,Hardware,Medium,Self-Service Portal,Tier 2 - Infrastructure,4.0
+TCK-10593,2026-03-25 10:59,2026-03-27 16:00,Hardware,Medium,Email,Tier 2 - Infrastructure,2.0
+TCK-10594,2026-03-25 11:00,2026-03-26 04:16,Email,Low,Email,Tier 1 - Service Desk,4.0
+TCK-10595,2026-03-25 11:05,2026-03-25 23:53,Software,Medium,Phone,Tier 2 - Applications,5.0
+TCK-10596,2026-03-25 12:01,2026-03-28 03:31,Software,Low,Email,Tier 2 - Applications,2.0
+TCK-10597,2026-03-25 12:18,2026-03-27 00:16,Software,Medium,Email,Tier 2 - Applications,4.0
+TCK-10598,2026-03-25 13:30,2026-03-26 00:49,Access & Accounts,Medium,Email,Tier 1 - Service Desk,5.0
+TCK-10599,2026-03-25 13:34,2026-03-26 04:51,Software,High,Chat,Tier 2 - Applications,4.0
+TCK-10600,2026-03-25 16:45,2026-03-26 19:19,Network,Medium,Chat,Tier 2 - Infrastructure,4.0
+TCK-10601,2026-03-25 18:18,2026-03-25 21:38,Software,Critical,Email,Tier 2 - Applications,4.0
+TCK-10602,2026-03-26 08:05,2026-03-30 09:53,Hardware,Low,Email,Tier 2 - Infrastructure,2.0
+TCK-10603,2026-03-26 11:10,2026-04-01 15:43,Network,Low,Self-Service Portal,Tier 2 - Infrastructure,1.0
+TCK-10604,2026-03-26 12:20,2026-03-26 20:17,Access & Accounts,Medium,Self-Service Portal,Tier 1 - Service Desk,5.0
+TCK-10605,2026-03-26 14:00,2026-03-27 05:22,Software,Medium,Chat,Tier 2 - Applications,4.0
+TCK-10606,2026-03-26 15:39,2026-03-27 05:16,Network,High,Self-Service Portal,Tier 2 - Infrastructure,5.0
+TCK-10607,2026-03-26 16:36,2026-03-27 03:16,Software,Medium,Self-Service Portal,Tier 2 - Applications,5.0
+TCK-10608,2026-03-26 16:48,2026-03-28 15:39,Software,Low,Self-Service Portal,Tier 2 - Applications,4.0
+TCK-10609,2026-03-26 17:14,2026-03-26 21:26,Access & Accounts,High,Self-Service Portal,Tier 1 - Service Desk,5.0
+TCK-10610,2026-03-26 17:36,2026-03-27 02:56,Software,High,Email,Tier 2 - Applications,5.0
+TCK-10611,2026-03-26 18:16,2026-03-27 15:52,Software,Low,Phone,Tier 2 - Applications,5.0
+TCK-10612,2026-03-27 07:18,2026-03-27 18:34,Software,Medium,Chat,Tier 2 - Applications,3.0
+TCK-10613,2026-03-27 07:41,2026-03-27 22:19,Hardware,High,Self-Service Portal,Tier 2 - Infrastructure,4.0
+TCK-10614,2026-03-27 09:06,2026-03-27 18:59,Software,Medium,Chat,Tier 2 - Applications,3.0
+TCK-10615,2026-03-27 09:16,2026-03-28 06:22,Software,Medium,Email,Tier 2 - Applications,3.0
+TCK-10616,2026-03-27 09:20,2026-03-27 19:05,Software,High,Self-Service Portal,Tier 2 - Applications,4.0
+TCK-10617,2026-03-27 11:39,2026-03-30 11:00,Hardware,Low,Email,Tier 2 - Infrastructure,2.0
+TCK-10618,2026-03-27 12:15,2026-03-31 16:00,Hardware,Medium,Phone,Tier 2 - Infrastructure,1.0
+TCK-10619,2026-03-27 14:39,2026-03-29 06:11,Hardware,Medium,Phone,Tier 2 - Infrastructure,3.0
+TCK-10620,2026-03-27 16:11,2026-03-28 14:24,Software,Medium,Email,Tier 2 - Applications,4.0
+TCK-10621,2026-03-27 16:22,2026-03-27 20:50,Access & Accounts,Medium,Email,Tier 1 - Service Desk,4.0
+TCK-10622,2026-03-27 16:52,2026-03-28 03:20,Email,Low,Self-Service Portal,Tier 1 - Service Desk,5.0
+TCK-10623,2026-03-27 17:00,2026-03-28 07:19,Access & Accounts,Medium,Email,Tier 1 - Service Desk,4.0
+TCK-10624,2026-03-27 18:19,2026-03-28 03:38,Network,High,Phone,Tier 2 - Infrastructure,5.0
+TCK-10625,2026-03-28 10:06,2026-03-29 05:55,Hardware,Medium,Self-Service Portal,Tier 2 - Infrastructure,4.0
+TCK-10626,2026-03-28 17:40,2026-03-30 00:49,Email,Low,Self-Service Portal,Tier 1 - Service Desk,3.0
+TCK-10627,2026-03-28 17:51,2026-03-29 13:24,Network,Medium,Self-Service Portal,Tier 2 - Infrastructure,4.0
+TCK-10628,2026-03-29 14:04,2026-03-29 18:13,Software,Critical,Self-Service Portal,Tier 2 - Applications,5.0
+TCK-10629,2026-03-29 14:59,2026-04-01 06:48,Hardware,Low,Email,Tier 2 - Infrastructure,2.0
+TCK-10630,2026-03-29 16:20,2026-03-29 19:36,Hardware,Critical,Chat,Tier 2 - Infrastructure,5.0
+TCK-10631,2026-03-29 17:56,2026-03-29 18:43,Access & Accounts,Critical,Phone,Tier 1 - Service Desk,3.0
+TCK-10632,2026-03-30 07:09,2026-03-31 08:48,Hardware,High,Self-Service Portal,Tier 2 - Infrastructure,4.0
+TCK-10633,2026-03-30 07:21,2026-03-30 22:02,Software,Medium,Self-Service Portal,Tier 2 - Applications,5.0
+TCK-10634,2026-03-30 08:02,2026-03-30 12:46,Software,Critical,Self-Service Portal,Tier 2 - Applications,3.0
+TCK-10635,2026-03-30 11:04,2026-03-30 12:37,Software,High,Phone,Tier 2 - Applications,5.0
+TCK-10636,2026-03-30 12:18,2026-03-30 19:39,Access & Accounts,Medium,Self-Service Portal,Tier 1 - Service Desk,5.0
+TCK-10637,2026-03-30 13:38,2026-03-30 15:17,Access & Accounts,Critical,Chat,Tier 1 - Service Desk,5.0
+TCK-10638,2026-03-30 14:08,2026-04-04 01:56,Software,Low,Email,Tier 2 - Applications,1.0
+TCK-10639,2026-03-30 16:58,2026-03-31 17:31,Software,Medium,Email,Tier 2 - Applications,3.0
+TCK-10640,2026-03-30 16:59,2026-03-31 22:16,Hardware,Medium,Email,Tier 2 - Infrastructure,3.0
+TCK-10641,2026-03-30 17:16,2026-04-03 08:07,Software,Low,Self-Service Portal,Tier 2 - Applications,1.0
+TCK-10642,2026-03-31 08:00,2026-04-02 08:58,Network,Medium,Email,Tier 2 - Infrastructure,3.0
+TCK-10643,2026-03-31 09:30,2026-03-31 16:34,Software,Critical,Phone,Tier 2 - Applications,4.0
+TCK-10644,2026-03-31 11:12,2026-04-01 05:20,Software,Medium,Self-Service Portal,Tier 2 - Applications,4.0
+TCK-10645,2026-03-31 11:25,2026-04-02 03:35,Software,Medium,Email,Tier 2 - Applications,5.0
+TCK-10646,2026-03-31 12:09,2026-04-02 08:25,Software,Low,Email,Tier 2 - Applications,3.0
+TCK-10647,2026-03-31 12:18,2026-04-03 12:26,Email,Low,Phone,Tier 1 - Service Desk,2.0
+TCK-10648,2026-03-31 14:40,2026-04-01 11:47,Software,Medium,Chat,Tier 2 - Applications,4.0
+TCK-10649,2026-03-31 14:59,2026-04-01 21:34,Access & Accounts,Low,Phone,Tier 1 - Service Desk,4.0
+TCK-10650,2026-03-31 17:25,2026-04-01 11:26,Hardware,Medium,Self-Service Portal,Tier 2 - Infrastructure,5.0
+TCK-10651,2026-03-31 18:29,2026-03-31 23:18,Software,High,Phone,Tier 2 - Applications,5.0
+TCK-10652,2026-04-01 13:32,2026-04-03 04:57,Hardware,Medium,Email,Tier 2 - Infrastructure,4.0
+TCK-10653,2026-04-01 13:33,2026-04-02 15:52,Access & Accounts,Medium,Email,Tier 1 - Service Desk,4.0
+TCK-10654,2026-04-02 07:25,2026-04-02 19:01,Software,High,Self-Service Portal,Tier 2 - Applications,4.0
+TCK-10655,2026-04-02 07:32,2026-04-02 19:09,Software,Medium,Email,Tier 2 - Applications,5.0
+TCK-10656,2026-04-02 09:05,2026-04-02 18:50,Hardware,High,Self-Service Portal,Tier 2 - Infrastructure,5.0
+TCK-10657,2026-04-02 09:16,2026-04-04 02:07,Email,Low,Email,Tier 1 - Service Desk,2.0
+TCK-10658,2026-04-02 09:20,2026-04-03 19:03,Network,Low,Email,Tier 2 - Infrastructure,3.0
+TCK-10659,2026-04-02 09:27,2026-04-02 15:33,Access & Accounts,High,Chat,Tier 1 - Service Desk,4.0
+TCK-10660,2026-04-02 09:28,2026-04-02 19:17,Software,High,Chat,Tier 2 - Applications,4.0
+TCK-10661,2026-04-02 10:27,2026-04-03 05:15,Hardware,Medium,Self-Service Portal,Tier 2 - Infrastructure,4.0
+TCK-10662,2026-04-02 11:09,2026-04-03 02:20,Software,Medium,Self-Service Portal,Tier 2 - Applications,5.0
+TCK-10663,2026-04-02 12:18,2026-04-03 10:05,Hardware,Medium,Self-Service Portal,Tier 2 - Infrastructure,5.0
+TCK-10664,2026-04-02 12:24,2026-04-03 08:37,Network,High,Chat,Tier 2 - Infrastructure,5.0
+TCK-10665,2026-04-02 14:03,2026-04-02 17:49,Software,High,Email,Tier 2 - Applications,5.0
+TCK-10666,2026-04-03 07:32,2026-04-03 17:03,Software,Medium,Email,Tier 2 - Applications,4.0
+TCK-10667,2026-04-03 09:08,2026-04-05 08:53,Network,Medium,Email,Tier 2 - Infrastructure,3.0
+TCK-10668,2026-04-03 10:35,2026-04-03 20:15,Access & Accounts,Medium,Phone,Tier 1 - Service Desk,5.0
+TCK-10669,2026-04-03 10:46,2026-04-04 00:55,Access & Accounts,Medium,Phone,Tier 1 - Service Desk,4.0
+TCK-10670,2026-04-03 18:51,2026-04-03 21:22,Software,Critical,Email,Tier 2 - Applications,5.0
+TCK-10671,2026-04-04 14:58,2026-04-05 07:25,Hardware,High,Self-Service Portal,Tier 2 - Infrastructure,4.0
+TCK-10672,2026-04-05 09:58,2026-04-06 22:36,Hardware,Medium,Chat,Tier 2 - Infrastructure,5.0
+TCK-10673,2026-04-05 12:58,2026-04-06 18:33,Hardware,Medium,Email,Tier 2 - Infrastructure,3.0
+TCK-10674,2026-04-05 13:43,2026-04-05 20:21,Access & Accounts,Medium,Self-Service Portal,Tier 1 - Service Desk,5.0
+TCK-10675,2026-04-06 11:26,2026-04-09 02:47,Software,Low,Self-Service Portal,Tier 2 - Applications,2.0
+TCK-10676,2026-04-06 13:09,2026-04-07 05:22,Software,Low,Self-Service Portal,Tier 2 - Applications,5.0
+TCK-10677,2026-04-06 13:55,2026-04-07 17:13,Hardware,Medium,Email,Tier 2 - Infrastructure,4.0
+TCK-10678,2026-04-06 17:39,2026-04-06 23:08,Software,High,Email,Tier 2 - Applications,5.0
+TCK-10679,2026-04-06 18:10,2026-04-06 21:18,Access & Accounts,Critical,Self-Service Portal,Tier 1 - Service Desk,5.0
+TCK-10680,2026-04-06 18:55,2026-04-09 07:54,Hardware,Medium,Self-Service Portal,Tier 2 - Infrastructure,4.0
+TCK-10681,2026-04-07 08:45,2026-04-08 18:22,Software,Medium,Self-Service Portal,Tier 2 - Applications,3.0
+TCK-10682,2026-04-07 08:58,2026-04-08 00:53,Hardware,Medium,Email,Tier 2 - Infrastructure,5.0
+TCK-10683,2026-04-07 09:08,2026-04-07 12:54,Software,Medium,Email,Tier 2 - Applications,3.0
+TCK-10684,2026-04-07 12:31,2026-04-07 21:17,Email,High,Email,Tier 1 - Service Desk,5.0
+TCK-10685,2026-04-07 14:27,2026-04-07 21:10,Hardware,High,Phone,Tier 2 - Infrastructure,5.0
+TCK-10686,2026-04-08 11:26,2026-04-16 12:35,Network,Low,Email,Tier 2 - Infrastructure,1.0
+TCK-10687,2026-04-08 12:38,2026-04-10 15:49,Hardware,Medium,Email,Tier 2 - Infrastructure,3.0
+TCK-10688,2026-04-08 15:32,2026-04-10 23:50,Hardware,Medium,Email,Tier 2 - Infrastructure,3.0
+TCK-10689,2026-04-08 16:13,2026-04-10 13:22,Hardware,Low,Chat,Tier 2 - Infrastructure,3.0
+TCK-10690,2026-04-08 18:24,2026-04-10 05:31,Access & Accounts,Low,Self-Service Portal,Tier 1 - Service Desk,5.0
+TCK-10691,2026-04-08 18:26,2026-04-09 06:38,Access & Accounts,Medium,Self-Service Portal,Tier 1 - Service Desk,5.0
+TCK-10692,2026-04-08 18:43,2026-04-09 11:49,Network,Medium,Email,Tier 2 - Infrastructure,4.0
+TCK-10693,2026-04-09 10:46,2026-04-09 20:25,Software,Medium,Email,Tier 2 - Applications,3.0
+TCK-10694,2026-04-09 11:36,2026-04-09 21:55,Software,High,Self-Service Portal,Tier 2 - Applications,4.0
+TCK-10695,2026-04-09 11:58,2026-04-14 01:07,Network,Low,Phone,Tier 2 - Infrastructure,1.0
+TCK-10696,2026-04-09 12:13,2026-04-09 17:20,Access & Accounts,Medium,Phone,Tier 1 - Service Desk,5.0
+TCK-10697,2026-04-09 13:11,2026-04-10 22:23,Software,Medium,Chat,Tier 2 - Applications,4.0
+TCK-10698,2026-04-09 13:38,2026-04-10 08:53,Access & Accounts,Medium,Email,Tier 1 - Service Desk,5.0
+TCK-10699,2026-04-09 13:46,2026-04-11 18:12,Network,Low,Chat,Tier 2 - Infrastructure,2.0
+TCK-10700,2026-04-09 15:08,2026-04-09 16:59,Access & Accounts,High,Email,Tier 1 - Service Desk,5.0
+TCK-10701,2026-04-09 16:19,2026-04-10 08:51,Email,Medium,Email,Tier 1 - Service Desk,4.0
+TCK-10702,2026-04-09 17:43,2026-04-10 19:01,Access & Accounts,Low,Self-Service Portal,Tier 1 - Service Desk,4.0
+TCK-10703,2026-04-09 18:42,2026-04-09 21:30,Hardware,Critical,Self-Service Portal,Tier 2 - Infrastructure,5.0
+TCK-10704,2026-04-10 08:26,2026-04-10 14:59,Software,Critical,Email,Tier 2 - Applications,5.0
+TCK-10705,2026-04-10 08:56,2026-04-11 16:47,Access & Accounts,Low,Phone,Tier 1 - Service Desk,4.0
+TCK-10706,2026-04-10 09:28,2026-04-11 02:58,Software,Medium,Email,Tier 2 - Applications,5.0
+TCK-10707,2026-04-10 10:59,2026-04-11 03:23,Access & Accounts,Medium,Chat,Tier 1 - Service Desk,3.0
+TCK-10708,2026-04-10 13:01,2026-04-11 07:57,Access & Accounts,Medium,Self-Service Portal,Tier 1 - Service Desk,3.0
+TCK-10709,2026-04-10 13:15,2026-04-11 19:41,Access & Accounts,Low,Email,Tier 1 - Service Desk,4.0
+TCK-10710,2026-04-10 13:39,2026-04-11 14:30,Access & Accounts,Medium,Email,Tier 1 - Service Desk,4.0
+TCK-10711,2026-04-10 18:58,2026-04-11 12:14,Access & Accounts,Low,Phone,Tier 1 - Service Desk,5.0
+TCK-10712,2026-04-11 17:02,2026-04-14 18:02,Network,Medium,Self-Service Portal,Tier 2 - Infrastructure,2.0
+TCK-10713,2026-04-12 12:12,2026-04-14 00:57,Network,Medium,Phone,Tier 2 - Infrastructure,3.0
+TCK-10714,2026-04-12 13:15,2026-04-12 15:11,Access & Accounts,Critical,Email,Tier 1 - Service Desk,5.0
+TCK-10715,2026-04-12 13:41,2026-04-12 21:08,Hardware,High,Self-Service Portal,Tier 2 - Infrastructure,5.0
+TCK-10716,2026-04-12 17:35,2026-04-13 05:09,Software,Medium,Self-Service Portal,Tier 2 - Applications,5.0
+TCK-10717,2026-04-12 18:19,2026-04-13 13:31,Hardware,High,Chat,Tier 2 - Infrastructure,4.0
+TCK-10718,2026-04-13 07:33,2026-04-14 18:02,Hardware,Low,Email,Tier 2 - Infrastructure,4.0
+TCK-10719,2026-04-13 12:55,2026-04-13 23:43,Software,High,Email,Tier 2 - Applications,5.0
+TCK-10720,2026-04-13 13:46,2026-04-13 18:45,Access & Accounts,High,Chat,Tier 1 - Service Desk,5.0
+TCK-10721,2026-04-13 14:27,2026-04-14 19:03,Email,Medium,Email,Tier 1 - Service Desk,4.0
+TCK-10722,2026-04-13 16:17,2026-04-14 12:55,Hardware,Medium,Self-Service Portal,Tier 2 - Infrastructure,5.0
+TCK-10723,2026-04-14 11:14,2026-04-15 00:40,Hardware,High,Phone,Tier 2 - Infrastructure,5.0
+TCK-10724,2026-04-14 13:45,2026-04-14 17:55,Software,Critical,Email,Tier 2 - Applications,4.0
+TCK-10725,2026-04-14 15:41,2026-04-15 01:23,Software,Medium,Email,Tier 2 - Applications,5.0
+TCK-10726,2026-04-14 17:55,2026-04-15 01:43,Software,Medium,Phone,Tier 2 - Applications,5.0
+TCK-10727,2026-04-14 18:34,2026-04-14 20:02,Access & Accounts,Critical,Email,Tier 1 - Service Desk,5.0
+TCK-10728,2026-04-14 18:36,2026-04-17 20:13,Software,Low,Phone,Tier 2 - Applications,2.0
+TCK-10729,2026-04-14 18:52,2026-04-17 16:56,Software,Low,Self-Service Portal,Tier 2 - Applications,3.0
+TCK-10730,2026-04-15 08:50,2026-04-15 18:17,Software,Medium,Phone,Tier 2 - Applications,5.0
+TCK-10731,2026-04-15 08:53,2026-04-16 05:27,Email,Medium,Self-Service Portal,Tier 1 - Service Desk,3.0
+TCK-10732,2026-04-15 09:22,2026-04-15 21:35,Software,Medium,Self-Service Portal,Tier 2 - Applications,4.0
+TCK-10733,2026-04-15 11:27,2026-04-16 18:31,Software,Low,Self-Service Portal,Tier 2 - Applications,4.0
+TCK-10734,2026-04-15 14:18,2026-04-16 03:56,Access & Accounts,Low,Phone,Tier 1 - Service Desk,5.0
+TCK-10735,2026-04-15 16:32,2026-04-15 18:16,Access & Accounts,High,Phone,Tier 1 - Service Desk,4.0
+TCK-10736,2026-04-16 07:22,2026-04-19 13:09,Software,Low,Email,Tier 2 - Applications,2.0
+TCK-10737,2026-04-16 09:21,2026-04-17 00:22,Access & Accounts,Low,Self-Service Portal,Tier 1 - Service Desk,4.0
+TCK-10738,2026-04-16 10:41,2026-04-17 21:50,Hardware,Low,Email,Tier 2 - Infrastructure,4.0
+TCK-10739,2026-04-16 14:08,2026-04-16 15:56,Software,High,Phone,Tier 2 - Applications,5.0
+TCK-10740,2026-04-16 14:14,2026-04-16 18:57,Hardware,Critical,Phone,Tier 2 - Infrastructure,5.0
+TCK-10741,2026-04-16 14:31,2026-04-19 14:06,Network,Low,Phone,Tier 2 - Infrastructure,1.0
+TCK-10742,2026-04-16 18:42,2026-04-17 00:01,Software,Medium,Email,Tier 2 - Applications,5.0
+TCK-10743,2026-04-17 09:38,2026-04-18 14:30,Network,Medium,Phone,Tier 2 - Infrastructure,3.0
+TCK-10744,2026-04-17 11:12,2026-04-18 03:34,Access & Accounts,Medium,Chat,Tier 1 - Service Desk,4.0
+TCK-10745,2026-04-17 11:39,2026-04-18 16:58,Email,Low,Email,Tier 1 - Service Desk,3.0
+TCK-10746,2026-04-17 12:05,2026-04-17 16:29,Email,Medium,Chat,Tier 1 - Service Desk,5.0
+TCK-10747,2026-04-17 14:34,2026-04-22 16:08,Software,Low,Email,Tier 2 - Applications,1.0
+TCK-10748,2026-04-17 18:15,2026-04-18 06:15,Software,Medium,Email,Tier 2 - Applications,5.0
+TCK-10749,2026-04-17 18:22,2026-04-20 01:40,Hardware,Medium,Self-Service Portal,Tier 2 - Infrastructure,3.0
+TCK-10750,2026-04-18 11:07,2026-04-19 16:59,Software,Medium,Email,Tier 2 - Applications,4.0
+TCK-10751,2026-04-18 13:39,2026-04-20 07:10,Software,Low,Phone,Tier 2 - Applications,3.0
+TCK-10752,2026-04-18 14:40,2026-04-19 05:55,Software,Medium,Phone,Tier 2 - Applications,5.0
+TCK-10753,2026-04-19 11:07,2026-04-19 22:43,Access & Accounts,Low,Email,Tier 1 - Service Desk,4.0
+TCK-10754,2026-04-19 12:30,2026-04-20 02:27,Software,Medium,Email,Tier 2 - Applications,5.0
+TCK-10755,2026-04-19 17:14,2026-04-19 21:22,Network,High,Email,Tier 2 - Infrastructure,5.0
+TCK-10756,2026-04-20 07:12,2026-04-25 03:07,Network,Low,Chat,Tier 2 - Infrastructure,1.0
+TCK-10757,2026-04-20 10:58,2026-04-21 07:29,Software,Medium,Self-Service Portal,Tier 2 - Applications,4.0
+TCK-10758,2026-04-20 12:30,2026-04-20 17:27,Email,High,Email,Tier 1 - Service Desk,4.0
+TCK-10759,2026-04-20 12:35,2026-04-20 20:48,Software,High,Self-Service Portal,Tier 2 - Applications,5.0
+TCK-10760,2026-04-20 12:53,2026-04-21 09:11,Hardware,Medium,Self-Service Portal,Tier 2 - Infrastructure,4.0
+TCK-10761,2026-04-20 18:45,2026-04-21 11:12,Access & Accounts,Medium,Email,Tier 1 - Service Desk,5.0
+TCK-10762,2026-04-21 08:55,2026-04-23 10:08,Access & Accounts,Low,Chat,Tier 1 - Service Desk,3.0
+TCK-10763,2026-04-21 13:02,2026-04-22 13:27,Email,Medium,Self-Service Portal,Tier 1 - Service Desk,4.0
+TCK-10764,2026-04-21 14:03,2026-04-23 12:22,Hardware,Medium,Self-Service Portal,Tier 2 - Infrastructure,3.0
+TCK-10765,2026-04-21 14:45,2026-04-22 22:21,Network,High,Self-Service Portal,Tier 2 - Infrastructure,5.0
+TCK-10766,2026-04-21 18:36,2026-04-22 04:45,Software,Medium,Email,Tier 2 - Applications,5.0
+TCK-10767,2026-04-22 07:34,2026-04-22 19:45,Network,High,Phone,Tier 2 - Infrastructure,4.0
+TCK-10768,2026-04-22 07:51,2026-04-22 18:22,Software,High,Self-Service Portal,Tier 2 - Applications,3.0
+TCK-10769,2026-04-22 09:02,2026-04-22 12:39,Software,Critical,Self-Service Portal,Tier 2 - Applications,5.0
+TCK-10770,2026-04-22 09:06,2026-04-23 05:03,Access & Accounts,Low,Chat,Tier 1 - Service Desk,4.0
+TCK-10771,2026-04-22 09:50,2026-04-22 22:36,Network,High,Phone,Tier 2 - Infrastructure,5.0
+TCK-10772,2026-04-22 10:22,2026-04-22 20:58,Hardware,Medium,Self-Service Portal,Tier 2 - Infrastructure,4.0
+TCK-10773,2026-04-22 10:51,2026-04-23 04:55,Software,Medium,Email,Tier 2 - Applications,5.0
+TCK-10774,2026-04-22 10:53,2026-04-22 13:08,Access & Accounts,High,Self-Service Portal,Tier 1 - Service Desk,5.0
+TCK-10775,2026-04-22 11:21,2026-04-25 12:01,Network,Low,Self-Service Portal,Tier 2 - Infrastructure,3.0
+TCK-10776,2026-04-22 13:42,2026-04-24 19:57,Email,Low,Email,Tier 1 - Service Desk,3.0
+TCK-10777,2026-04-22 14:34,2026-04-22 16:46,Access & Accounts,Critical,Email,Tier 1 - Service Desk,5.0
+TCK-10778,2026-04-22 15:42,2026-04-23 17:28,Software,Low,Phone,Tier 2 - Applications,5.0
+TCK-10779,2026-04-22 17:35,2026-04-23 21:00,Software,Medium,Self-Service Portal,Tier 2 - Applications,3.0
+TCK-10780,2026-04-22 17:44,2026-04-23 00:56,Email,High,Self-Service Portal,Tier 1 - Service Desk,4.0
+TCK-10781,2026-04-23 07:05,2026-04-23 18:09,Access & Accounts,Medium,Email,Tier 1 - Service Desk,3.0
+TCK-10782,2026-04-23 09:11,2026-04-24 19:54,Hardware,Medium,Chat,Tier 2 - Infrastructure,4.0
+TCK-10783,2026-04-23 12:57,2026-04-24 10:51,Hardware,Medium,Email,Tier 2 - Infrastructure,5.0
+TCK-10784,2026-04-23 13:07,2026-04-24 05:10,Email,Low,Chat,Tier 1 - Service Desk,4.0
+TCK-10785,2026-04-23 13:07,2026-04-23 17:17,Software,High,Email,Tier 2 - Applications,4.0
+TCK-10786,2026-04-23 14:23,2026-04-24 08:31,Hardware,Medium,Email,Tier 2 - Infrastructure,5.0
+TCK-10787,2026-04-23 17:32,2026-04-24 00:28,Software,High,Email,Tier 2 - Applications,5.0
+TCK-10788,2026-04-24 07:01,2026-04-25 06:44,Software,Medium,Email,Tier 2 - Applications,4.0
+TCK-10789,2026-04-24 08:32,2026-04-26 17:24,Software,Low,Self-Service Portal,Tier 2 - Applications,4.0
+TCK-10790,2026-04-24 09:04,2026-04-25 10:05,Software,Medium,Email,Tier 2 - Applications,5.0
+TCK-10791,2026-04-24 09:46,2026-04-26 00:54,Software,Medium,Phone,Tier 2 - Applications,4.0
+TCK-10792,2026-04-24 12:30,2026-04-24 17:49,Access & Accounts,High,Email,Tier 1 - Service Desk,5.0
+TCK-10793,2026-04-24 13:21,2026-04-26 12:19,Hardware,Medium,Email,Tier 2 - Infrastructure,4.0
+TCK-10794,2026-04-24 13:33,2026-04-25 03:04,Software,Medium,Self-Service Portal,Tier 2 - Applications,4.0
+TCK-10795,2026-04-24 14:42,2026-04-25 14:49,Network,High,Email,Tier 2 - Infrastructure,3.0
+TCK-10796,2026-04-24 16:27,2026-04-25 06:03,Access & Accounts,Medium,Email,Tier 1 - Service Desk,5.0
+TCK-10797,2026-04-24 16:34,2026-04-27 04:53,Network,Medium,Phone,Tier 2 - Infrastructure,2.0
+TCK-10798,2026-04-25 11:33,2026-04-26 03:34,Access & Accounts,Medium,Self-Service Portal,Tier 1 - Service Desk,4.0
+TCK-10799,2026-04-25 12:23,2026-04-26 12:54,Access & Accounts,Low,Chat,Tier 1 - Service Desk,5.0
+TCK-10800,2026-04-26 07:37,2026-04-26 13:02,Access & Accounts,High,Phone,Tier 1 - Service Desk,5.0
+TCK-10801,2026-04-26 14:40,2026-04-28 07:25,Network,Low,Self-Service Portal,Tier 2 - Infrastructure,4.0
+TCK-10802,2026-04-26 18:14,2026-04-27 05:23,Access & Accounts,Low,Email,Tier 1 - Service Desk,5.0
+TCK-10803,2026-04-27 08:19,2026-04-27 13:43,Access & Accounts,High,Email,Tier 1 - Service Desk,5.0
+TCK-10804,2026-04-27 09:54,2026-04-28 14:16,Email,Medium,Chat,Tier 1 - Service Desk,5.0
+TCK-10805,2026-04-27 16:31,2026-04-28 15:49,Software,Low,Email,Tier 2 - Applications,3.0
+TCK-10806,2026-04-27 16:51,2026-04-29 14:12,Software,Medium,Chat,Tier 2 - Applications,3.0
+TCK-10807,2026-04-27 16:56,2026-05-01 09:42,Network,Low,Email,Tier 2 - Infrastructure,2.0
+TCK-10808,2026-04-27 16:58,2026-04-28 03:50,Access & Accounts,Low,Self-Service Portal,Tier 1 - Service Desk,4.0
+TCK-10809,2026-04-27 17:11,2026-04-29 00:04,Access & Accounts,Low,Phone,Tier 1 - Service Desk,3.0
+TCK-10810,2026-04-28 07:06,2026-04-28 20:22,Hardware,High,Chat,Tier 2 - Infrastructure,5.0
+TCK-10811,2026-04-28 07:28,2026-04-28 18:24,Software,Medium,Phone,Tier 2 - Applications,4.0
+TCK-10812,2026-04-28 08:11,2026-04-28 15:05,Access & Accounts,High,Phone,Tier 1 - Service Desk,5.0
+TCK-10813,2026-04-28 10:09,2026-04-29 02:35,Software,Medium,Email,Tier 2 - Applications,5.0
+TCK-10814,2026-04-28 10:49,2026-04-29 16:08,Access & Accounts,Low,Email,Tier 1 - Service Desk,3.0
+TCK-10815,2026-04-28 14:17,2026-05-02 05:06,Network,Medium,Phone,Tier 2 - Infrastructure,1.0
+TCK-10816,2026-04-28 16:59,2026-04-29 16:12,Network,High,Email,Tier 2 - Infrastructure,5.0
+TCK-10817,2026-04-28 18:37,2026-05-01 14:57,Network,Low,Email,Tier 2 - Infrastructure,2.0
+TCK-10818,2026-04-29 08:53,2026-05-02 22:29,Hardware,Low,Phone,Tier 2 - Infrastructure,1.0
+TCK-10819,2026-04-29 09:00,2026-05-04 02:03,Network,Low,Email,Tier 2 - Infrastructure,1.0
+TCK-10820,2026-04-29 09:23,2026-05-01 01:38,Software,Low,Self-Service Portal,Tier 2 - Applications,4.0
+TCK-10821,2026-04-29 10:08,2026-05-02 23:58,Software,Low,Chat,Tier 2 - Applications,2.0
+TCK-10822,2026-04-29 13:17,2026-04-30 01:59,Email,Medium,Email,Tier 1 - Service Desk,4.0
+TCK-10823,2026-04-29 15:50,2026-04-30 08:06,Email,Low,Self-Service Portal,Tier 1 - Service Desk,5.0
+TCK-10824,2026-04-30 10:37,2026-04-30 19:19,Software,Medium,Email,Tier 2 - Applications,5.0
+TCK-10825,2026-04-30 18:13,2026-04-30 22:04,Email,High,Email,Tier 1 - Service Desk,5.0
+TCK-10826,2026-04-30 18:15,2026-04-30 22:19,Hardware,Critical,Phone,Tier 2 - Infrastructure,5.0
+TCK-10827,2026-04-30 18:42,2026-05-01 02:27,Network,High,Phone,Tier 2 - Infrastructure,4.0
+TCK-10828,2026-05-01 07:20,2026-05-01 11:56,Hardware,Critical,Chat,Tier 2 - Infrastructure,5.0
+TCK-10829,2026-05-01 07:25,2026-05-01 23:44,Access & Accounts,Low,Chat,Tier 1 - Service Desk,5.0
+TCK-10830,2026-05-01 07:55,2026-05-02 09:07,Software,Medium,Self-Service Portal,Tier 2 - Applications,3.0
+TCK-10831,2026-05-01 08:13,2026-05-01 17:49,Access & Accounts,Medium,Email,Tier 1 - Service Desk,4.0
+TCK-10832,2026-05-01 08:44,2026-05-02 18:36,Hardware,Medium,Email,Tier 2 - Infrastructure,4.0
+TCK-10833,2026-05-01 10:16,2026-05-02 10:07,Software,Medium,Email,Tier 2 - Applications,4.0
+TCK-10834,2026-05-01 11:29,2026-05-02 06:53,Access & Accounts,Medium,Phone,Tier 1 - Service Desk,4.0
+TCK-10835,2026-05-01 13:37,2026-05-02 18:54,Email,Medium,Email,Tier 1 - Service Desk,3.0
+TCK-10836,2026-05-01 16:18,2026-05-01 19:03,Access & Accounts,High,Phone,Tier 1 - Service Desk,5.0
+TCK-10837,2026-05-02 10:33,2026-05-03 07:37,Access & Accounts,Medium,Email,Tier 1 - Service Desk,3.0
+TCK-10838,2026-05-03 15:55,2026-05-06 10:29,Software,Low,Chat,Tier 2 - Applications,3.0
+TCK-10839,2026-05-03 16:40,2026-05-04 04:03,Network,High,Email,Tier 2 - Infrastructure,5.0
+TCK-10840,2026-05-04 08:00,2026-05-05 12:07,Email,Low,Email,Tier 1 - Service Desk,4.0
+TCK-10841,2026-05-04 08:45,2026-05-04 22:47,Access & Accounts,Medium,Phone,Tier 1 - Service Desk,4.0
+TCK-10842,2026-05-04 10:39,2026-05-05 02:19,Email,Medium,Email,Tier 1 - Service Desk,4.0
+TCK-10843,2026-05-04 12:00,2026-05-06 02:11,Network,Medium,Email,Tier 2 - Infrastructure,3.0
+TCK-10844,2026-05-04 14:35,2026-05-04 23:49,Access & Accounts,High,Self-Service Portal,Tier 1 - Service Desk,3.0
+TCK-10845,2026-05-05 08:06,2026-05-05 15:55,Hardware,High,Self-Service Portal,Tier 2 - Infrastructure,5.0
+TCK-10846,2026-05-05 08:22,2026-05-05 16:14,Software,High,Email,Tier 2 - Applications,4.0
+TCK-10847,2026-05-05 08:30,2026-05-06 04:49,Hardware,Medium,Chat,Tier 2 - Infrastructure,3.0
+TCK-10848,2026-05-05 10:18,2026-05-05 12:10,Access & Accounts,Critical,Email,Tier 1 - Service Desk,4.0
+TCK-10849,2026-05-05 13:59,2026-05-07 16:39,Software,Low,Self-Service Portal,Tier 2 - Applications,3.0
+TCK-10850,2026-05-06 09:06,2026-05-06 14:20,Access & Accounts,High,Phone,Tier 1 - Service Desk,4.0
+TCK-10851,2026-05-06 09:51,2026-05-07 01:11,Access & Accounts,Medium,Email,Tier 1 - Service Desk,4.0
+TCK-10852,2026-05-06 13:15,2026-05-06 22:31,Software,Medium,Email,Tier 2 - Applications,5.0
+TCK-10853,2026-05-06 16:17,2026-05-07 21:51,Network,Medium,Email,Tier 2 - Infrastructure,3.0
+TCK-10854,2026-05-06 18:04,2026-05-08 23:45,Hardware,Medium,Self-Service Portal,Tier 2 - Infrastructure,4.0
+TCK-10855,2026-05-06 18:07,2026-05-06 22:40,Access & Accounts,High,Email,Tier 1 - Service Desk,5.0
+TCK-10856,2026-05-07 07:04,2026-05-08 06:55,Software,Medium,Email,Tier 2 - Applications,3.0
+TCK-10857,2026-05-07 07:09,2026-05-07 20:54,Hardware,Medium,Phone,Tier 2 - Infrastructure,5.0
+TCK-10858,2026-05-07 09:28,2026-05-07 13:46,Network,Critical,Email,Tier 2 - Infrastructure,5.0
+TCK-10859,2026-05-07 12:20,2026-05-07 13:12,Access & Accounts,Critical,Chat,Tier 1 - Service Desk,5.0
+TCK-10860,2026-05-07 13:35,2026-05-08 01:44,Hardware,High,Phone,Tier 2 - Infrastructure,4.0
+TCK-10861,2026-05-07 14:52,2026-05-08 07:02,Network,High,Email,Tier 2 - Infrastructure,4.0
+TCK-10862,2026-05-07 18:15,2026-05-08 05:06,Hardware,High,Phone,Tier 2 - Infrastructure,4.0
+TCK-10863,2026-05-08 09:35,2026-05-12 18:20,Hardware,Low,Email,Tier 2 - Infrastructure,1.0
+TCK-10864,2026-05-08 12:59,2026-05-08 20:53,Access & Accounts,Medium,Email,Tier 1 - Service Desk,5.0
+TCK-10865,2026-05-08 13:05,2026-05-09 14:48,Software,Medium,Chat,Tier 2 - Applications,4.0
+TCK-10866,2026-05-08 14:13,2026-05-08 18:35,Hardware,High,Email,Tier 2 - Infrastructure,4.0
+TCK-10867,2026-05-08 14:33,2026-05-09 17:19,Software,Low,Self-Service Portal,Tier 2 - Applications,5.0
+TCK-10868,2026-05-08 16:45,2026-05-09 18:02,Software,Medium,Self-Service Portal,Tier 2 - Applications,3.0
+TCK-10869,2026-05-08 17:45,2026-05-09 03:15,Hardware,Critical,Phone,Tier 2 - Infrastructure,5.0
+TCK-10870,2026-05-08 18:33,2026-05-09 14:06,Software,Medium,Chat,Tier 2 - Applications,4.0
+TCK-10871,2026-05-08 18:42,2026-05-10 02:44,Hardware,Medium,Phone,Tier 2 - Infrastructure,5.0
+TCK-10872,2026-05-09 11:20,2026-05-09 16:06,Software,High,Email,Tier 2 - Applications,5.0
+TCK-10873,2026-05-09 15:04,2026-05-13 15:45,Network,Medium,Email,Tier 2 - Infrastructure,1.0
+TCK-10874,2026-05-09 16:45,2026-05-10 16:08,Email,Medium,Self-Service Portal,Tier 1 - Service Desk,3.0
+TCK-10875,2026-05-09 18:22,2026-05-10 18:04,Access & Accounts,Medium,Phone,Tier 1 - Service Desk,4.0
+TCK-10876,2026-05-11 07:43,2026-05-11 08:08,Access & Accounts,Critical,Self-Service Portal,Tier 1 - Service Desk,5.0
+TCK-10877,2026-05-11 08:24,2026-05-11 18:46,Email,Medium,Self-Service Portal,Tier 1 - Service Desk,5.0
+TCK-10878,2026-05-11 08:27,2026-05-12 13:37,Access & Accounts,Medium,Phone,Tier 1 - Service Desk,3.0
+TCK-10879,2026-05-11 09:18,2026-05-12 03:29,Software,Medium,Chat,Tier 2 - Applications,4.0
+TCK-10880,2026-05-11 09:26,2026-05-12 17:27,Hardware,Low,Email,Tier 2 - Infrastructure,4.0
+TCK-10881,2026-05-11 12:06,2026-05-14 11:46,Hardware,Medium,Email,Tier 2 - Infrastructure,3.0
+TCK-10882,2026-05-11 13:42,2026-05-11 23:16,Email,Medium,Chat,Tier 1 - Service Desk,5.0
+TCK-10883,2026-05-11 18:07,2026-05-12 06:59,Access & Accounts,Low,Self-Service Portal,Tier 1 - Service Desk,5.0
+TCK-10884,2026-05-11 18:09,2026-05-11 23:19,Email,Medium,Email,Tier 1 - Service Desk,5.0
+TCK-10885,2026-05-11 18:58,2026-05-12 18:37,Software,Low,Self-Service Portal,Tier 2 - Applications,4.0
+TCK-10886,2026-05-12 09:18,2026-05-15 20:44,Network,Low,Email,Tier 2 - Infrastructure,2.0
+TCK-10887,2026-05-12 09:45,2026-05-14 23:48,Network,Medium,Self-Service Portal,Tier 2 - Infrastructure,3.0
+TCK-10888,2026-05-12 10:59,2026-05-14 11:07,Software,Low,Self-Service Portal,Tier 2 - Applications,3.0
+TCK-10889,2026-05-12 11:45,2026-05-12 16:25,Network,Critical,Email,Tier 2 - Infrastructure,5.0
+TCK-10890,2026-05-12 13:02,2026-05-12 19:14,Access & Accounts,Medium,Email,Tier 1 - Service Desk,5.0
+TCK-10891,2026-05-12 13:26,2026-05-14 08:26,Email,Low,Phone,Tier 1 - Service Desk,3.0
+TCK-10892,2026-05-12 13:29,2026-05-12 16:13,Email,Critical,Phone,Tier 1 - Service Desk,5.0
+TCK-10893,2026-05-12 15:02,2026-05-12 19:23,Software,High,Email,Tier 2 - Applications,5.0
+TCK-10894,2026-05-12 16:59,2026-05-14 02:00,Software,Low,Chat,Tier 2 - Applications,4.0
+TCK-10895,2026-05-12 17:50,2026-05-13 00:08,Access & Accounts,Medium,Email,Tier 1 - Service Desk,4.0
+TCK-10896,2026-05-13 10:59,2026-05-22 04:21,Hardware,Low,Chat,Tier 2 - Infrastructure,1.0
+TCK-10897,2026-05-13 11:39,2026-05-14 12:59,Email,Medium,Email,Tier 1 - Service Desk,4.0
+TCK-10898,2026-05-13 13:51,2026-05-14 10:20,Email,Medium,Self-Service Portal,Tier 1 - Service Desk,2.0
+TCK-10899,2026-05-13 15:20,2026-05-17 06:18,Hardware,Low,Phone,Tier 2 - Infrastructure,2.0
+TCK-10900,2026-05-13 17:45,2026-05-15 10:30,Software,Low,Self-Service Portal,Tier 2 - Applications,2.0
+TCK-10901,2026-05-14 09:27,2026-05-16 20:10,Software,Medium,Self-Service Portal,Tier 2 - Applications,3.0
+TCK-10902,2026-05-14 11:19,2026-05-16 09:49,Network,Medium,Self-Service Portal,Tier 2 - Infrastructure,3.0
+TCK-10903,2026-05-14 11:56,2026-05-14 18:13,Access & Accounts,Medium,Self-Service Portal,Tier 1 - Service Desk,4.0
+TCK-10904,2026-05-14 13:17,2026-05-15 10:42,Email,Low,Self-Service Portal,Tier 1 - Service Desk,5.0
+TCK-10905,2026-05-14 14:28,2026-05-18 03:35,Hardware,Low,Chat,Tier 2 - Infrastructure,1.0
+TCK-10906,2026-05-14 14:57,2026-05-16 20:21,Network,Low,Phone,Tier 2 - Infrastructure,2.0
+TCK-10907,2026-05-14 15:44,2026-05-15 00:23,Network,High,Email,Tier 2 - Infrastructure,4.0
+TCK-10908,2026-05-14 17:31,2026-05-15 02:07,Access & Accounts,Medium,Email,Tier 1 - Service Desk,5.0
+TCK-10909,2026-05-14 18:17,2026-05-14 21:54,Access & Accounts,High,Email,Tier 1 - Service Desk,5.0
+TCK-10910,2026-05-15 07:01,2026-05-15 16:16,Software,High,Self-Service Portal,Tier 2 - Applications,5.0
+TCK-10911,2026-05-15 09:32,2026-05-16 14:23,Software,Medium,Phone,Tier 2 - Applications,4.0
+TCK-10912,2026-05-15 11:59,2026-05-17 11:16,Hardware,Medium,Email,Tier 2 - Infrastructure,3.0
+TCK-10913,2026-05-15 14:33,2026-05-17 20:40,Hardware,Low,Chat,Tier 2 - Infrastructure,3.0
+TCK-10914,2026-05-15 16:31,2026-05-17 05:16,Software,Low,Phone,Tier 2 - Applications,3.0
+TCK-10915,2026-05-15 18:21,2026-05-16 08:38,Email,Medium,Self-Service Portal,Tier 1 - Service Desk,4.0
+TCK-10916,2026-05-16 07:26,2026-05-18 13:06,Network,Medium,Phone,Tier 2 - Infrastructure,3.0
+TCK-10917,2026-05-16 09:09,2026-05-21 06:48,Hardware,Low,Phone,Tier 2 - Infrastructure,1.0
+TCK-10918,2026-05-16 10:45,2026-05-19 10:59,Software,Low,Self-Service Portal,Tier 2 - Applications,2.0
+TCK-10919,2026-05-16 11:47,2026-05-17 06:37,Software,Medium,Phone,Tier 2 - Applications,4.0
+TCK-10920,2026-05-16 12:41,2026-05-18 08:58,Network,Medium,Email,Tier 2 - Infrastructure,3.0
+TCK-10921,2026-05-16 17:14,2026-05-21 22:44,Network,Low,Email,Tier 2 - Infrastructure,1.0
+TCK-10922,2026-05-18 07:09,2026-05-19 01:03,Network,High,Email,Tier 2 - Infrastructure,4.0
+TCK-10923,2026-05-18 07:56,2026-05-19 12:14,Software,Low,Phone,Tier 2 - Applications,4.0
+TCK-10924,2026-05-18 08:18,2026-05-19 07:57,Software,Low,Email,Tier 2 - Applications,4.0
+TCK-10925,2026-05-18 09:07,2026-05-19 10:39,Software,Medium,Email,Tier 2 - Applications,4.0
+TCK-10926,2026-05-18 11:06,2026-05-18 23:41,Software,Medium,Self-Service Portal,Tier 2 - Applications,4.0
+TCK-10927,2026-05-18 11:48,2026-05-19 07:37,Access & Accounts,Low,Email,Tier 1 - Service Desk,4.0
+TCK-10928,2026-05-18 11:49,2026-05-19 09:17,Email,Medium,Self-Service Portal,Tier 1 - Service Desk,4.0
+TCK-10929,2026-05-18 12:28,2026-05-20 11:49,Network,Low,Email,Tier 2 - Infrastructure,3.0
+TCK-10930,2026-05-18 13:04,2026-05-18 22:30,Access & Accounts,High,Email,Tier 1 - Service Desk,4.0
+TCK-10931,2026-05-18 13:40,2026-05-20 00:44,Hardware,Medium,Email,Tier 2 - Infrastructure,3.0
+TCK-10932,2026-05-18 15:35,2026-05-19 05:22,Hardware,Medium,Email,Tier 2 - Infrastructure,4.0
+TCK-10933,2026-05-18 16:40,2026-05-18 18:05,Access & Accounts,Critical,Self-Service Portal,Tier 1 - Service Desk,5.0
+TCK-10934,2026-05-18 17:09,2026-05-18 20:48,Network,Critical,Email,Tier 2 - Infrastructure,5.0
+TCK-10935,2026-05-18 17:31,2026-05-19 09:08,Access & Accounts,Medium,Email,Tier 1 - Service Desk,5.0
+TCK-10936,2026-05-18 17:55,2026-05-19 00:52,Software,High,Phone,Tier 2 - Applications,5.0
+TCK-10937,2026-05-18 18:02,2026-05-18 23:29,Hardware,High,Email,Tier 2 - Infrastructure,5.0
+TCK-10938,2026-05-18 18:46,2026-05-19 02:07,Access & Accounts,Medium,Phone,Tier 1 - Service Desk,5.0
+TCK-10939,2026-05-19 08:24,2026-05-19 14:40,Access & Accounts,Low,Self-Service Portal,Tier 1 - Service Desk,5.0
+TCK-10940,2026-05-19 08:44,2026-05-20 04:26,Email,Medium,Chat,Tier 1 - Service Desk,5.0
+TCK-10941,2026-05-19 10:57,2026-05-20 16:03,Email,Low,Self-Service Portal,Tier 1 - Service Desk,3.0
+TCK-10942,2026-05-19 11:45,2026-05-19 17:48,Software,High,Self-Service Portal,Tier 2 - Applications,4.0
+TCK-10943,2026-05-19 11:47,2026-05-19 20:12,Access & Accounts,Medium,Phone,Tier 1 - Service Desk,4.0
+TCK-10944,2026-05-19 13:27,2026-05-24 10:36,Network,Medium,Self-Service Portal,Tier 2 - Infrastructure,1.0
+TCK-10945,2026-05-19 15:12,2026-05-20 00:26,Access & Accounts,Medium,Phone,Tier 1 - Service Desk,5.0
+TCK-10946,2026-05-19 15:35,2026-05-19 23:35,Software,High,Self-Service Portal,Tier 2 - Applications,5.0
+TCK-10947,2026-05-19 15:41,2026-05-20 09:36,Software,Medium,Chat,Tier 2 - Applications,3.0
+TCK-10948,2026-05-20 08:26,2026-05-21 00:02,Software,Low,Self-Service Portal,Tier 2 - Applications,5.0
+TCK-10949,2026-05-20 11:43,2026-05-22 09:55,Access & Accounts,Low,Self-Service Portal,Tier 1 - Service Desk,4.0
+TCK-10950,2026-05-20 15:17,2026-05-21 12:45,Software,Medium,Email,Tier 2 - Applications,4.0
+TCK-10951,2026-05-20 16:04,2026-05-21 02:38,Email,High,Chat,Tier 1 - Service Desk,5.0
+TCK-10952,2026-05-20 17:44,2026-05-20 21:58,Software,High,Email,Tier 2 - Applications,5.0
+TCK-10953,2026-05-20 17:59,2026-05-24 16:20,Hardware,Low,Self-Service Portal,Tier 2 - Infrastructure,1.0
+TCK-10954,2026-05-21 07:20,2026-05-22 01:54,Hardware,Medium,Self-Service Portal,Tier 2 - Infrastructure,4.0
+TCK-10955,2026-05-21 08:24,2026-05-21 14:15,Access & Accounts,High,Email,Tier 1 - Service Desk,4.0
+TCK-10956,2026-05-21 09:21,2026-05-23 01:08,Network,Low,Chat,Tier 2 - Infrastructure,3.0
+TCK-10957,2026-05-21 10:16,2026-05-22 10:01,Email,Low,Self-Service Portal,Tier 1 - Service Desk,3.0
+TCK-10958,2026-05-21 10:32,2026-05-21 15:45,Hardware,High,Self-Service Portal,Tier 2 - Infrastructure,5.0
+TCK-10959,2026-05-21 12:29,2026-05-21 17:42,Access & Accounts,High,Email,Tier 1 - Service Desk,5.0
+TCK-10960,2026-05-21 13:55,2026-05-22 22:20,Hardware,Medium,Chat,Tier 2 - Infrastructure,4.0
+TCK-10961,2026-05-21 14:44,2026-05-22 00:15,Access & Accounts,Medium,Chat,Tier 1 - Service Desk,5.0
+TCK-10962,2026-05-21 15:56,2026-05-22 13:53,Access & Accounts,Low,Email,Tier 1 - Service Desk,5.0
+TCK-10963,2026-05-21 17:08,2026-05-22 11:36,Access & Accounts,Medium,Email,Tier 1 - Service Desk,5.0
+TCK-10964,2026-05-21 17:15,2026-05-22 03:07,Email,Medium,Self-Service Portal,Tier 1 - Service Desk,5.0
+TCK-10965,2026-05-21 17:27,2026-05-22 07:10,Access & Accounts,Medium,Email,Tier 1 - Service Desk,4.0
+TCK-10966,2026-05-22 07:43,2026-05-23 00:16,Software,High,Email,Tier 2 - Applications,4.0
+TCK-10967,2026-05-22 08:30,2026-05-22 22:25,Access & Accounts,Medium,Self-Service Portal,Tier 1 - Service Desk,4.0
+TCK-10968,2026-05-22 12:01,2026-05-22 19:37,Hardware,Medium,Self-Service Portal,Tier 2 - Infrastructure,5.0
+TCK-10969,2026-05-22 14:26,2026-05-24 21:27,Access & Accounts,Low,Self-Service Portal,Tier 1 - Service Desk,3.0
+TCK-10970,2026-05-22 16:21,2026-05-23 20:52,Software,Low,Self-Service Portal,Tier 2 - Applications,4.0
+TCK-10971,2026-05-22 17:00,2026-05-23 12:35,Software,Medium,Self-Service Portal,Tier 2 - Applications,3.0
+TCK-10972,2026-05-22 17:31,2026-05-24 03:05,Network,Medium,Phone,Tier 2 - Infrastructure,3.0
+TCK-10973,2026-05-23 14:44,2026-05-24 13:56,Hardware,Medium,Phone,Tier 2 - Infrastructure,4.0
+TCK-10974,2026-05-25 07:20,2026-05-25 13:06,Access & Accounts,Medium,Email,Tier 1 - Service Desk,5.0
+TCK-10975,2026-05-25 07:21,2026-05-26 20:40,Software,Medium,Self-Service Portal,Tier 2 - Applications,3.0
+TCK-10976,2026-05-25 09:12,2026-05-26 13:59,Hardware,Medium,Self-Service Portal,Tier 2 - Infrastructure,4.0
+TCK-10977,2026-05-25 12:05,2026-05-26 13:21,Access & Accounts,Low,Email,Tier 1 - Service Desk,4.0
+TCK-10978,2026-05-25 16:15,2026-05-26 04:25,Access & Accounts,Medium,Phone,Tier 1 - Service Desk,4.0
+TCK-10979,2026-05-26 09:21,2026-05-26 15:19,Access & Accounts,Medium,Phone,Tier 1 - Service Desk,5.0
+TCK-10980,2026-05-26 10:55,2026-05-28 06:54,Hardware,Medium,Email,Tier 2 - Infrastructure,3.0
+TCK-10981,2026-05-26 12:05,2026-05-26 19:28,Email,Medium,Self-Service Portal,Tier 1 - Service Desk,4.0
+TCK-10982,2026-05-26 12:34,2026-05-27 13:07,Access & Accounts,Low,Self-Service Portal,Tier 1 - Service Desk,4.0
+TCK-10983,2026-05-26 14:04,2026-05-31 00:16,Network,Low,Self-Service Portal,Tier 2 - Infrastructure,1.0
+TCK-10984,2026-05-26 16:06,2026-05-27 17:24,Access & Accounts,Medium,Phone,Tier 1 - Service Desk,3.0
+TCK-10985,2026-05-26 16:19,2026-05-28 11:33,Software,Low,Email,Tier 2 - Applications,2.0
+TCK-10986,2026-05-26 16:58,2026-05-27 17:26,Access & Accounts,Low,Chat,Tier 1 - Service Desk,4.0
+TCK-10987,2026-05-27 09:52,2026-05-27 12:55,Access & Accounts,High,Self-Service Portal,Tier 1 - Service Desk,4.0
+TCK-10988,2026-05-27 10:26,2026-05-29 20:53,Hardware,Medium,Self-Service Portal,Tier 2 - Infrastructure,2.0
+TCK-10989,2026-05-27 11:03,2026-05-27 18:58,Access & Accounts,Medium,Email,Tier 1 - Service Desk,5.0
+TCK-10990,2026-05-27 14:34,2026-05-28 01:01,Network,High,Self-Service Portal,Tier 2 - Infrastructure,4.0
+TCK-10991,2026-05-27 16:38,2026-05-27 19:53,Software,High,Email,Tier 2 - Applications,5.0
+TCK-10992,2026-05-27 16:40,2026-05-28 15:19,Hardware,Medium,Self-Service Portal,Tier 2 - Infrastructure,4.0
+TCK-10993,2026-05-27 17:01,2026-05-28 10:34,Network,Medium,Self-Service Portal,Tier 2 - Infrastructure,5.0
+TCK-10994,2026-05-28 07:55,2026-05-31 09:55,Hardware,Medium,Email,Tier 2 - Infrastructure,2.0
+TCK-10995,2026-05-28 08:25,2026-05-28 18:32,Email,High,Self-Service Portal,Tier 1 - Service Desk,4.0
+TCK-10996,2026-05-28 08:39,2026-05-28 21:47,Hardware,Medium,Phone,Tier 2 - Infrastructure,3.0
+TCK-10997,2026-05-28 09:30,2026-05-29 05:24,Hardware,Medium,Self-Service Portal,Tier 2 - Infrastructure,4.0
+TCK-10998,2026-05-28 10:39,2026-05-29 01:27,Access & Accounts,Low,Email,Tier 1 - Service Desk,4.0
+TCK-10999,2026-05-28 14:18,2026-05-28 20:43,Hardware,Critical,Self-Service Portal,Tier 2 - Infrastructure,5.0
+TCK-11000,2026-05-28 14:57,2026-05-29 01:39,Network,Medium,Phone,Tier 2 - Infrastructure,5.0
+TCK-11001,2026-05-28 15:34,2026-05-29 07:26,Email,Medium,Self-Service Portal,Tier 1 - Service Desk,4.0
+TCK-11002,2026-05-28 16:56,2026-05-31 09:27,Hardware,Low,Chat,Tier 2 - Infrastructure,2.0
+TCK-11003,2026-05-29 08:21,2026-05-30 01:41,Software,Medium,Self-Service Portal,Tier 2 - Applications,5.0
+TCK-11004,2026-05-29 08:28,2026-05-30 23:37,Hardware,Medium,Email,Tier 2 - Infrastructure,4.0
+TCK-11005,2026-05-29 09:51,2026-05-31 05:38,Access & Accounts,Low,Email,Tier 1 - Service Desk,4.0
+TCK-11006,2026-05-29 13:16,2026-05-30 11:29,Access & Accounts,Medium,Chat,Tier 1 - Service Desk,5.0
+TCK-11007,2026-05-29 16:09,2026-05-30 02:01,Access & Accounts,Low,Chat,Tier 1 - Service Desk,5.0
+TCK-11008,2026-05-29 18:50,2026-05-30 20:54,Hardware,Medium,Email,Tier 2 - Infrastructure,4.0
+TCK-11009,2026-05-30 07:15,2026-05-31 04:42,Access & Accounts,Low,Phone,Tier 1 - Service Desk,4.0
+TCK-11010,2026-05-30 09:04,2026-06-04 04:46,Network,Low,Email,Tier 2 - Infrastructure,1.0
+TCK-11011,2026-05-30 18:33,2026-05-31 03:56,Hardware,High,Email,Tier 2 - Infrastructure,4.0
+TCK-11012,2026-05-30 18:36,2026-05-31 14:38,Access & Accounts,Low,Email,Tier 1 - Service Desk,4.0
+TCK-11013,2026-05-31 08:41,2026-05-31 15:48,Software,High,Self-Service Portal,Tier 2 - Applications,4.0
+TCK-11014,2026-05-31 10:37,2026-06-01 08:19,Access & Accounts,Medium,Phone,Tier 1 - Service Desk,4.0
+TCK-11015,2026-05-31 17:35,2026-05-31 20:33,Access & Accounts,High,Email,Tier 1 - Service Desk,5.0
+TCK-11016,2026-06-01 07:24,2026-06-02 02:48,Network,Medium,Phone,Tier 2 - Infrastructure,3.0
+TCK-11017,2026-06-01 08:50,2026-06-04 18:21,Network,Low,Self-Service Portal,Tier 2 - Infrastructure,1.0
+TCK-11018,2026-06-01 09:05,2026-06-01 13:35,Access & Accounts,Medium,Chat,Tier 1 - Service Desk,5.0
+TCK-11019,2026-06-01 10:27,2026-06-01 12:09,Access & Accounts,High,Chat,Tier 1 - Service Desk,5.0
+TCK-11020,2026-06-01 11:02,2026-06-02 19:27,Software,Low,Email,Tier 2 - Applications,3.0
+TCK-11021,2026-06-01 11:49,2026-06-02 11:07,Email,Low,Chat,Tier 1 - Service Desk,3.0
+TCK-11022,2026-06-01 12:19,2026-06-01 14:47,Access & Accounts,High,Phone,Tier 1 - Service Desk,5.0
+TCK-11023,2026-06-01 16:20,2026-06-03 23:45,Network,Low,Phone,Tier 2 - Infrastructure,3.0
+TCK-11024,2026-06-01 16:38,2026-06-02 18:15,Hardware,Medium,Self-Service Portal,Tier 2 - Infrastructure,3.0
+TCK-11025,2026-06-01 17:28,2026-06-02 08:44,Software,Medium,Email,Tier 2 - Applications,4.0
+TCK-11026,2026-06-01 18:26,2026-06-01 19:20,Software,Critical,Phone,Tier 2 - Applications,5.0
+TCK-11027,2026-06-02 07:52,2026-06-03 01:01,Access & Accounts,Low,Self-Service Portal,Tier 1 - Service Desk,3.0
+TCK-11028,2026-06-02 08:28,2026-06-03 13:45,Software,Medium,Self-Service Portal,Tier 2 - Applications,4.0
+TCK-11029,2026-06-02 09:55,2026-06-05 10:04,Network,Low,Self-Service Portal,Tier 2 - Infrastructure,2.0
+TCK-11030,2026-06-02 10:43,2026-06-02 14:46,Email,High,Chat,Tier 1 - Service Desk,5.0
+TCK-11031,2026-06-02 10:49,2026-06-02 21:01,Network,High,Self-Service Portal,Tier 2 - Infrastructure,5.0
+TCK-11032,2026-06-02 11:35,2026-06-03 07:09,Access & Accounts,Medium,Email,Tier 1 - Service Desk,5.0
+TCK-11033,2026-06-02 13:35,2026-06-03 16:17,Hardware,High,Phone,Tier 2 - Infrastructure,4.0
+TCK-11034,2026-06-02 15:09,2026-06-02 18:54,Access & Accounts,Critical,Self-Service Portal,Tier 1 - Service Desk,5.0
+TCK-11035,2026-06-02 16:17,2026-06-08 06:56,Access & Accounts,Low,Self-Service Portal,Tier 1 - Service Desk,1.0
+TCK-11036,2026-06-02 16:19,2026-06-03 01:22,Network,High,Self-Service Portal,Tier 2 - Infrastructure,3.0
+TCK-11037,2026-06-02 17:16,2026-06-03 17:13,Email,Medium,Email,Tier 1 - Service Desk,4.0
+TCK-11038,2026-06-03 08:18,2026-06-04 17:11,Software,Medium,Email,Tier 2 - Applications,4.0
+TCK-11039,2026-06-03 09:14,2026-06-03 11:58,Access & Accounts,High,Phone,Tier 1 - Service Desk,4.0
+TCK-11040,2026-06-03 09:43,2026-06-04 07:11,Software,Medium,Phone,Tier 2 - Applications,5.0
+TCK-11041,2026-06-03 10:09,2026-06-03 15:41,Access & Accounts,High,Phone,Tier 1 - Service Desk,4.0
+TCK-11042,2026-06-03 12:28,2026-06-04 02:34,Email,Medium,Email,Tier 1 - Service Desk,5.0
+TCK-11043,2026-06-03 14:17,2026-06-04 01:39,Software,High,Phone,Tier 2 - Applications,4.0
+TCK-11044,2026-06-03 15:47,2026-06-04 19:39,Software,Medium,Phone,Tier 2 - Applications,4.0
+TCK-11045,2026-06-04 07:28,2026-06-08 00:35,Email,Low,Email,Tier 1 - Service Desk,3.0
+TCK-11046,2026-06-04 14:54,2026-06-05 20:41,Network,Medium,Chat,Tier 2 - Infrastructure,4.0
+TCK-11047,2026-06-04 17:02,2026-06-05 04:21,Software,Medium,Email,Tier 2 - Applications,5.0
+TCK-11048,2026-06-05 08:31,2026-06-06 12:52,Access & Accounts,Low,Self-Service Portal,Tier 1 - Service Desk,3.0
+TCK-11049,2026-06-05 09:05,2026-06-06 06:00,Software,Medium,Self-Service Portal,Tier 2 - Applications,3.0
+TCK-11050,2026-06-05 09:23,2026-06-06 02:20,Hardware,Medium,Self-Service Portal,Tier 2 - Infrastructure,5.0
+TCK-11051,2026-06-05 11:31,2026-06-06 13:44,Email,Medium,Self-Service Portal,Tier 1 - Service Desk,4.0
+TCK-11052,2026-06-05 12:02,2026-06-05 20:48,Access & Accounts,Medium,Email,Tier 1 - Service Desk,5.0
+TCK-11053,2026-06-05 13:10,2026-06-05 20:17,Access & Accounts,Medium,Self-Service Portal,Tier 1 - Service Desk,4.0
+TCK-11054,2026-06-05 15:03,2026-06-06 19:22,Software,Medium,Email,Tier 2 - Applications,4.0
+TCK-11055,2026-06-05 15:46,2026-06-05 19:02,Access & Accounts,Critical,Self-Service Portal,Tier 1 - Service Desk,5.0
+TCK-11056,2026-06-05 18:58,2026-06-06 22:30,Access & Accounts,Low,Self-Service Portal,Tier 1 - Service Desk,4.0
+TCK-11057,2026-06-06 09:02,2026-06-07 17:00,Software,Low,Email,Tier 2 - Applications,3.0
+TCK-11058,2026-06-06 13:08,2026-06-08 11:05,Network,Medium,Self-Service Portal,Tier 2 - Infrastructure,3.0
+TCK-11059,2026-06-06 18:57,2026-06-06 21:57,Software,Critical,Self-Service Portal,Tier 2 - Applications,4.0
+TCK-11060,2026-06-07 07:28,2026-06-08 00:56,Software,Medium,Self-Service Portal,Tier 2 - Applications,4.0
+TCK-11061,2026-06-07 16:37,2026-06-08 12:28,Email,Medium,Email,Tier 1 - Service Desk,5.0
+TCK-11062,2026-06-08 10:12,2026-06-08 15:18,Software,High,Chat,Tier 2 - Applications,4.0
+TCK-11063,2026-06-08 11:23,2026-06-09 02:29,Software,High,Email,Tier 2 - Applications,5.0
+TCK-11064,2026-06-08 12:12,2026-06-09 18:20,Software,Medium,Phone,Tier 2 - Applications,3.0
+TCK-11065,2026-06-08 16:59,2026-06-09 03:46,Email,Medium,Email,Tier 1 - Service Desk,5.0
+TCK-11066,2026-06-08 18:09,2026-06-09 07:01,Access & Accounts,Medium,Self-Service Portal,Tier 1 - Service Desk,5.0
+TCK-11067,2026-06-08 18:19,2026-06-09 13:51,Access & Accounts,Low,Phone,Tier 1 - Service Desk,4.0
+TCK-11068,2026-06-09 11:03,2026-06-12 10:54,Hardware,Low,Email,Tier 2 - Infrastructure,3.0
+TCK-11069,2026-06-09 12:13,2026-06-09 15:06,Access & Accounts,High,Phone,Tier 1 - Service Desk,5.0
+TCK-11070,2026-06-09 13:37,2026-06-09 16:47,Access & Accounts,Medium,Chat,Tier 1 - Service Desk,4.0
+TCK-11071,2026-06-09 14:21,2026-06-09 22:37,Access & Accounts,Medium,Self-Service Portal,Tier 1 - Service Desk,4.0
+TCK-11072,2026-06-09 16:23,2026-06-11 00:14,Email,Low,Phone,Tier 1 - Service Desk,4.0
+TCK-11073,2026-06-09 16:24,2026-06-10 14:31,Network,High,Email,Tier 2 - Infrastructure,4.0
+TCK-11074,2026-06-09 16:26,2026-06-13 14:54,Hardware,Low,Chat,Tier 2 - Infrastructure,1.0
+TCK-11075,2026-06-09 18:59,2026-06-14 02:35,Hardware,Low,Phone,Tier 2 - Infrastructure,1.0
+TCK-11076,2026-06-10 09:23,2026-06-11 16:53,Hardware,Medium,Chat,Tier 2 - Infrastructure,3.0
+TCK-11077,2026-06-10 10:26,2026-06-10 14:54,Access & Accounts,High,Email,Tier 1 - Service Desk,5.0
+TCK-11078,2026-06-10 10:47,2026-06-18 01:36,Network,Low,Self-Service Portal,Tier 2 - Infrastructure,1.0
+TCK-11079,2026-06-10 11:55,2026-06-10 21:35,Email,Medium,Email,Tier 1 - Service Desk,4.0
+TCK-11080,2026-06-10 17:50,2026-06-11 12:41,Software,Low,Email,Tier 2 - Applications,4.0
+TCK-11081,2026-06-10 18:29,2026-06-15 23:22,Hardware,Low,Chat,Tier 2 - Infrastructure,1.0
+TCK-11082,2026-06-10 18:37,2026-06-11 04:10,Email,Medium,Self-Service Portal,Tier 1 - Service Desk,5.0
+TCK-11083,2026-06-11 08:50,2026-06-11 12:18,Access & Accounts,High,Self-Service Portal,Tier 1 - Service Desk,3.0
+TCK-11084,2026-06-11 11:10,2026-06-12 01:08,Software,Medium,Email,Tier 2 - Applications,4.0
+TCK-11085,2026-06-11 11:55,2026-06-12 06:28,Hardware,Medium,Self-Service Portal,Tier 2 - Infrastructure,5.0
+TCK-11086,2026-06-11 12:58,2026-06-12 02:34,Email,Medium,Email,Tier 1 - Service Desk,3.0
+TCK-11087,2026-06-11 14:05,2026-06-11 23:20,Software,Medium,Phone,Tier 2 - Applications,4.0
+TCK-11088,2026-06-11 18:05,2026-06-12 12:00,Access & Accounts,Medium,Self-Service Portal,Tier 1 - Service Desk,5.0
+TCK-11089,2026-06-11 18:07,2026-06-13 22:21,Network,Low,Self-Service Portal,Tier 2 - Infrastructure,3.0
+TCK-11090,2026-06-11 18:20,2026-06-12 14:11,Software,Medium,Email,Tier 2 - Applications,3.0
+TCK-11091,2026-06-12 09:10,2026-06-12 12:55,Access & Accounts,High,Self-Service Portal,Tier 1 - Service Desk,5.0
+TCK-11092,2026-06-12 11:42,2026-06-13 15:46,Network,Medium,Phone,Tier 2 - Infrastructure,3.0
+TCK-11093,2026-06-12 12:18,2026-06-13 04:46,Access & Accounts,Medium,Phone,Tier 1 - Service Desk,4.0
+TCK-11094,2026-06-12 15:09,2026-06-14 04:49,Hardware,Medium,Self-Service Portal,Tier 2 - Infrastructure,3.0
+TCK-11095,2026-06-12 15:41,2026-06-12 23:09,Email,High,Self-Service Portal,Tier 1 - Service Desk,5.0
+TCK-11096,2026-06-12 16:07,2026-06-15 00:26,Email,Medium,Chat,Tier 1 - Service Desk,3.0
+TCK-11097,2026-06-12 17:55,2026-06-16 03:25,Software,Low,Phone,Tier 2 - Applications,1.0
+TCK-11098,2026-06-13 08:04,2026-06-13 19:05,Software,High,Phone,Tier 2 - Applications,5.0
+TCK-11099,2026-06-14 11:30,2026-06-14 15:48,Access & Accounts,High,Self-Service Portal,Tier 1 - Service Desk,4.0
+TCK-11100,2026-06-14 13:53,2026-06-18 13:15,Hardware,Medium,Chat,Tier 2 - Infrastructure,1.0
+TCK-11101,2026-06-14 14:56,2026-06-16 03:09,Network,Medium,Email,Tier 2 - Infrastructure,3.0
+TCK-11102,2026-06-15 08:34,2026-06-19 21:09,Network,Low,Email,Tier 2 - Infrastructure,1.0
+TCK-11103,2026-06-15 09:06,2026-06-15 18:27,Software,Medium,Phone,Tier 2 - Applications,4.0
+TCK-11104,2026-06-15 09:36,2026-06-16 05:27,Access & Accounts,Low,Self-Service Portal,Tier 1 - Service Desk,4.0
+TCK-11105,2026-06-15 09:37,2026-06-23 00:01,Network,Low,Phone,Tier 2 - Infrastructure,1.0
+TCK-11106,2026-06-15 11:14,2026-06-18 23:19,Network,Low,Self-Service Portal,Tier 2 - Infrastructure,2.0
+TCK-11107,2026-06-15 12:50,2026-06-16 04:09,Network,High,Email,Tier 2 - Infrastructure,5.0
+TCK-11108,2026-06-15 15:03,2026-06-15 21:24,Hardware,High,Phone,Tier 2 - Infrastructure,5.0
+TCK-11109,2026-06-15 17:11,2026-06-22 05:44,Hardware,Low,Self-Service Portal,Tier 2 - Infrastructure,1.0
+TCK-11110,2026-06-16 07:40,2026-06-16 18:50,Email,Medium,Self-Service Portal,Tier 1 - Service Desk,4.0
+TCK-11111,2026-06-16 11:37,2026-06-18 05:00,Access & Accounts,Low,Self-Service Portal,Tier 1 - Service Desk,2.0
+TCK-11112,2026-06-16 12:25,2026-06-16 19:50,Access & Accounts,Medium,Email,Tier 1 - Service Desk,5.0
+TCK-11113,2026-06-16 13:54,2026-06-17 22:30,Software,Medium,Email,Tier 2 - Applications,5.0
+TCK-11114,2026-06-16 14:37,2026-06-16 20:31,Access & Accounts,Medium,Email,Tier 1 - Service Desk,5.0
+TCK-11115,2026-06-16 15:04,2026-06-17 00:37,Access & Accounts,Medium,Self-Service Portal,Tier 1 - Service Desk,4.0
+TCK-11116,2026-06-16 16:41,2026-06-17 01:11,Access & Accounts,Low,Self-Service Portal,Tier 1 - Service Desk,5.0
+TCK-11117,2026-06-16 16:51,2026-06-17 19:31,Access & Accounts,Medium,Self-Service Portal,Tier 1 - Service Desk,4.0
+TCK-11118,2026-06-16 17:26,2026-06-17 03:14,Access & Accounts,Medium,Chat,Tier 1 - Service Desk,5.0
+TCK-11119,2026-06-16 18:32,2026-06-17 13:17,Software,Low,Phone,Tier 2 - Applications,4.0
+TCK-11120,2026-06-17 07:08,2026-06-18 06:49,Network,Medium,Phone,Tier 2 - Infrastructure,4.0
+TCK-11121,2026-06-17 08:29,2026-06-17 16:33,Email,Medium,Phone,Tier 1 - Service Desk,5.0
+TCK-11122,2026-06-17 08:56,2026-06-18 02:15,Access & Accounts,Low,Email,Tier 1 - Service Desk,4.0
+TCK-11123,2026-06-17 11:30,2026-06-20 00:07,Network,Low,Self-Service Portal,Tier 2 - Infrastructure,3.0
+TCK-11124,2026-06-17 17:52,2026-06-18 00:43,Software,High,Phone,Tier 2 - Applications,5.0
+TCK-11125,2026-06-17 18:15,2026-06-19 06:13,Hardware,Medium,Chat,Tier 2 - Infrastructure,2.0
+TCK-11126,2026-06-17 18:50,2026-06-18 06:24,Software,High,Phone,Tier 2 - Applications,4.0
+TCK-11127,2026-06-18 07:06,2026-06-18 08:24,Access & Accounts,Critical,Self-Service Portal,Tier 1 - Service Desk,5.0
+TCK-11128,2026-06-18 08:25,2026-06-19 22:00,Network,Low,Self-Service Portal,Tier 2 - Infrastructure,3.0
+TCK-11129,2026-06-18 11:07,2026-06-19 03:11,Access & Accounts,Low,Phone,Tier 1 - Service Desk,5.0
+TCK-11130,2026-06-18 13:04,2026-06-19 20:37,Network,Medium,Chat,Tier 2 - Infrastructure,5.0
+TCK-11131,2026-06-18 13:38,2026-06-18 17:31,Access & Accounts,High,Email,Tier 1 - Service Desk,5.0
+TCK-11132,2026-06-18 18:05,2026-06-24 19:16,Hardware,Medium,Chat,Tier 2 - Infrastructure,1.0
+TCK-11133,2026-06-18 18:42,2026-06-19 04:28,Network,High,Self-Service Portal,Tier 2 - Infrastructure,3.0
+TCK-11134,2026-06-18 18:56,2026-06-20 01:14,Software,Medium,Email,Tier 2 - Applications,3.0
+TCK-11135,2026-06-19 09:01,2026-06-21 23:51,Software,Low,Chat,Tier 2 - Applications,3.0
+TCK-11136,2026-06-19 12:00,2026-06-21 17:54,Hardware,Medium,Self-Service Portal,Tier 2 - Infrastructure,4.0
+TCK-11137,2026-06-19 17:37,2026-06-20 02:53,Software,High,Self-Service Portal,Tier 2 - Applications,5.0
+TCK-11138,2026-06-20 08:31,2026-06-23 00:42,Hardware,Low,Self-Service Portal,Tier 2 - Infrastructure,4.0
+TCK-11139,2026-06-20 08:36,2026-06-21 16:10,Network,Medium,Self-Service Portal,Tier 2 - Infrastructure,3.0
+TCK-11140,2026-06-21 07:04,2026-06-23 13:59,Network,Medium,Email,Tier 2 - Infrastructure,2.0
+TCK-11141,2026-06-21 08:53,2026-06-22 03:57,Software,Medium,Email,Tier 2 - Applications,5.0
+TCK-11142,2026-06-22 10:22,2026-06-22 15:20,Access & Accounts,Medium,Chat,Tier 1 - Service Desk,5.0
+TCK-11143,2026-06-22 11:49,2026-06-22 22:04,Software,Medium,Email,Tier 2 - Applications,5.0
+TCK-11144,2026-06-22 12:11,2026-06-22 14:17,Access & Accounts,High,Email,Tier 1 - Service Desk,4.0
+TCK-11145,2026-06-22 14:02,2026-06-23 02:51,Access & Accounts,Medium,Email,Tier 1 - Service Desk,4.0
+TCK-11146,2026-06-22 14:42,2026-06-22 22:47,Access & Accounts,Medium,Phone,Tier 1 - Service Desk,4.0
+TCK-11147,2026-06-22 17:02,2026-06-22 23:27,Software,Medium,Phone,Tier 2 - Applications,4.0
+TCK-11148,2026-06-22 17:47,2026-06-23 10:30,Hardware,High,Chat,Tier 2 - Infrastructure,4.0
+TCK-11149,2026-06-22 18:10,2026-06-23 01:10,Email,Medium,Email,Tier 1 - Service Desk,5.0
+TCK-11150,2026-06-22 18:20,2026-06-23 19:30,Email,Medium,Self-Service Portal,Tier 1 - Service Desk,4.0
+TCK-11151,2026-06-23 08:01,2026-06-23 14:27,Access & Accounts,Medium,Phone,Tier 1 - Service Desk,5.0
+TCK-11152,2026-06-23 08:18,2026-06-23 17:58,Access & Accounts,Medium,Chat,Tier 1 - Service Desk,4.0
+TCK-11153,2026-06-23 09:48,2026-06-23 15:27,Software,High,Chat,Tier 2 - Applications,4.0
+TCK-11154,2026-06-23 11:53,2026-06-23 19:29,Software,High,Chat,Tier 2 - Applications,5.0
+TCK-11155,2026-06-23 14:15,2026-06-24 21:55,Software,Medium,Email,Tier 2 - Applications,5.0
+TCK-11156,2026-06-23 15:17,2026-06-24 03:33,Hardware,Medium,Self-Service Portal,Tier 2 - Infrastructure,5.0
+TCK-11157,2026-06-23 18:45,2026-06-25 02:22,Network,Low,Email,Tier 2 - Infrastructure,4.0
+TCK-11158,2026-06-24 07:24,,Access & Accounts,Medium,Phone,Tier 1 - Service Desk,
+TCK-11159,2026-06-24 08:19,2026-06-24 19:01,Access & Accounts,Medium,Email,Tier 1 - Service Desk,4.0
+TCK-11160,2026-06-24 08:54,2026-06-25 02:38,Access & Accounts,Low,Self-Service Portal,Tier 1 - Service Desk,5.0
+TCK-11161,2026-06-24 13:32,,Access & Accounts,Medium,Phone,Tier 1 - Service Desk,
+TCK-11162,2026-06-24 17:48,,Email,Critical,Self-Service Portal,Tier 1 - Service Desk,
+TCK-11163,2026-06-25 08:49,,Access & Accounts,Medium,Email,Tier 1 - Service Desk,
+TCK-11164,2026-06-25 09:34,,Access & Accounts,Medium,Phone,Tier 1 - Service Desk,
+TCK-11165,2026-06-25 13:15,,Hardware,Low,Phone,Tier 2 - Infrastructure,
+TCK-11166,2026-06-25 15:49,,Access & Accounts,Medium,Self-Service Portal,Tier 1 - Service Desk,
+TCK-11167,2026-06-25 16:08,2026-06-27 06:13,Software,Low,Phone,Tier 2 - Applications,4.0
+TCK-11168,2026-06-26 08:31,2026-06-26 17:01,Access & Accounts,Medium,Self-Service Portal,Tier 1 - Service Desk,5.0
+TCK-11169,2026-06-26 10:01,2026-06-27 06:54,Email,Medium,Self-Service Portal,Tier 1 - Service Desk,4.0
+TCK-11170,2026-06-26 11:31,,Access & Accounts,Medium,Self-Service Portal,Tier 1 - Service Desk,
+TCK-11171,2026-06-26 11:46,,Software,Low,Email,Tier 2 - Applications,
+TCK-11172,2026-06-26 11:54,,Software,High,Self-Service Portal,Tier 2 - Applications,
+TCK-11173,2026-06-26 12:57,,Email,Medium,Email,Tier 1 - Service Desk,
+TCK-11174,2026-06-26 13:50,2026-06-26 21:03,Access & Accounts,Medium,Phone,Tier 1 - Service Desk,5.0
+TCK-11175,2026-06-26 14:29,2026-06-26 21:05,Access & Accounts,Medium,Phone,Tier 1 - Service Desk,3.0
+TCK-11176,2026-06-26 17:27,,Software,Medium,Self-Service Portal,Tier 2 - Applications,
+TCK-11177,2026-06-26 18:56,,Software,Low,Self-Service Portal,Tier 2 - Applications,
+TCK-11178,2026-06-27 09:54,2026-06-28 12:01,Network,Medium,Self-Service Portal,Tier 2 - Infrastructure,4.0
+TCK-11179,2026-06-27 11:49,,Software,Low,Email,Tier 2 - Applications,
+TCK-11180,2026-06-27 14:22,,Hardware,Low,Self-Service Portal,Tier 2 - Infrastructure,
+TCK-11181,2026-06-27 15:42,2026-06-28 02:02,Access & Accounts,High,Email,Tier 1 - Service Desk,4.0
+TCK-11182,2026-06-28 08:20,,Access & Accounts,Low,Chat,Tier 1 - Service Desk,
+TCK-11183,2026-06-29 07:57,,Access & Accounts,Medium,Chat,Tier 1 - Service Desk,
+TCK-11184,2026-06-29 08:39,2026-06-29 12:33,Network,Critical,Email,Tier 2 - Infrastructure,5.0
+TCK-11185,2026-06-29 09:19,2026-07-02 17:53,Hardware,Low,Self-Service Portal,Tier 2 - Infrastructure,1.0
+TCK-11186,2026-06-29 09:26,,Hardware,Medium,Phone,Tier 2 - Infrastructure,
+TCK-11187,2026-06-29 11:20,,Access & Accounts,Medium,Email,Tier 1 - Service Desk,
+TCK-11188,2026-06-29 12:51,2026-06-29 18:58,Access & Accounts,High,Phone,Tier 1 - Service Desk,4.0
+TCK-11189,2026-06-29 14:49,2026-06-30 17:41,Access & Accounts,Low,Email,Tier 1 - Service Desk,4.0
+TCK-11190,2026-06-29 15:00,,Network,Medium,Email,Tier 2 - Infrastructure,
+TCK-11191,2026-06-29 15:43,,Email,Medium,Chat,Tier 1 - Service Desk,
+TCK-11192,2026-06-29 16:11,2026-07-01 02:30,Software,Low,Chat,Tier 2 - Applications,2.0
+TCK-11193,2026-06-30 07:46,,Access & Accounts,Medium,Email,Tier 1 - Service Desk,
+TCK-11194,2026-06-30 09:06,,Hardware,High,Email,Tier 2 - Infrastructure,
+TCK-11195,2026-06-30 09:48,,Hardware,High,Email,Tier 2 - Infrastructure,
+TCK-11196,2026-06-30 09:55,,Access & Accounts,Low,Phone,Tier 1 - Service Desk,
+TCK-11197,2026-06-30 10:05,2026-07-04 05:05,Network,Low,Email,Tier 2 - Infrastructure,2.0
+TCK-11198,2026-06-30 11:55,,Hardware,Low,Phone,Tier 2 - Infrastructure,
+TCK-11199,2026-06-30 13:31,,Software,High,Email,Tier 2 - Applications,
+TCK-11200,2026-06-30 15:55,2026-07-01 00:44,Software,High,Phone,Tier 2 - Applications,3.0
