@@ -1,0 +1,441 @@
+user_id,full_name,department_id,location,device_os,hire_date
+1001,Adam Davis,5,Branch Office,Windows,2023-11-14
+1002,Olivia Flores,7,HQ Office,Windows,2025-09-09
+1003,James Smith,6,HQ Office,Windows,2020-06-02
+1004,Noah Torres,2,Remote,Windows,2023-09-27
+1005,Mia Ramirez,3,HQ Office,Windows,2025-11-26
+1006,James Smith,7,HQ Office,Windows,2019-09-11
+1007,Carlos Garcia,1,Remote,Windows,2025-07-04
+1008,Elena Clark,7,Remote,Windows,2021-05-15
+1009,Carlos Ramirez,7,Branch Office,Windows,2026-02-01
+1010,Emma Davis,4,Remote,macOS,2019-03-18
+1011,Grace Flores,3,HQ Office,Windows,2025-03-31
+1012,Mia Brown,2,Branch Office,Windows,2020-08-19
+1013,Ana Wilson,2,Remote,Windows,2026-05-22
+1014,James Johnson,4,Branch Office,macOS,2019-03-11
+1015,Daniel Moore,4,Branch Office,macOS,2026-03-18
+1016,Emma Garcia,4,HQ Office,macOS,2019-12-10
+1017,Liam Martinez,8,Branch Office,Windows,2024-01-22
+1018,Liam Torres,7,HQ Office,Windows,2026-05-30
+1019,Olivia Taylor,5,Remote,Windows,2020-07-12
+1020,Henry Ramirez,8,HQ Office,Windows,2019-10-01
+1021,Isabella Clark,2,HQ Office,Windows,2020-12-14
+1022,Ana Moore,2,Remote,Windows,2020-02-28
+1023,Ava Martinez,5,Branch Office,Windows,2024-05-03
+1024,Liam Ramirez,1,HQ Office,Windows,2025-09-23
+1025,Nora Johnson,1,Remote,Windows,2022-03-12
+1026,Lucas Lopez,4,HQ Office,Windows,2026-04-11
+1027,Chloe Wilson,4,Remote,macOS,2022-11-25
+1028,Grace Johnson,7,Remote,Windows,2021-06-25
+1029,Ethan Johnson,5,HQ Office,Windows,2020-05-08
+1030,Elena Ramirez,4,Remote,macOS,2019-08-24
+1031,Paula Clark,4,HQ Office,Windows,2023-11-08
+1032,Grace Rodriguez,2,HQ Office,Windows,2024-12-06
+1033,Jack Rodriguez,1,Remote,Windows,2022-11-16
+1034,Noah Brown,2,Branch Office,Windows,2026-03-22
+1035,Ethan Taylor,6,Branch Office,Windows,2019-11-13
+1036,Noah Sanchez,2,Branch Office,Windows,2023-01-29
+1037,Olivia Walker,4,Branch Office,Windows,2024-01-04
+1038,Ana Smith,1,Branch Office,Windows,2023-08-09
+1039,Lucas Walker,7,HQ Office,Windows,2019-03-09
+1040,Olivia Rivera,2,HQ Office,Windows,2019-10-01
+1041,Ava Davis,2,HQ Office,Windows,2026-05-06
+1042,Carlos Clark,7,HQ Office,Windows,2020-12-09
+1043,Paula Lewis,4,HQ Office,Windows,2026-02-05
+1044,Emma Ramirez,7,Remote,Windows,2023-05-08
+1045,Mateo Lopez,5,HQ Office,Windows,2024-06-18
+1046,Lucia Moore,6,HQ Office,Windows,2026-02-04
+1047,Jack Flores,1,HQ Office,macOS,2024-07-16
+1048,Jack Johnson,4,Branch Office,Windows,2026-02-20
+1049,Camila Perez,4,Remote,Windows,2026-04-04
+1050,Liam Smith,7,Remote,Windows,2023-10-11
+1051,Olivia Lewis,4,HQ Office,Windows,2023-07-06
+1052,Grace Torres,5,HQ Office,Windows,2022-11-13
+1053,Leo Smith,1,Remote,Windows,2020-07-13
+1054,Isabella Clark,4,HQ Office,Windows,2019-02-11
+1055,Lucia Ramirez,3,Branch Office,Windows,2019-11-30
+1056,Emma Johnson,2,HQ Office,Windows,2025-08-21
+1057,Isabella Taylor,7,Remote,Windows,2021-04-13
+1058,Lucas Ramirez,4,HQ Office,macOS,2019-07-01
+1059,Olivia Davis,8,HQ Office,Windows,2020-01-16
+1060,Carlos Taylor,5,HQ Office,Windows,2019-12-18
+1061,Lucia Rivera,5,HQ Office,Windows,2021-10-17
+1062,Noah Moore,5,Remote,macOS,2026-01-13
+1063,Luis Taylor,6,Remote,Windows,2025-01-02
+1064,Paula Garcia,2,HQ Office,Windows,2025-01-19
+1065,Diego Johnson,4,Remote,macOS,2026-02-22
+1066,Ethan Flores,2,HQ Office,Windows,2024-11-10
+1067,Chloe Clark,4,HQ Office,Windows,2020-12-19
+1068,Lucas Lewis,2,Branch Office,macOS,2022-05-16
+1069,Noah Sanchez,8,HQ Office,Windows,2023-10-29
+1070,Ava Sanchez,2,HQ Office,Windows,2020-04-26
+1071,Mia Taylor,6,Remote,Windows,2024-02-14
+1072,Mia Clark,3,Remote,Windows,2019-04-07
+1073,Olivia Davis,7,HQ Office,Windows,2020-09-04
+1074,Ana Perez,6,Remote,Windows,2025-05-06
+1075,Ana Perez,2,Remote,Windows,2021-05-17
+1076,Jack Ramirez,7,HQ Office,Windows,2026-04-15
+1077,Ethan Brown,7,HQ Office,Windows,2025-04-03
+1078,Paula Smith,7,Branch Office,Windows,2020-10-26
+1079,Liam Garcia,4,HQ Office,Windows,2025-11-11
+1080,Ava Martinez,2,Branch Office,Windows,2025-06-15
+1081,Emma Flores,2,HQ Office,Windows,2026-04-29
+1082,Valentina Clark,7,Branch Office,Windows,2021-12-31
+1083,Ethan Clark,4,HQ Office,macOS,2025-10-05
+1084,Lucia Wilson,2,HQ Office,Windows,2021-04-27
+1085,Jack Johnson,7,Branch Office,Windows,2021-08-26
+1086,Nora Perez,5,Branch Office,Windows,2022-10-07
+1087,Emma Flores,4,HQ Office,macOS,2026-05-21
+1088,Grace Taylor,4,Remote,Windows,2019-01-23
+1089,Mia Moore,4,HQ Office,macOS,2024-05-08
+1090,Elena Rodriguez,2,HQ Office,Windows,2022-04-20
+1091,Emma Martinez,1,HQ Office,Windows,2025-02-03
+1092,Henry Moore,7,HQ Office,Windows,2020-06-27
+1093,Noah Perez,4,HQ Office,Windows,2020-09-09
+1094,Liam Davis,4,Remote,Windows,2024-04-23
+1095,Elena Lopez,3,Remote,Windows,2024-03-16
+1096,Nora Ramirez,6,HQ Office,Windows,2022-09-29
+1097,Luis Davis,1,HQ Office,macOS,2023-06-27
+1098,Lucas Sanchez,4,HQ Office,Windows,2025-06-23
+1099,Adam Lopez,1,Remote,Windows,2025-07-21
+1100,Liam Torres,2,HQ Office,Windows,2025-09-06
+1101,Camila Rodriguez,8,Remote,Windows,2026-05-25
+1102,Grace Perez,5,Branch Office,Windows,2021-05-12
+1103,Paula Walker,4,Branch Office,macOS,2026-01-26
+1104,Lucas Clark,4,Remote,macOS,2021-02-02
+1105,Ethan Clark,7,Remote,Windows,2025-06-21
+1106,Diego Davis,4,HQ Office,macOS,2026-03-23
+1107,Ana Lewis,5,HQ Office,Windows,2022-04-11
+1108,Ethan Rodriguez,6,HQ Office,Windows,2022-10-03
+1109,Valentina Rivera,4,HQ Office,macOS,2019-11-17
+1110,Elena Flores,4,HQ Office,macOS,2019-09-20
+1111,Diego Ramirez,6,HQ Office,Windows,2020-06-22
+1112,Ethan Lewis,7,Branch Office,Windows,2019-05-05
+1113,Samuel Taylor,2,HQ Office,Windows,2021-12-24
+1114,Chloe Clark,7,HQ Office,Windows,2026-05-19
+1115,Ethan Johnson,1,HQ Office,Windows,2024-04-08
+1116,Luis Rivera,6,HQ Office,Windows,2023-04-26
+1117,Noah Lewis,7,Remote,Windows,2024-06-08
+1118,Carlos Johnson,2,HQ Office,Windows,2026-04-11
+1119,Ana Brown,4,HQ Office,Windows,2026-03-19
+1120,Adam Sanchez,7,HQ Office,Windows,2022-10-23
+1121,Ana Torres,1,HQ Office,Windows,2019-11-08
+1122,Nora Johnson,5,HQ Office,Windows,2022-10-04
+1123,Valentina Rivera,7,HQ Office,Windows,2026-03-09
+1124,Lucas Davis,4,HQ Office,macOS,2022-03-31
+1125,Camila Rivera,6,HQ Office,macOS,2025-11-15
+1126,Leo Torres,2,Remote,macOS,2026-05-22
+1127,Mia Perez,2,HQ Office,Windows,2021-09-10
+1128,Liam Rodriguez,4,Branch Office,macOS,2026-01-26
+1129,Nora Garcia,2,HQ Office,Windows,2026-05-31
+1130,Carlos Garcia,4,HQ Office,macOS,2019-12-07
+1131,Liam Moore,7,Remote,macOS,2023-11-01
+1132,Diego Torres,4,HQ Office,macOS,2020-02-17
+1133,James Walker,3,Remote,Windows,2021-05-20
+1134,Lucas Rodriguez,2,Remote,Windows,2022-01-14
+1135,Luis Walker,7,Branch Office,Windows,2024-02-14
+1136,Jack Lopez,4,HQ Office,macOS,2025-03-20
+1137,Olivia Walker,8,Branch Office,macOS,2025-08-27
+1138,Ethan Walker,4,Branch Office,macOS,2023-08-25
+1139,Lucas Martinez,4,Remote,macOS,2026-03-08
+1140,James Flores,7,HQ Office,Windows,2024-06-09
+1141,Carlos Clark,6,Remote,macOS,2025-07-06
+1142,Luis Clark,5,Remote,Windows,2023-04-18
+1143,Paula Lewis,4,HQ Office,macOS,2019-11-17
+1144,Camila Taylor,7,HQ Office,macOS,2020-07-25
+1145,Carlos Taylor,4,HQ Office,macOS,2022-01-30
+1146,Leo Rodriguez,7,Remote,macOS,2025-02-03
+1147,Mia Flores,1,Remote,Windows,2022-02-02
+1148,Valentina Walker,4,Remote,macOS,2026-01-10
+1149,Luis Martinez,4,Branch Office,macOS,2022-03-23
+1150,Grace Torres,7,Branch Office,Windows,2024-03-16
+1151,Adam Lopez,2,Branch Office,Windows,2026-05-19
+1152,Noah Martinez,7,Branch Office,macOS,2020-06-12
+1153,Lucia Martinez,6,Remote,Windows,2021-04-23
+1154,Leo Sanchez,6,Branch Office,Windows,2022-07-06
+1155,Grace Lopez,5,HQ Office,Windows,2022-08-22
+1156,Samuel Brown,8,Branch Office,Windows,2026-04-08
+1157,Liam Garcia,3,HQ Office,Windows,2021-12-21
+1158,Emma Davis,4,Remote,macOS,2023-01-07
+1159,Carlos Torres,2,Branch Office,macOS,2020-11-15
+1160,Ava Smith,1,HQ Office,Windows,2019-06-05
+1161,Paula Perez,2,Remote,Windows,2021-12-04
+1162,Daniel Moore,7,Remote,Windows,2022-03-13
+1163,Henry Smith,7,HQ Office,Windows,2020-04-15
+1164,Ava Lopez,2,HQ Office,Windows,2023-12-03
+1165,James Walker,5,HQ Office,Windows,2021-06-18
+1166,Ana Rivera,4,HQ Office,macOS,2019-06-04
+1167,Chloe Flores,5,HQ Office,Windows,2022-12-27
+1168,Nora Martinez,5,HQ Office,Windows,2020-11-18
+1169,Olivia Torres,3,Remote,macOS,2024-06-03
+1170,Isabella Perez,8,HQ Office,macOS,2019-02-19
+1171,Lucas Martinez,4,Remote,macOS,2024-09-23
+1172,Jack Perez,5,Branch Office,Windows,2023-01-10
+1173,Ana Walker,5,Remote,macOS,2026-06-10
+1174,Carlos Flores,2,HQ Office,Windows,2021-11-04
+1175,Samuel Rodriguez,1,HQ Office,Windows,2025-07-29
+1176,Diego Garcia,4,Remote,macOS,2022-10-03
+1177,Diego Walker,6,HQ Office,Windows,2026-06-08
+1178,Paula Rivera,7,HQ Office,macOS,2021-03-16
+1179,Grace Taylor,6,Remote,Windows,2025-05-20
+1180,Elena Brown,2,Branch Office,Windows,2023-11-23
+1181,Leo Taylor,7,HQ Office,Windows,2025-11-24
+1182,Mateo Ramirez,7,HQ Office,Windows,2020-04-16
+1183,James Perez,7,Remote,macOS,2022-10-29
+1184,Leo Rodriguez,4,HQ Office,Windows,2025-10-03
+1185,Jack Brown,7,Remote,Windows,2020-10-27
+1186,Isabella Lopez,1,HQ Office,macOS,2026-02-26
+1187,Liam Smith,1,Remote,Windows,2026-03-01
+1188,James Lopez,1,HQ Office,Windows,2022-09-03
+1189,Adam Rivera,2,Branch Office,Windows,2024-06-05
+1190,Lucas Smith,2,HQ Office,Windows,2022-06-20
+1191,Lucia Clark,2,Branch Office,macOS,2023-11-25
+1192,Ava Torres,4,Remote,macOS,2025-05-28
+1193,Carlos Wilson,1,HQ Office,Windows,2024-07-09
+1194,Olivia Sanchez,5,HQ Office,Windows,2021-02-27
+1195,Sofia Brown,2,Remote,Windows,2023-04-27
+1196,Emma Ramirez,6,Branch Office,Windows,2024-12-26
+1197,Isabella Clark,1,HQ Office,Windows,2023-05-03
+1198,Carlos Clark,3,Branch Office,Windows,2021-02-21
+1199,James Perez,7,HQ Office,Windows,2024-08-08
+1200,Diego Rivera,4,Remote,macOS,2024-05-13
+1201,Daniel Flores,7,HQ Office,Windows,2026-02-23
+1202,Noah Sanchez,5,Remote,macOS,2021-06-28
+1203,Grace Ramirez,5,Branch Office,macOS,2023-03-12
+1204,Mateo Lopez,2,Remote,Windows,2023-06-29
+1205,Lucas Walker,4,HQ Office,Windows,2020-08-04
+1206,Noah Moore,1,Remote,Windows,2025-11-25
+1207,Grace Flores,7,Branch Office,Windows,2023-06-05
+1208,Isabella Lopez,8,HQ Office,Windows,2019-05-28
+1209,Sofia Rivera,7,HQ Office,macOS,2021-01-05
+1210,Mateo Johnson,1,Remote,Windows,2025-01-06
+1211,Luis Taylor,3,Remote,Windows,2024-03-02
+1212,Chloe Johnson,3,HQ Office,macOS,2023-01-14
+1213,Paula Martinez,2,Remote,Windows,2022-09-07
+1214,Diego Torres,5,HQ Office,Windows,2021-10-28
+1215,Mateo Garcia,7,HQ Office,Windows,2026-01-08
+1216,Grace Rodriguez,3,Remote,Windows,2026-05-19
+1217,Lucia Martinez,7,HQ Office,Windows,2025-03-12
+1218,Camila Flores,7,HQ Office,Windows,2019-07-08
+1219,Olivia Garcia,2,HQ Office,macOS,2022-12-23
+1220,Chloe Davis,6,HQ Office,Windows,2020-12-04
+1221,Camila Flores,7,HQ Office,macOS,2022-02-23
+1222,Leo Ramirez,2,HQ Office,Windows,2023-08-24
+1223,Nora Clark,4,HQ Office,macOS,2019-07-03
+1224,Nora Rivera,5,HQ Office,Windows,2019-09-23
+1225,Liam Smith,5,HQ Office,Windows,2023-04-27
+1226,Ana Ramirez,2,HQ Office,Windows,2023-12-28
+1227,Ava Clark,6,Remote,Windows,2019-06-17
+1228,Jack Clark,5,Remote,Windows,2026-03-04
+1229,Isabella Clark,7,HQ Office,Windows,2022-04-06
+1230,Grace Garcia,7,Branch Office,macOS,2026-04-23
+1231,Luis Garcia,3,Branch Office,Windows,2020-01-07
+1232,Valentina Torres,6,HQ Office,Windows,2025-08-17
+1233,Elena Moore,7,HQ Office,Windows,2026-03-13
+1234,Nora Lopez,7,Remote,macOS,2025-01-04
+1235,Noah Smith,2,HQ Office,Windows,2025-01-08
+1236,Emma Taylor,1,Remote,Windows,2020-04-29
+1237,Henry Garcia,5,HQ Office,Windows,2020-04-02
+1238,Elena Clark,2,Branch Office,Windows,2026-03-25
+1239,Carlos Davis,4,Remote,Windows,2022-03-23
+1240,Daniel Lewis,7,Remote,Windows,2020-07-05
+1241,Elena Garcia,4,HQ Office,macOS,2023-09-14
+1242,Luis Perez,2,Branch Office,Windows,2025-06-23
+1243,Olivia Garcia,4,HQ Office,Windows,2026-03-31
+1244,Mateo Torres,5,Remote,Windows,2025-07-17
+1245,Valentina Sanchez,2,HQ Office,Windows,2019-06-25
+1246,Camila Brown,4,HQ Office,Windows,2023-08-20
+1247,Daniel Rivera,2,Remote,Windows,2021-10-19
+1248,Sofia Ramirez,6,HQ Office,Windows,2022-11-19
+1249,Isabella Davis,7,HQ Office,Windows,2023-07-08
+1250,Emma Flores,4,Remote,macOS,2020-06-29
+1251,Mateo Rodriguez,4,HQ Office,macOS,2019-05-15
+1252,Adam Walker,4,HQ Office,macOS,2022-11-14
+1253,Sofia Lopez,2,HQ Office,macOS,2026-02-08
+1254,Mia Rivera,2,HQ Office,Windows,2021-03-02
+1255,Ana Garcia,3,HQ Office,macOS,2023-03-04
+1256,Jack Clark,4,Branch Office,Windows,2026-06-12
+1257,Isabella Lopez,1,Remote,Windows,2021-07-25
+1258,Ana Wilson,6,Branch Office,Windows,2019-12-15
+1259,Valentina Moore,5,Branch Office,Windows,2019-11-03
+1260,Ava Smith,3,HQ Office,Windows,2024-12-20
+1261,Noah Brown,1,Branch Office,Windows,2026-04-02
+1262,Nora Johnson,6,Remote,Windows,2025-11-15
+1263,Elena Clark,2,Branch Office,Windows,2024-06-08
+1264,Chloe Brown,2,Remote,Windows,2020-01-22
+1265,Sofia Perez,2,Branch Office,Windows,2025-11-24
+1266,Henry Davis,1,HQ Office,macOS,2019-02-06
+1267,Henry Brown,7,Branch Office,Windows,2021-01-04
+1268,Mia Walker,2,HQ Office,Windows,2020-12-18
+1269,James Taylor,3,HQ Office,macOS,2024-07-18
+1270,Valentina Ramirez,7,Branch Office,Windows,2020-01-01
+1271,James Clark,5,Remote,Windows,2026-03-20
+1272,Noah Lewis,2,HQ Office,Windows,2020-05-28
+1273,Ana Lopez,4,Branch Office,macOS,2025-06-04
+1274,Lucas Garcia,7,Remote,Windows,2023-05-07
+1275,Elena Perez,4,HQ Office,macOS,2020-11-11
+1276,Samuel Martinez,6,HQ Office,Windows,2022-02-23
+1277,Adam Smith,2,HQ Office,Windows,2019-11-09
+1278,Daniel Walker,6,Branch Office,Windows,2022-03-14
+1279,Paula Moore,6,Branch Office,Windows,2024-02-28
+1280,Adam Wilson,7,Branch Office,Windows,2020-07-13
+1281,Ava Johnson,6,HQ Office,Windows,2026-03-04
+1282,Grace Torres,4,Remote,Windows,2023-12-15
+1283,Luis Taylor,1,Remote,Windows,2021-09-27
+1284,Camila Martinez,4,HQ Office,macOS,2021-02-27
+1285,Ethan Rivera,6,HQ Office,Windows,2024-10-13
+1286,Henry Rivera,2,HQ Office,Windows,2021-12-22
+1287,Ethan Walker,2,Remote,macOS,2026-01-22
+1288,Nora Lewis,4,Remote,macOS,2022-06-15
+1289,Mateo Taylor,6,HQ Office,Windows,2024-03-21
+1290,Mateo Davis,7,HQ Office,Windows,2025-09-27
+1291,James Ramirez,2,HQ Office,Windows,2026-01-30
+1292,Jack Martinez,2,HQ Office,macOS,2020-11-01
+1293,Ethan Moore,7,Remote,Windows,2022-03-24
+1294,Camila Garcia,5,HQ Office,Windows,2024-05-10
+1295,Lucia Smith,6,HQ Office,Windows,2022-01-22
+1296,Daniel Clark,8,HQ Office,Windows,2021-04-22
+1297,Lucas Davis,7,Branch Office,Windows,2023-08-14
+1298,Mia Ramirez,7,Remote,macOS,2025-08-31
+1299,Olivia Torres,6,HQ Office,Windows,2026-03-26
+1300,Mia Lewis,4,HQ Office,macOS,2021-12-08
+1301,Nora Moore,5,HQ Office,Windows,2024-09-04
+1302,Ana Lewis,2,Remote,macOS,2022-10-07
+1303,Lucia Ramirez,6,Remote,Windows,2021-04-24
+1304,Leo Walker,6,HQ Office,Windows,2025-07-15
+1305,Mateo Flores,6,Remote,Windows,2023-07-17
+1306,Ethan Smith,4,HQ Office,macOS,2024-01-06
+1307,Ethan Lopez,4,Remote,Windows,2025-01-22
+1308,Lucia Rodriguez,4,HQ Office,macOS,2019-09-14
+1309,Lucia Lopez,1,Remote,Windows,2025-05-05
+1310,Jack Martinez,7,HQ Office,Windows,2026-03-14
+1311,Olivia Flores,4,HQ Office,macOS,2019-02-01
+1312,Lucia Smith,4,Branch Office,Windows,2026-05-20
+1313,Mateo Martinez,4,Branch Office,Windows,2021-01-27
+1314,Paula Torres,6,HQ Office,Windows,2026-05-01
+1315,Henry Brown,4,HQ Office,macOS,2024-03-26
+1316,Samuel Lopez,7,HQ Office,Windows,2021-03-29
+1317,Camila Rivera,7,HQ Office,Windows,2026-01-15
+1318,Henry Torres,4,HQ Office,macOS,2026-02-20
+1319,Emma Wilson,2,HQ Office,Windows,2023-04-01
+1320,James Johnson,6,HQ Office,Windows,2019-02-11
+1321,Camila Lopez,8,HQ Office,Windows,2024-01-20
+1322,Adam Rivera,2,Branch Office,macOS,2020-03-15
+1323,Ethan Torres,6,HQ Office,Windows,2021-05-26
+1324,Nora Garcia,7,HQ Office,Windows,2020-08-03
+1325,Liam Clark,7,HQ Office,Windows,2025-10-24
+1326,Liam Rodriguez,2,Remote,Windows,2026-05-09
+1327,Paula Clark,1,HQ Office,Windows,2023-01-11
+1328,Mateo Lopez,8,HQ Office,Windows,2022-07-08
+1329,Isabella Johnson,2,Remote,macOS,2023-02-11
+1330,Jack Smith,2,HQ Office,macOS,2023-06-01
+1331,Carlos Lopez,5,Remote,Windows,2019-10-07
+1332,Diego Flores,4,Remote,macOS,2021-05-16
+1333,Lucia Flores,6,HQ Office,Windows,2023-03-24
+1334,Grace Ramirez,2,Remote,Windows,2019-10-23
+1335,Olivia Clark,7,HQ Office,Windows,2025-01-13
+1336,Isabella Martinez,2,HQ Office,macOS,2025-01-16
+1337,Jack Rodriguez,6,HQ Office,Windows,2026-04-13
+1338,Adam Flores,1,Branch Office,macOS,2024-12-29
+1339,Elena Rivera,4,Remote,macOS,2022-03-13
+1340,Mia Wilson,1,HQ Office,Windows,2026-03-16
+1341,Liam Torres,3,Remote,Windows,2022-06-21
+1342,Diego Walker,3,HQ Office,Windows,2020-01-10
+1343,Emma Rivera,6,HQ Office,Windows,2020-04-23
+1344,Liam Lopez,4,Remote,macOS,2023-01-15
+1345,Nora Ramirez,1,Branch Office,Windows,2019-07-31
+1346,Chloe Rodriguez,8,HQ Office,Windows,2026-01-20
+1347,Mia Perez,7,Remote,Windows,2021-05-25
+1348,Olivia Perez,7,HQ Office,Windows,2022-03-11
+1349,James Lopez,2,HQ Office,Windows,2025-09-08
+1350,Ava Smith,4,HQ Office,macOS,2025-06-09
+1351,Paula Torres,2,Remote,macOS,2022-07-01
+1352,Adam Ramirez,2,HQ Office,macOS,2021-11-27
+1353,Adam Lewis,1,Remote,Windows,2025-01-21
+1354,Liam Martinez,4,Branch Office,macOS,2022-10-22
+1355,Daniel Brown,2,HQ Office,Windows,2024-06-28
+1356,Lucia Sanchez,2,Branch Office,Windows,2019-11-07
+1357,Adam Walker,7,HQ Office,Windows,2024-04-20
+1358,Elena Perez,4,Branch Office,Windows,2023-03-14
+1359,Grace Brown,2,Remote,Windows,2020-07-29
+1360,Leo Sanchez,6,Branch Office,Windows,2024-09-17
+1361,Camila Rivera,2,Remote,Windows,2022-12-31
+1362,Mateo Flores,4,HQ Office,macOS,2024-06-13
+1363,Lucia Flores,2,Remote,Windows,2025-03-04
+1364,Emma Wilson,4,HQ Office,macOS,2020-11-30
+1365,Camila Lopez,5,Remote,macOS,2026-06-16
+1366,Diego Flores,4,Remote,macOS,2026-03-10
+1367,Paula Torres,4,Remote,macOS,2022-11-08
+1368,Noah Flores,7,HQ Office,macOS,2024-05-13
+1369,Sofia Rodriguez,7,HQ Office,Windows,2024-09-30
+1370,Sofia Lopez,2,Remote,Windows,2022-02-27
+1371,Henry Brown,2,Remote,Windows,2024-12-31
+1372,Chloe Flores,2,HQ Office,Windows,2022-02-03
+1373,Mia Walker,8,Remote,macOS,2025-08-06
+1374,James Rodriguez,7,HQ Office,Windows,2024-10-22
+1375,Camila Flores,2,HQ Office,Windows,2023-01-05
+1376,Lucas Rodriguez,8,Remote,Windows,2020-04-23
+1377,Sofia Wilson,2,HQ Office,Windows,2025-03-02
+1378,Lucas Sanchez,4,HQ Office,macOS,2023-10-08
+1379,Camila Brown,4,HQ Office,macOS,2023-04-05
+1380,Ava Lopez,7,HQ Office,Windows,2024-05-10
+1381,Sofia Lopez,1,HQ Office,Windows,2026-05-30
+1382,Grace Lopez,3,HQ Office,Windows,2022-11-06
+1383,Isabella Taylor,5,Remote,macOS,2021-11-16
+1384,Ana Johnson,1,Branch Office,Windows,2025-07-04
+1385,Luis Torres,2,Branch Office,Windows,2023-11-03
+1386,Mia Martinez,4,Remote,macOS,2022-06-29
+1387,Liam Wilson,7,HQ Office,Windows,2020-05-09
+1388,Carlos Moore,6,HQ Office,Windows,2022-06-19
+1389,Samuel Johnson,7,HQ Office,Windows,2025-12-23
+1390,Adam Wilson,6,HQ Office,Windows,2021-02-13
+1391,Jack Sanchez,6,Remote,macOS,2026-02-23
+1392,Paula Sanchez,7,HQ Office,Windows,2025-11-07
+1393,Lucas Flores,6,HQ Office,Windows,2025-04-21
+1394,Paula Torres,6,Branch Office,Windows,2021-05-10
+1395,Grace Johnson,3,HQ Office,Windows,2024-12-02
+1396,Lucia Lewis,2,HQ Office,macOS,2024-03-07
+1397,Daniel Taylor,6,Branch Office,Windows,2025-09-09
+1398,Daniel Ramirez,2,Remote,Windows,2026-03-28
+1399,Carlos Martinez,7,HQ Office,Windows,2023-08-12
+1400,Mia Perez,5,Branch Office,Windows,2025-12-21
+1401,Diego Ramirez,3,HQ Office,Windows,2025-10-22
+1402,Camila Torres,7,HQ Office,Windows,2026-01-24
+1403,Olivia Lewis,2,Branch Office,Windows,2019-10-04
+1404,Olivia Brown,4,HQ Office,macOS,2019-03-23
+1405,Leo Lewis,1,HQ Office,Windows,2026-02-21
+1406,Carlos Sanchez,8,Branch Office,Windows,2026-05-31
+1407,Nora Ramirez,5,Branch Office,Windows,2022-02-07
+1408,Valentina Flores,7,HQ Office,Windows,2023-07-05
+1409,James Wilson,2,Remote,macOS,2022-02-08
+1410,Leo Walker,7,HQ Office,Windows,2026-04-16
+1411,Leo Flores,6,Remote,macOS,2025-10-16
+1412,Noah Lewis,5,HQ Office,Windows,2026-01-19
+1413,Lucas Rodriguez,7,HQ Office,Windows,2021-04-09
+1414,James Taylor,4,HQ Office,Windows,2019-05-15
+1415,Paula Martinez,4,Remote,Windows,2019-11-13
+1416,James Torres,6,HQ Office,Windows,2023-02-03
+1417,Mateo Flores,7,Branch Office,Windows,2024-09-22
+1418,Lucia Martinez,3,Remote,Windows,2020-05-19
+1419,Emma Clark,6,Remote,Windows,2022-12-14
+1420,Diego Ramirez,2,HQ Office,Windows,2021-09-28
+1421,Lucia Smith,4,Branch Office,macOS,2023-11-14
+1422,Samuel Walker,6,Branch Office,Windows,2021-04-09
+1423,Elena Perez,1,Remote,Windows,2025-08-04
+1424,Chloe Lopez,6,HQ Office,Windows,2026-04-28
+1425,Chloe Smith,1,HQ Office,Windows,2020-04-23
+1426,Liam Torres,8,HQ Office,Windows,2026-01-22
+1427,Lucas Davis,4,HQ Office,macOS,2023-10-21
+1428,Grace Taylor,4,Branch Office,Windows,2025-12-24
+1429,Mateo Martinez,6,HQ Office,Windows,2025-11-16
+1430,Ava Moore,4,HQ Office,macOS,2021-06-14
+1431,Camila Rodriguez,6,HQ Office,Windows,2026-05-31
+1432,Grace Lewis,1,HQ Office,Windows,2023-03-31
+1433,Sofia Ramirez,4,HQ Office,Windows,2022-03-27
+1434,Samuel Clark,4,Remote,Windows,2019-01-17
+1435,Mia Lopez,7,HQ Office,Windows,2025-01-23
+1436,Mateo Garcia,1,HQ Office,macOS,2021-10-10
+1437,Lucas Flores,4,Remote,macOS,2019-07-06
+1438,Jack Walker,5,HQ Office,Windows,2026-02-28
+1439,Ana Moore,4,HQ Office,macOS,2021-12-26
+1440,Luis Walker,1,Remote,Windows,2019-11-20
