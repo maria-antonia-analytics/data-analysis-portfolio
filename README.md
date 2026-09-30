@@ -17,7 +17,7 @@ support data-driven decisions.
 | # | Project | Tools | Status | Highlights |
 |---|---|---|---|---|
 | 1 | [IT Support Ticket Analysis](01-excel-it-ticket-analysis) | Excel | ✅ Complete | 1,200 tickets analyzed. Found that Network/Hardware tickets drive 62% of SLA breaches, with recommendations to lift SLA compliance from 64.5% to about 77% |
-| 2 | Incident & User Analysis | SQL | 🔜 Coming soon | |
+| 2 | [Incident & User Analysis](02-sql-incident-user-analysis) | SQL | ✅ Complete | 10 queries (JOINs, CTEs, window functions) on a 5-table database of 2,031 incidents. Found that 10% of users log 37% of incidents and new hires need 3.6x more IT help |
 | 3 | System Log & Performance Analysis | Python | 🔜 Coming soon | |
 | 4 | IT Operations Dashboard | Power BI | 🔜 Coming soon | |
 
