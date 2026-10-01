@@ -7,6 +7,8 @@
 > **Data note:** unlike projects 1 and 2, this data is real. The two raw logs (`Linux.log` and `Apache.log`) come from [Loghub](https://github.com/logpai/loghub), a public collection of system logs that is freely available for research and academic work. Both logs were recorded on the same server (hostname `combo`).
 > Citation: Jieming Zhu, Shilin He, Pinjia He, Jinyang Liu, Michael R. Lyu. *Loghub: A Large Collection of System Log Datasets for AI-driven Log Analytics.* ISSRE, 2023.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maria-antonia-analytics/data-analysis-portfolio/blob/main/03-python-system-log-analysis/notebooks/system_log_analysis.ipynb)
+
 ## 🎯 Business questions
 
 1. Can the logs be trusted, and what is missing from them?
@@ -106,5 +108,7 @@ python src/parse_logs.py
 # 2. Open the notebook and run all cells
 jupyter notebook notebooks/system_log_analysis.ipynb
 ```
+
+No Python installed? Click the "Open in Colab" badge at the top and choose Runtime > Run all. The first cell downloads the project files.
 
 The clean CSV files are already in `data/clean/`, so the notebook also runs without step 1.
