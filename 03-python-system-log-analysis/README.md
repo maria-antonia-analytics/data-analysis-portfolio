@@ -1,7 +1,7 @@
 # Python – System Log & Performance Analysis
 
-**Tools:** Python (Pandas, Matplotlib, Seaborn), regular expressions, Jupyter Notebook
-**Data:** 77,553 parsed log events from one Linux server over 265 days (9 June 2005 to 28 February 2006): 25,549 system log events and 52,004 Apache web server events
+**Tools:** Python (Pandas, Matplotlib, Seaborn), regular expressions, Jupyter Notebook  
+**Data:** 77,553 parsed log events from one Linux server over 265 days (9 June 2005 to 28 February 2006): 25,549 system log events and 52,004 Apache web server events  
 **Files:** [`src/parse_logs.py`](src/parse_logs.py) · [`notebooks/system_log_analysis.ipynb`](notebooks/system_log_analysis.ipynb) · `data/` · `images/`
 
 > **Data note:** unlike projects 1 and 2, this data is real. The two raw logs (`Linux.log` and `Apache.log`) come from [Loghub](https://github.com/logpai/loghub), a public collection of system logs that is freely available for research and academic work. Both logs were recorded on the same server (hostname `combo`).
